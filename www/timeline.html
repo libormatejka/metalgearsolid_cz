@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MetalGearSolid.cz | Timeline</title>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MLL2HZ8G');</script>
+  <!-- End Google Tag Manager -->
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --gold:  #c9a84c;
+      --green: #4caf82;
+      --bg:    #0d0d0d;
+      --card:  #1a1a1a;
+      --line:  #2a2a2a;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: #e8e8e8;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      overflow-x: hidden;
+    }
+
+    /* ── NAV ── */
+    .nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      padding: 0.75rem 1.5rem;
+      background: rgba(13,13,13,0.92);
+      backdrop-filter: blur(6px);
+      border-bottom: 1px solid #1e1e1e;
+    }
+
+    .nav .nav-left { display: flex; align-items: center; gap: 0.25rem; margin-right: auto; }
+
+    .nav a {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.4rem 0.9rem;
+      border-radius: 4px;
+      text-decoration: none;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      color: #aaa;
+      transition: color 0.2s, background 0.2s;
+    }
+
+    .nav a:hover { color: #fff; background: rgba(255,255,255,0.07); }
+    .nav a.back  { color: var(--gold); }
+    .nav svg { width: 15px; height: 15px; fill: currentColor; flex-shrink: 0; }
+
+    /* ── PAGE HEADER ── */
+    .page-header {
+      padding: 6rem 1.5rem 2.5rem;
+      text-align: center;
+    }
+
+    .page-header h1 {
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      font-weight: 800;
+      color: var(--gold);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .page-header p {
+      margin-top: 0.5rem;
+      color: #666;
+      font-size: 0.85rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    /* ── SECTION JUMP NAV ── */
+    .section-nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      padding: 0 1.5rem 3rem;
+    }
+
+    .section-nav a {
+      padding: 0.4rem 1.1rem;
+      border: 1px solid #2a2a2a;
+      border-radius: 20px;
+      text-decoration: none;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #888;
+      letter-spacing: 0.04em;
+      transition: border-color 0.2s, color 0.2s;
+    }
+
+    .section-nav a:hover { border-color: var(--gold); color: var(--gold); }
+
+    /* ── SECTION ── */
+    .section {
+      max-width: 860px;
+      margin: 0 auto 5rem;
+      padding: 0 1.5rem;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .section-header h2 {
+      display: inline-block;
+      font-size: clamp(1.1rem, 3vw, 1.6rem);
+      font-weight: 700;
+      color: #e8e8e8;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding-bottom: 0.6rem;
+      border-bottom: 2px solid var(--gold);
+    }
+
+    .section-header .subtitle {
+      margin-top: 0.7rem;
+      font-size: 0.8rem;
+      color: #666;
+      letter-spacing: 0.04em;
+    }
+
+    /* ── LEGEND ── */
+    .legend {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-top: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.75rem;
+      color: #666;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.1rem 0.45rem;
+      border-radius: 3px;
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+
+    .badge-1  { background: rgba(201,168,76,0.15);  color: var(--gold);  border: 1px solid rgba(201,168,76,0.3);  }
+    .badge-2  { background: rgba(76,175,130,0.12);  color: var(--green); border: 1px solid rgba(76,175,130,0.3);  }
+
+    /* ── TIMELINE ── */
+    .timeline {
+      position: relative;
+      padding: 0.5rem 0;
+    }
+
+    /* center vertical line */
+    .timeline::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 50%;
+      width: 2px;
+      background: linear-gradient(to bottom, transparent, var(--line) 5%, var(--line) 95%, transparent);
+      transform: translateX(-50%);
+    }
+
+    .tl-entry {
+      display: flex;
+      align-items: flex-start;
+      gap: 0;
+      margin-bottom: 2rem;
+      position: relative;
+    }
+
+    /* odd = card left, year right */
+    .tl-entry:nth-child(odd)  { flex-direction: row; }
+    .tl-entry:nth-child(even) { flex-direction: row-reverse; }
+
+    .tl-card {
+      width: calc(50% - 2.5rem);
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      padding: 0.9rem 1.1rem;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .tl-card:hover {
+      border-color: var(--gold);
+      box-shadow: 0 4px 16px rgba(201,168,76,0.1);
+    }
+
+    .tl-card-title {
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #e8e8e8;
+      line-height: 1.4;
+    }
+
+    .tl-card-note {
+      margin-top: 0.4rem;
+      font-size: 0.75rem;
+      color: #666;
+      line-height: 1.4;
+    }
+
+    .tl-card-flags {
+      margin-top: 0.45rem;
+      display: flex;
+      gap: 0.35rem;
+    }
+
+    /* center dot + year */
+    .tl-center {
+      width: 5rem;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 0.6rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .tl-dot {
+      width: 12px;
+      height: 12px;
+      background: var(--gold);
+      border-radius: 50%;
+      border: 2px solid var(--bg);
+      box-shadow: 0 0 0 2px var(--gold);
+      flex-shrink: 0;
+    }
+
+    .tl-year {
+      margin-top: 0.3rem;
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: var(--gold);
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+    }
+
+    /* spacer on the opposite side */
+    .tl-spacer {
+      width: calc(50% - 2.5rem);
+    }
+
+    /* ── MOBILE ── */
+    @media (max-width: 600px) {
+      .timeline::before { left: 1.2rem; }
+
+      .tl-entry,
+      .tl-entry:nth-child(even) { flex-direction: row; }
+
+      .tl-center { width: 2.8rem; align-items: center; }
+
+      .tl-card   { width: auto; flex: 1; }
+      .tl-spacer { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLL2HZ8G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+  <nav class="nav">
+    <div class="nav-left">
+      <a class="back" href="index.html">
+        <svg viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
+        Zpět
+      </a>
+    </div>
+    <a href="https://www.facebook.com/metalgearhideout" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24"><path d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047V9.41c0-3.025 1.791-4.697 4.533-4.697 1.312 0 2.686.235 2.686.235v2.97h-1.513c-1.491 0-1.956.93-1.956 1.886v2.268h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z"/></svg>
+      Facebook
+    </a>
+    <a href="https://discord.gg/YpwafGVy" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24"><path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03z"/></svg>
+      Discord
+    </a>
+  </nav>
+
+  <header class="page-header">
+    <h1>Timeline</h1>
+    <p>Metal Gear Solid Universe</p>
+  </header>
+
+  <nav class="section-nav" id="section-nav"></nav>
+
+  <main id="main"></main>
+
+  <script>
+    fetch('timeline.json')
+      .then(r => r.json())
+      .then(render);
+
+    function render(sections) {
+      const nav  = document.getElementById('section-nav');
+      const main = document.getElementById('main');
+
+      nav.innerHTML = sections.map(s =>
+        `<a href="#${esc(s.id)}">${esc(s.title)}</a>`
+      ).join('');
+
+      main.innerHTML = sections.map(renderSection).join('');
+    }
+
+    function renderSection(s) {
+      const legendHtml = s.legend ? `
+        <div class="legend">
+          ${s.legend.map(l => `
+            <div class="legend-item">
+              <span class="badge ${l.flag === '#' ? 'badge-1' : 'badge-2'}">${esc(l.flag)}</span>
+              ${esc(l.label)}
+            </div>`).join('')}
+        </div>` : '';
+
+      const subtitleHtml = s.subtitle
+        ? `<p class="subtitle">${esc(s.subtitle)}</p>` : '';
+
+      return `
+        <section class="section" id="${esc(s.id)}">
+          <div class="section-header">
+            <h2>${esc(s.title)}</h2>
+            ${subtitleHtml}
+            ${legendHtml}
+          </div>
+          <div class="timeline">
+            ${s.entries.map(renderEntry).join('')}
+          </div>
+        </section>`;
+    }
+
+    function renderEntry(e, i) {
+      const flagsHtml = e.flag ? `
+        <div class="tl-card-flags">
+          <span class="badge ${e.flag === '#' ? 'badge-1' : 'badge-2'}">${esc(e.flag)}</span>
+        </div>` : '';
+
+      const noteHtml = e.note
+        ? `<div class="tl-card-note">${esc(e.note)}</div>` : '';
+
+      const card = `
+        <div class="tl-card">
+          <div class="tl-card-title">${esc(e.title)}</div>
+          ${noteHtml}
+          ${flagsHtml}
+        </div>`;
+
+      return `
+        <div class="tl-entry">
+          ${card}
+          <div class="tl-center">
+            <div class="tl-dot"></div>
+            <div class="tl-year">${esc(e.year)}</div>
+          </div>
+          <div class="tl-spacer"></div>
+        </div>`;
+    }
+
+    function esc(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/"/g, '&quot;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+    }
+  </script>
+</body>
+</html>

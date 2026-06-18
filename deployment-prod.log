@@ -9011,3 +9011,45 @@ Finished at [2026/06/14 18:41] (in 1 seconds)
 ----------------------------------------------
 
 
+Creating temporary directory /tmp/deployment
+Started at [2026/06/15 16:49]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 4) /www/timeline.json
+(2 of 4) /www/timeline.html
+(3 of 4) /www/index.html
+(4 of 4) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 4) Renaming /www/timeline.json
+(2 of 4) Renaming /www/timeline.html
+(3 of 4) Renaming /www/index.html
+(4 of 4) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/15 16:49] (in 0 seconds)
+----------------------------------------------
+
+

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "release-order",
+    "title": "Pořadí vydání",
+    "legend": [
+      { "flag": "#", "label": "Sporná kanonicita" },
+      { "flag": "##", "label": "Nekanonický / spin-off" }
+    ],
+    "entries": [
+      { "title": "Metal Gear",                              "year": "1987", "flag": "#"  },
+      { "title": "Metal Gear 2: Solid Snake",               "year": "1990", "flag": "#"  },
+      { "title": "Metal Gear Solid",                        "year": "1998"               },
+      { "title": "Metal Gear Solid 2: Sons of Liberty",     "year": "2001"               },
+      { "title": "Metal Gear Solid 3: Snake Eater",         "year": "2004"               },
+      { "title": "Metal Gear Solid: Portable Ops",          "year": "2006", "flag": "##" },
+      { "title": "Metal Gear Solid 4: Guns of the Patriots","year": "2008"               },
+      { "title": "Metal Gear Solid: Peace Walker",          "year": "2010"               },
+      { "title": "Metal Gear Rising: Revengeance",          "year": "2013", "flag": "##" },
+      { "title": "Metal Gear Solid V: Ground Zeroes",       "year": "2014"               },
+      { "title": "Metal Gear Solid V: The Phantom Pain",    "year": "2015"               },
+      { "title": "Metal Gear Survive",                      "year": "2018", "flag": "##" }
+    ]
+  },
+  {
+    "id": "chronological",
+    "title": "Chronologické pořadí",
+    "subtitle": "Pořadí událostí ve fiktivním světě MGS",
+    "entries": [
+      { "title": "Metal Gear Solid 3: Snake Eater",         "year": "1964"      },
+      { "title": "Metal Gear Solid: Portable Ops",          "year": "1970"      },
+      { "title": "Metal Gear Solid: Peace Walker",          "year": "1974"      },
+      { "title": "Metal Gear Solid V: Ground Zeroes",       "year": "1975"      },
+      { "title": "Metal Gear Solid V: The Phantom Pain",    "year": "1984"      },
+      { "title": "Metal Gear",                              "year": "1995"      },
+      { "title": "Metal Gear 2: Solid Snake",               "year": "1999"      },
+      { "title": "Metal Gear Solid",                        "year": "2005"      },
+      { "title": "Metal Gear Solid 2: Sons of Liberty",     "year": "2007–2009" },
+      { "title": "Metal Gear Solid 4: Guns of the Patriots","year": "2014"      },
+      { "title": "Metal Gear Rising: Revengeance",          "year": "2018"      }
+    ]
+  },
+  {
+    "id": "spinoffs",
+    "title": "Spin-offy",
+    "entries": [
+      { "title": "Metal Gear (NES)",             "year": "1987" },
+      { "title": "Snake's Revenge",              "year": "1990" },
+      { "title": "Metal Gear Solid: VR Missions","year": "1999", "note": "Samostatné vydání VR Missions z MGS: Integral" },
+      { "title": "Metal Gear Solid (GBC)",       "year": "2000", "note": "V Japonsku vydáno jako Metal Gear: Ghost Babel" },
+      { "title": "Metal Gear Acid",              "year": "2004" },
+      { "title": "Metal Gear Acid 2",            "year": "2005" },
+      { "title": "Metal Gear Solid Mobile",      "year": "2008" },
+      { "title": "Metal Gear Solid: Touch",      "year": "2009" },
+      { "title": "Metal Gear Arcade",            "year": "2010" },
+      { "title": "Metal Gear Solid: Social Ops", "year": "2012" }
+    ]
+  },
+  {
+    "id": "remakes",
+    "title": "Reedice a kolekce",
+    "entries": [
+      { "title": "Metal Gear Solid: Integral",                        "year": "1999" },
+      { "title": "Metal Gear Solid 2: Substance",                     "year": "2002" },
+      { "title": "Metal Gear Solid: The Twin Snakes",                 "year": "2004" },
+      { "title": "Metal Gear Solid 3: Subsistence",                   "year": "2005" },
+      { "title": "Metal Gear 1 & Metal Gear 2: Solid Snake",          "year": "2005", "note": "Aktualizované verze obsažené v Subsistence" },
+      { "title": "Metal Gear Solid: Portable Ops Plus",               "year": "2007" },
+      { "title": "Metal Gear Solid: The Essential Collection",        "year": "2008", "note": "Fyzická kolekce obsahující MGS1–3" },
+      { "title": "Metal Gear Solid: HD Collection",                   "year": "2011", "note": "Obsahuje MGS2, MGS3 a Peace Walker" },
+      { "title": "Metal Gear Solid: Snake Eater 3D",                  "year": "2012" },
+      { "title": "Metal Gear Solid: The Legacy Collection",           "year": "2013", "note": "Obsahuje MG1–2, MGS1–PW, digitální grafické romány MGS1 a MGS2" },
+      { "title": "Metal Gear Solid V: The Definitive Experience",     "year": "2016", "note": "Obsahuje MGSV:GZ a MGSV:TPP" },
+      { "title": "Metal Gear Solid: Master Collection Vol. 1",        "year": "2023", "note": "Obsahuje MG1–2, MGS1–3, Metal Gear (NES), Snake's Revenge, digitální grafické romány MGS1 a MGS2" },
+      { "title": "Metal Gear Solid Δ: Snake Eater",                   "year": "2025" },
+      { "title": "Metal Gear Solid: Master Collection Vol. 2",        "year": "2026", "note": "Obsahuje MGS4, MGS: Peace Walker, Metal Gear: Ghost Babel" }
+    ]
+  }
+]
