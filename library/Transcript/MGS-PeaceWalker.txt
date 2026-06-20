@@ -1,0 +1,6682 @@
+Metal Gear Solid Peace Walker
+Game Script
+
+=+=+=+=+=+=+=+=+=+
+Table of Contents
+=+=+=+=+=+=+=+=+=+
+
+MAIN OPS
+
+Prologue	AN ARMY WITHOUT BORDERS
+Chapter 1	A COUNTRY WITHOUT AN ARMY
+Chapter 2	THE PHANTOM HERO 
+Chapter 3	A NATION REBORN
+Chapter 4	THE ILLUSION OF PEACE
+Chapter 5	OUTER HEAVEN
+
+EXRA OPS
+
+E.O. 		LYRICS
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+Peace Amongst men living alongside one
+another is not a natural state.
+
+On the contrary, the natural state of man
+is that of war.
+
+War manifested not only by open hostilities,
+but also by the constant threat of hostility.
+
+Peace, therefore, is a state that must be
+established by law.
+
+- Immanuel Kant, "Perpetual Peace" Chapter 2
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+The year was 1964.
+
+The world was firmly in the grip of the Cold
+War, divided into East and West.
+
+One of America's heroes had defected to the
+Soviet Union.
+
+She was known as "The Boss," the mother of
+the special forces, and the soldier said to
+have led the Allies to victory in World
+War II.
+
+However, the American-made miniature nuclear
+warhead she took with her was used to
+destroy a Soviet research facility.
+
+Facing full-scale nuclear war, the leaders
+of the world's superpowers held top-secret
+talks to avert Armageddon.
+
+The Soviet Union wanted assurance that this
+was not the work of Uncle Sam.
+
+They wanted America to eliminate one of its
+most legendary soldiers, The Boss.
+
+The person assigned this mission was her
+closest apprentice, the soldier known
+as "Snake."
+
+Snake made the anguished journey into enemy
+territory, eventually confronting and
+killing The Boss at a fortress called
+Groznjy Grad, proving America's innocence 
+and avoiding nuclear holocaust.
+
+Having saved the world, Snake was hailed a
+true hero and given the title "Big Boss."
+
+Following the award ceremony, however, Snake
+disappeared.
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+November 4. 1974 15:42
+Barranquilla Coast, Colombia
+
+[A motorcycle stops alongside a cabin overlooking
+a beach. The driver of the bike is non other than
+Naked Snake the hero of Operation Snake Eater.
+Snake decends to the beach passing a sign post
+that reads Militaires San Frontieres (An Army
+Without Borders). On the beach several of Snakes
+soldiers are sparring one notices their COs
+approach and goes to greet him.]
+
+Soldier		Boss!
+
+[After accepting the sparring offer the game goes
+into a tutorial of combat scenarios; the sparring
+ends when a jeep drives onto the beach. The driver
+is Snake's 2nd in command.]
+
+Miller		Snake!
+
+Snake		What's going on, Kaz?
+
+Miller		We've got Guests.
+
+Snake		Time to Move?
+
+Miller		Don't worry. It's not our friends
+		from Langly.
+
+		I brought 'em. Made sure we weren't
+		followed.
+
+Soldier		Thank you, Big Boss!
+
+Snake		Call me Snake.
+
+Soldier		Oh, uh, sorry... Vic Boss!
+
+Snake		Listen up. For us, there is no
+		victory.
+
+Soldier		But in revolution, doesn't one
+		triumph or die?
+
+Snake		We don't do either.
+
+[Inside the cabin, Miller hands Galvez a cup of
+coffee before he and Snake ask questions.]
+
+Miller		Here.
+
+Gálvez		Thank you.
+
+[Galvez places the cup down after drinking.]
+
+Gálvez		I feel like a new man! There's no
+		coffee like Costa Rican coffee.
+
+Snake		So, what brings a distinguished
+		scholar from the Costa Rican
+		government to Colombia?
+
+Miller		Professor Galvez comes from Costa
+		Rica's University for Peace.
+
+Gálvez		You see, over the past year, there
+		have been sightings of an armed
+		group in Costa Rica. They're not
+		ours, of course.
+
+Miller		Costa Rica doesn't have an army.
+
+Gálvez		Correct. Article 12 of our
+		Constitution states that "The
+		Army as a permanent institution
+		is abolished."
+
+Paz		The peace constitution...
+
+Snake		You think it's rebels who've fled
+		Nicaragua?
+
+Gálvez		No no... They don't appear to be
+		guerillas. They're far too organized.
+
+Snake		What's your government's take?
+
+[Galvez slams his cup onto the table in anger.]
+
+Gálvez		The authorities in San Jose claim
+		it's a multinational security firm
+		hired by the Development Corporation
+		of Costa Rica (CODESA).
+
+		Lies, obviously.
+
+		They're bringing in state-of-the-art
+		weaponry and equipment by the
+		shipload.
+
+Snake		Where'd they get that kind of cash?
+
+Gálvez		...I fear LA CIA may be involved.
+
+Miller		The CIA?
+
+Gálvez		As you both know, the United States
+		views Central America as its
+		backyard...
+
+		Even after Cuba, we've managed to
+		maintain a delicate balance with
+		the U.S.
+
+Snake		And your government can't just give
+		'em the boot?
+
+Paz		We are not allowed to bear arms.
+
+Miller		Japan's Constitution has something
+		similar: Article 9. It says Japan
+		renounces war, and can't maintain
+		an army.
+
+Gálvez		I understand that you and your men
+		have neither state nor ideology -
+		that you will fight any foe.
+
+		Please, you must drive them out
+		of our defenseless country. We
+		come to you. The Militaires San
+		Frontieres (An Army Without
+		Borders).
+
+Miller		So, you want to hire us?
+
+Gálvez		Yes. As our deterrent.
+
+		We can't afford to pay much, it's
+		true. But... we can offer you
+		this - a forward operating base -
+		an offshore plant in the Caribbean.
+
+Snake		...
+
+Miller		Sounds pretty good to me. This place
+		is becoming a mess anyway.
+
+		Snake, we need someplace we can
+		settle down.
+
+Gálvez		The Government's agreed to cooperate -
+		unofficially, of course.
+
+Miller		A Chopper for transport'd be nice,
+		too.
+
+Gálvez		... I'll see what I can do.
+
+Snake		Hold it! You seem to think we're just
+		a pack of "Dogs of War." Is that right?
+
+Gálvez		Yes, that's what I've heard. You're an
+		army without a state...
+
+Snake		No... We've only left our countries
+		behind.
+
+Gálvez		Please! You must help us!
+
+Snake		If your suspicions are true, force
+		isn't gonna do any good. You'll have
+		to find a political solution.
+
+Gálvez		The government's hands are tied!
+
+Snake		Go back to your bosses in San Jose.
+
+		Tell them if they want, I'll
+		introduce them to a negotiator
+		I know.
+
+Gálvez		No. I'm not here on their behalf.
+
+Snake		So what are you doing here?
+
+Gálvez		For over twenty years, I've
+		preached the virtues peace at
+		multiple Universities. Tonight,
+		I stand before you as an educator.
+
+		This is my student. She came to
+		me to study peace. 
+
+		Her name is Paz, ... Paz Ortega.
+
+Snake		Paz...? "Peace?"
+
+Miller		No kidding?
+		That's my name, too.
+
+		Kazuhira - it's Japanese for
+		"Peace." 
+
+		Pleased to meet you, Paz.
+		Call me Kaz.
+
+Gálvez		They've got a supply port North
+		of Puerto Limon. A Town En La
+		Costa Del Marcaribe. A few days
+		ago, Paz stumbled upon that facility
+		searching for a lost friend. She was
+		captured.
+
+		She's only a child... sixteen years
+		old. They did... terrible things to
+		her. But somehow she managed to
+		escape.
+
+Miller		My god...
+
+Gálvez		She's huerfana. Her mother died when
+		she was small, and she lost her
+		grandparents in the civil war. She
+		hates war with a passion like no
+		other.
+
+Paz		My name is Paz, and I will do
+		anything to protect my namesake. It
+		is my one and only purpose.
+
+		Please... get them out of my
+		country... Make them leave Costa
+		Rica.
+
+Snake		Sorry, Kid....
+
+Gálvez		We know who you are, Big Boss.
+		That is why we've come to you.
+
+
+* * * * *
+
+
+PROLOGUE: AN ARMY WITHOUT BORDERS
+
+
+November 10, 1974
+Caribbean Coast, Costa Rica
+
+{Playa De Alba}
+
+Miller (Radio)	Miller here. Do you copy, Snake?
+		I see you've Landed. That makes
+		one giant leap for us. I'm sending
+		this from the offshore plant -
+		our Mother Base.
+
+		The signal is unidirectional. I'll
+		be giving you commands and advice
+		through this channel. Keep your
+		headphones on at all times and pay
+		attention. Also, make sure no one
+		else can listen in.
+
+Miller (Radio)	I gotta thank you for agreeing to
+		this, Snake. Man... am I glad to be
+		out here. Finally, we can leave all
+		that crap in San Hieronymo behind...
+		And break into the mercenary
+		business for real.
+
+		Let me guess. You're doing it for
+		her, aren't you?
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+November 4. 1974 20:31
+Barranquilla Coast, Colombia
+
+[Miller stares out the window at "their guests"
+while Snake fails to light his cigar.]
+
+Snake		Are they still here?
+
+Miller		C'mon, Snake. This could be good
+		for us. They're willing to give
+		us an offshore plant - a place we
+		can finally put down some roots.
+
+		This is our chance to expand MSF.
+
+Snake		We don't need a place to stay, Kaz.
+		We're Nomads. We always will be.
+
+Miller		What, you'd rather keep wandering
+		from conflict to conflict, tools
+		in the hands of whoever's fighting
+		at the time?
+
+Snake		The second we settle down, who's
+		to say we won't become the
+		warmongers?
+
+Miller		Listen to me, Snake. We're not
+		Mercenaries. We're not a Foreign
+		Legion. MSF's a business. A new
+		kind of business.
+
+		Look, it's not like we're trying
+		to start a war here. All we need
+		to do is find out who this
+		"Security Company" really is.
+
+Snake		C'mon, Kaz... It's pretty obvious
+		that they're backed by the CIA.
+
+Miller		Wait a sec. That would mean...
+
+Snake		Our friend the "Professor"... is
+		likely KGB.
+
+Miller		I see...
+
+Snake		... We'd be making an enemy of our
+		homeland.
+
+Miller		And there'd be no turning back...
+
+Snake		... This damned thing won't light.
+
+Miller		Huh?
+
+Snake		Put on some coffee, Kaz. It's time
+		for a little chat with the
+		"Professor."
+
+[The door opens Paz enters the cabin first while
+Galvez stops at the door and takes notice of Snakes
+lighter problem. Galvez thumb opens up to reveal a
+lighter he lets Snake use to light his cigar.]
+
+Gálvez		I was a heavy smoker. When I got my
+		medal from The Secretary - General,
+		he gave me this prosthetic hand
+		as well... But smoking was ruining
+		my lungs, so I quit. I've not had
+		much use for it since.
+
+		It's quite an honor to meet The
+		Legendary Big Boss.
+
+Snake		That's just a code name the CIA made
+		up.
+
+Gálvez		Then perhaps I should call you John?
+
+Snake		I don't have a name. Stopped using
+		that code name you like so much ten
+		years ago.
+
+		... What about you, Comrade? What do
+		they call you back at TSENTR?
+
+Gálvez		Well, then, allow me to get straight
+		to the point. "Land as Slim as a Whip,
+		Hot as Torture."
+
+Miller		That's the Chilean poet, Neruda...
+
+Gálvez		Central America is the navel of the
+		American Continents, bridging North
+		and South. We want this land.
+
+		We'll build a socialist stronghold.
+		Then use it split the Americas in
+		two.
+
+Miller		America would lose its backyard.
+
+Gálvez		And with it, its iconomic production,
+		shipping lanes, and strategic value.
+		We. On the other hand, would gain a
+		base from which all of Latin America
+		would be well within our reach. He
+		who control's Central America, will
+		win this Cold War.
+
+		First comes Nicaragua. Toppling the
+		Pro-American Somoza regime. In
+		preparation. We've begun instigating
+		anti-government sentiment and
+		providing aid to The Sandinista
+		National Liberation Front.
+
+Miller		You're manipulating Sandinista into
+		overthrowing Somoza for you.
+
+Gálvez		After the revolution Nicaragua will
+		become a socialist state.
+
+Snake		You think the Americans would just
+		let that happen?
+
+Gálvez		Certainly not. After all, the CIA
+		is allready here.
+
+Miller		And that's the armed group inside
+		Costa Rica?
+
+Gálvez		Precisely. It's clear they have been
+		sent in to disrupt our efforts across
+		the border in Nicaragua. Simply put,
+		the army now stationed in Costa Rica
+		is CIA Capital. But it's more complex
+		than that. The CIA's got something
+		else planned as well.
+
+Miller		What?
+
+Gálvez		That is the million dollar question.
+		We want you and your unit to find
+		the answer. Infiltrate and invistigate
+		the facility En la Costa where Paz
+		was imprisoned. Learn all you can of
+		their operations then drive them out
+		of the country.
+
+Snake		You're asking us to settle a turf war
+		between the KGB and The CIA?
+
+Miller		... What about her? That was all just
+		an act?
+
+Gálvez		Hmm. You mean her words about Peace?
+		She was captured - that much is true.
+		But I've kept my KGB affiliation from
+		her.
+
+Miller		And you thought we'd fall for a sob
+		story?
+
+Gálvez		No, I had good reason to bring her
+		along. She managed to escape with her
+		life. But her friend was not so lucky.
+
+		Why were they attacked?
+
+[Galvez pulls a cassette tape out from inside his
+coat.]
+
+Gálvez		I believe this will help explain.
+		Perhaps they saw something they
+		weren't supposed to. 
+
+		Perhaps they heard something they
+		shouldn't have.
+
+Miller		A Cassette Tape?
+
+Gálvez		Paz took this during her escape. She
+		says her friend happened to record
+		it by accident.
+
+[Galvez puts a Sony walkman on the table next to a
+speaker to amplify the audio.]
+
+Miller		What is that?
+
+Gálvez		A portable stereo cassette player.
+		The first of its kind.
+
+Miller		Ah. I heard they were working on
+		something like that in Japan. Didn't
+		know you guys were too.
+
+Gálvez		I believe what you're about to hear
+		will help you understand.
+
+Miller		What is that? A Quetzal?
+
+Snake		The Phoenix bird?
+
+Gálvez		Paz's friend was researching birds.
+		She went out into the jungle to
+		record bird calls and stumbled onto
+		this.
+
+Miller		So? So what?!
+
+Gálvez		Now it gets interesting.
+
+[Female 1]	...Poisonous... I.... To get red of
+		it. I chase it back to its nest.
+
+[Female 2]	You can't. The snake's too vicious.
+		It's... Many People.
+
+[Female 1]	... I chase it away.
+
+		It will bite you unless you kill it.
+		GO HOME!
+
+Snake		Boss.
+
+Gálvez		Voiceprint analysis confirms that
+		this voice is indeed that of the
+		Legendary Hero - and criminal -
+		The Boss.
+
+Miller		Wh... What?!
+
+Gálvez		The other hasn't been identified.
+		Female in her thirties with a british
+		accent. The song playing in the
+		background was a hit in 1973.
+
+[Flashback to Operation Snake Eater.]
+
+The Boss	What's it going to be? Loyalty to
+		your country or loyalty to me? Your
+		country or your mentor? Your
+		mission or your beliefs?
+
+		I... I am loyal to myself.
+
+Snake		... The Boss is alive in Costa Rica?
+
+Gálvez		As I understand it, she was your
+		commander, fought by your side...
+		And that you killed her under orders
+		from The CIA... Thus surpassing
+		her to become the hero known as
+		Big Boss.
+
+Gálvez		Well?
+
+		What'll it be? Will you take the
+		job?
+
+Miller		Snake. It's gotta be a trap.
+
+Gálvez		So. You still can't turn your back
+		on your country... Then I suppose
+		you won't need this...
+
+Snake		Wait!
+
+Miller		Snake?
+
+Snake		I'll do it for the girl. For Paz.
+
+Miller		Ok... For Peace then.
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+November 10, 1974
+Bosque Del Alba, Caribbean Coast of Costa Rica
+
+{Bosque Del Alba}
+
+Miller (Radio)	There they are... CIA mercs.
+		Snake, you've got to get
+		past them undetected. Avoid
+		combat whenever possible.
+
+Miller (Radio)	This is a sneaking mission. Hide
+		behind stuff, take the long way
+		around, whatever it takes to
+		stay out of sight. Your gun is a
+		last resort. It could just as
+		easily kill you as save you.
+
+Miller (Radio)	The indicator in the upper right
+		serves as a compass, and shows
+		sound sources. Pay attention to
+		your surroundings.
+
+Miller (Radio)	To check your map, press the
+		START button to open the menu.
+
+Miller (Radio)	The percentage in the upper right
+		is your camo index. The lower the
+		number, the more easily you'll be
+		spotted.
+
+		Conspicuous movements and loud
+		noises will compromise your camo
+		index. Your fatigues will act as
+		camouflage.
+
+Miller (Radio)	Keep your eye on what's left of
+		your LIFE gauge on the left of
+		the screen. To the right of that,
+		you'll see your Psyche Gauge.
+		Exhausting it will inhibit your
+		actions.
+
+{Puerto Del Alba - CIA Supply Facility}
+
+Miller (Radio)	Looks like you're inside the
+		compound. Security is tight. Stay
+		sharp
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{Puerto Del Alba - CIA Supply Facility - Communications Room}
+
+CIA Merc	Yes, sir, we broke 'm. We've 
+		acquired the where abouts of 
+		target Five-Zero-Zero.
+
+[PA]		Acknowledged.
+
+Chrysalis	Proceeding to secure target five 
+		hundred... 
+
+[PA]		Spears are loaded, the barge has 
+		cleared Point Bravo.
+
+CIA Merc	Acknowledged. Out.
+
+Snake		... Freeeze!
+
+		The cargo. Where's it headed? 
+		What is it?!
+
+CIA Merc	Urk... Irazu... In the mountains...
+
+Snake		What's up there?
+
+Snake		This is Snake, Kaz. Can you hear me?
+
+Miller		Loud and Clear. You found a radio?!
+
+Snake		It's got a circuit that reverses the
+		audio phage.
+
+Miller		Let's switch frequencies from time
+		to time - Just to make sure we're
+		not detected.
+
+Snake		I found a map of their bases. The
+		cargo's heading from the marshes
+		west toward Irazu.
+
+Miller		Nice going Boss.
+
+Snake		Kaz... 
+
+		This place is full of film badges.
+		Dozens of them.
+
+Miller		... Film badges like the ones used
+		to measure radiation exposure?
+
+Snake		The radio man was wearing one. And
+		whoever he was talking to called
+		the cargo "Spears."
+
+Miller		Wait, that would mean...
+
+Snake		Nukes. They're bringing Nukes into
+		Costa Rica.
+
+Miller		Holy Mother of God...
+
+
+[Main Title]
+
+METAL GEAR SOLID PEACE WALKER
+
+
+[Codec]
+
+Miller		How's that map, Snake? Think you
+		can use it?
+
+Snake		It tells me where their bases are,
+		but its just a bunch of points. No
+		routes. I need better intel on the
+		lay of the land.
+
+Miller		Snake the "professor" said he's
+		got the Sandinistas on his side.
+		Said you should get in touch with
+		the FSLN comandante.
+
+Snake		Do they know they're backed by KGB?
+
+Miller		Nah... As far as they know they're
+		really fighting for the revolution.
+		The KGB is staying behind the scenes.
+		I'm not sure the Sandinistas are
+		aware of what's really going on.
+
+Snake		Still can't believe anybody'd bring
+		nukes here...
+
+Miller		Yeah, that's a shocker. Costa Rica's
+		party to the Tlatelolco Treaty, which
+		declares Latin America a nuke-free
+		zone. Based on Japan's Three Non-Nuclear
+		Principles, it bans the testing, use,
+		import, or deployment of nuclear
+		weapons.
+
+		If word of this gets out, OPANAL will
+		be forced to act. It'll cause an
+		international uproar.
+
+Snake		The Treaty was signed to prevent
+		another Cuban Missile Crisis. If the
+		U.S. itself is going to scrap it...
+
+Miller		Latin America's too close to spawning
+		another Cuba or two already. The entire
+		continent would become one big powder
+		keg.
+
+Snake		Well... If they did bring nukes, we
+		can't let them get away with it.
+
+Miller		Are they planning a test? Showing off?
+		Or is it all to keep the anti-American
+		movement in check?
+
+Snake		Good Question. Why bring them here? I
+		can't figure it out.
+
+Miller		Whatever the CIA's up to in Costa Rica,
+		the "professor" wants it stopped. We
+		need to find out what that something is.
+
+Snake		We need to get ready first, Kaz. Repairs?
+
+Miller		Working as fast as we can, Boss. This
+		place is pretty beat... It looks like
+		hell. But as long as you're with us,
+		we'll make it heaven. No one can bother
+		us here. No state telling us what to do.
+
+		This is the MSF's haven, our Mother Base.
+		And with this foothold, we'll back you up
+		even better than before. We're gonna
+		turn this pile of junk into something big.
+
+
+* * * * *
+
+
+CHAPTER 1: A COUNTRY WITHOUT AN ARMY
+
+{El Cenagal: Jungle}
+
+Miller (Radio)	Head for the FSLN boathouse.
+		It's northwest of there.
+
+{Rio Del Jade}
+
+Miller (Radio)	The boathouse should be close by.
+		Neutralize the security detail and
+		make contact with the comandante.
+
+Miller (Radio)	Good. Now, meet with the FSLN
+		comandante. He's inside the
+		boathouse.
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{Boathouse}
+
+FSLN Soldier 1	Who is he?
+
+FSLN Soldier 2	El Che?
+
+FSLN Soldier 1	No way.
+
+FSLN Soldier 2	What do we do?
+
+Snake		Sandinistas right? I'm looking for
+		someone.
+
+[Snake holds out a photo of the FSNL comandante.]
+
+Chico		Mi Viejo...
+
+Amanda		Shhh... He's Dead.
+
+		They killed Nuestro Viejo.
+
+Snake		You're his daughter? Then that makes
+		you his Delegada right?
+
+		Relax. I'm not your enemy. Want one?
+		It's Cuban.
+
+Chico		Hmph. A Cigar...?
+
+Amanda		I'll take whatever you've got.
+
+Amanda		I owe you one. But, I prefer cigarettes
+		you know. How do I look? A little like
+		El Che. No? You Cubano?
+
+Snake		Colombiano. A photographer I came to
+		Costa Rica to take pictures of birds.
+
+Amanda		Birds?
+
+Snake		Quetzals.
+
+Amanda		You've got no telephoto lens. How do
+		you get your shots?
+
+Snake		Telephoto's for amateurs. It's all in
+		the timing.
+
+Amanda		Oh. Ok. We can talk until, I finish
+		this.
+
+[While talking Chico tries to grab the Cigar from her hand.]
+
+Amanda		Chico!
+
+Snake		Tell me what's going on here.
+
+Amanda		This place is crawling with soldiers.
+		They don't look like private security
+		more like hired guns.
+
+		They're loaded with the latest gear
+		from all over the world.
+
+Snake		I heard they're a security force hired
+		by Codesa.
+
+Amanda		Yeah, and I'm Papa Noel.. Those guys
+		are UCLAS.
+
+Snake		UCLAS... La CIA?
+
+Amanda		I saw them setting up shop in town.
+		They're planning to do here what they
+		did in Chile.
+
+Snake		If that's the case, what are they
+		after?
+
+Amanda		Whatever it is, it's not us...
+
+Snake		You don't think they're here to push
+		you back into Nicaragua?
+
+Amanda		Impossible. Too much hardware too
+		many bases. Didn't you see? They've got
+		helicopters,tanks... It's like we're in
+		Da Nang. There must be something else.
+
+Snake		They have a base near here?
+
+Amanda		There's a factory to the North, across a
+		suspention bridge.
+
+Snake		Factory to the North across a bridge.
+
+		Have you seen a big transport boat -
+		mercenary crew - on the Rio Del Jade?
+
+Amanda		You mean the barge? It's upstream from
+		here. Up toward Irazu.
+
+Snake		Any idea what's on it?
+
+Amanda		I could introduce you to some compas of
+		ours up there. But I don't recommend
+		going into the mountains, we've lost a
+		lot of people there.
+
+		They take us captive. Torture us for
+		information about our compas and then
+		they kill us like pigs.
+
+[While Snake and Amanda talk the FSLN soldiers get the
+weapons they had hidden in the boathouse before being
+caught.]
+
+Amanda		... This was our last hideout... The
+		final refuge for El Frente after being
+		pushed out of Nicaragua and into the
+		"peaceful paradise" of Costa Rica.
+
+		Then El Monstruo attacked...
+
+Snake		A Monster?
+
+Amanda		Y Mi Viejo... Mi Viejo - Papa... He was
+		La Esperanza - our hope.
+
+Chico		Now that papa's gone, my sister is La
+		Commandante De La Revoluchon.
+
+Amanda		Don't listen to him. Papa was a hero
+		who faught by Sandino's side. I am only
+		his daughter.
+
+		You need a special talent to become
+		cacique. It takes someone great to unite
+		all of Las Compas.
+
+Snake		Sorry to interupt, but leaders don't
+		choose themselves. Neither do heroes.
+
+		You carry on his legacy of La Esperanza,
+		and they'll follow you no question.
+
+Amanda		You think so? My compas trust me, but
+		not one of them calls me Comandante.
+
+Soldier		Amanda.
+
+Amanda		See what I mean.
+
+Chico		El Colibri!
+
+[Snakes lunges at Amanda saving her from being gunned
+down by the Chrysalis.]
+
+Snake		Get Down!
+
+[Snakes fires at the UV System but it dodges the attack.]
+
+Snake		What the hell?!
+
+Amanda		I's Un Hombre Nueyo. An unmanned weapon
+		a robot!
+
+[One of Chrysalis drones capture Chico.]
+
+Amanda		Chico!
+
+Snake		No! He won't survive the fall!
+
+Amanda		Out of my way! Better to die at the
+		hand of a compas than suffer their
+		torture. Stay here. As long as I'm
+		still alive, I might as well repay
+		you.
+
+		Over here! Find Chico!
+		Ivenceremos!
+
+
+[Codec]
+
+Miller		Snake, what was that thing?!
+
+Snake		Whatever it was, it looked unmanned.
+
+Miller		Unmanned? I'd heard rumors, but an
+		operational unit...?
+
+Snake		What the hell is going on here?
+
+Miller		Not to quote Amanda, but the hardware
+		they've got here isn't just unusual,
+		it's overkill.
+
+		Which means one thing: it's nukes. So
+		the question now becomes, why?
+
+Snake		We can't make that call yet. We need
+		more intel.
+
+Miller		How? Our source is dead.
+
+Snake		But his daughter isn't.
+
+Miller		Good thinking. We can follow her...
+
+		Head for that next outpost, and make
+		contact with Amanda... if she's still
+		alive.
+
+Snake		Roger.
+
+
+[Rio Del Jade]
+
+Miller (Radio)	Careful. They've got reinforcements
+		coming.
+
+{El Cenagal: Jungle}
+
+Paz (Radio)	Are you familiar with leafcutter ants,
+		Snake? They help mushrooms grow.
+
+		We have them in Costa Rica.
+
+		The mushrooms provide the ants with
+		spores to eat, and in exchange the
+		ants protect them from predators.
+
+Miller (Radio)	Kind of like us, huh?
+
+Paz (Radio)	That's not why I brought it up...
+
+{El Cenagal: Ravine}
+
+Miller (Radio)	Amanda went across that rope bridge.
+		Hurry.
+
+Paz (Radio)	Amanda should be at the supply depot
+		on the banana plantation.
+
+Miller (Radio)	You might be able to get past the
+		enemy by hanging from the bridge.
+		Press the Action Button near the
+		bridge's handrail to hang.
+
+{Bananal Fruta de Oro: Sorting Shed}
+
+Miller (Radio)	Careful, now. they might be holding
+		FSLN soldiers prisoner.
+
+Miller (Radio)	You're gonna have to pass through the
+		sorting area to get to the other
+		side...
+
+Paz (Radio)	See any Orange-barred Sulpher
+		butterflies around? You'll find them
+		in parks and even in cities, too.
+
+Miller (Radio)	Our future is in your hands!
+
+Paz(Radio)	Snake, help us reclaim peace.
+
+[Snake emerges, on the other side of the factory;
+he stops his advance when he sees an armored vehicle
+with ground support appear.]
+
+Miller (Radio)	Looks like there's no way around 'em.
+		You up for this, Snake?
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+[After taking out the armored vehicle Snake looks up
+and sees a UAV pass overhead. He follows it and the
+sound of gun fire.]
+
+Amanda		Shoot it!
+
+Snake		You'll Fall!
+
+Amanda		Shoot it!
+
+[Snake takes out the UAV drone; Amanda hits the
+ground hard.]
+
+Snake		Amanda!
+
+Amanda		Chico...
+
+Snake		What?
+
+		What is it?
+
+Amanda		Can you...
+		Roll me one?
+
+Snake		Huh?
+
+Amanda		Tobacoo...
+
+Snake		Yeah.
+
+Amanda		Chico...
+
+Snake		Hold Still.
+
+Amanda		I treated him like a kid again... we
+		fought.
+
+Snake		Hmm?
+
+Amanda		I didn't want Chico to know... Kept
+		it a secret. Somoza's guards chased
+		us out of Nicaragua Across the Rio
+		San Juan... And we ended up here.
+
+		The only reason we've been able to
+		keep on fighting...
+
+Snake		Amanda!
+
+Amanda		The factory... You saw it?
+
+Snake		The banana factory...
+
+Amanda		A front. It's a drug refining plant.
+		The KGB set it up for us to run. We
+		use the income to buy food and
+		weapons... Mi Viejo never said a
+		word but we all knew.
+
+		Everything we have... Our weapons,
+		Our compas... He brought it all
+		together... We were going to rebuild
+		our country... Rebuild Nica with our
+		own hands... Even if we had to dirty
+		our hands to do it...
+
+		But it's all over. We lost our Cacique,
+		Papa... I could never replace him...
+		Now they've taken the plant from us,
+		too... There's no place left to
+		regroup... No way to fight La
+		Revoluchion...
+
+Snake		Here... I rolled you one.
+
+Amanda		What about you? You're going after
+		that cargo?
+
+Snake		Yeah.
+
+Amanda		Must be important, mmm?
+
+Snake		Looks that way, looks like it could be
+		nukes...
+
+Amanda		Wha-? Nukes?!
+
+		Imadre De Dios! No time to waste! We
+		must get to Irazu! The transport route
+		leads there. It must be where they're
+		holding Chico and my compas. Too...
+
+[Amanda struggles to sit up.]
+
+Amanda		Whenever Chico and I argue, he goes off
+		to be by himself... That's why he knows
+		more then anybody about their bases.
+		He... Oh, Chico...
+
+Snake		You're pretty worried about your baby
+		brother.
+
+Amanda		This is why I'm not fit to be a
+		leader...
+
+Snake		Fine. It's a little bit out of my way
+		but... Just tell me where I need to
+		go.
+
+Amanda		There's a prison up in the mountains...
+		That's probably where he is.
+
+Snake		A prison in the mountains...
+
+Amanda		You must do something for me. If you...
+		Can't save Chico, I want you to...
+		Ease his pain... End his humiliation...
+		If he gives in. If he's about to sell
+		out his compas... Please...
+
+		... At least let him keep his honor.
+
+Snake		That's a promise I can't make.
+
+Amanda		... Why?
+
+Snake		Amanda, we gave up our homes. But we're
+		still alive. We're still fighting. And
+		there's always another reason to keep
+		on living.
+
+Amanda		Ahh, I feel alive again...
+
+Snake		Amanda. Join my unit until you've healed
+		up.
+
+Amanda		Your... Unit? Who are you? Why are you
+		here?
+
+Snake		... I'm Snake. Serpiente.
+
+Amanda		Snake? Could it be...
+
+		The Great Cacique...
+		Has come to lead us...
+		Patria Libre O Morir...
+
+Snake		Kaz.
+
+		Can you hear me?
+
+Miller		MSF here.
+
+Snake		One for recovery, she's wounded.
+
+Miller		Acknowledged.
+
+Snake		Kaz.
+
+		The Cargo on the barge... I was right,
+		it's headed for the mountains.
+
+Miller		You think that's where they're taking
+		the nukes?
+
+Snake		I'm Sure of it. Let's Move.
+
+{Camino de Lava: Hillside}
+
+Miller (Radio)	Chico's in a prison camp north of here.
+
+Miller (Radio)	We've gotta save Chico, Snake. It's to
+		our benefit, you know.
+
+Miller (Radio)	Head north if you want to find Chico.
+
+Amanda (Radio)	They're using that village as a prison
+		now.
+
+Amanda (Radio)	Boss, please... You have to help Chico.
+
+Miller (Radio)	That basin will leave you completely
+		exposed. If I were the enemy, I'd
+		position snipers there. Better be
+		careful.
+
+{Camino de Lava: Junction}
+
+Miller (Radio)	If you had something to stand on,
+		you could probably reach that...
+
+[SFX Gunshot]
+
+Miller (Radio)	Sniper! Better be careful if you
+		don't want your head blown off.
+
+Sniper 1	Somebody there?
+
+Sniper 2	Nothing here...
+
+{Aldea Los Despiertos}
+
+Miller (Radio)	Chico's in one of these houses.
+		You've got to find him, Snake.
+
+Miller (Radio)	Check inside a house by pressing
+		the Action Button in front of the
+		door.
+
+{House 1}
+
+Snake		No one here.
+
+{House 2}
+
+Man		Mama...
+
+Snake		Mmm?
+
+Miller (Radio)	Supposedly the houses being used
+		to hold prisoners have been
+		fitted with blue doors.
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{House 3}
+
+Snake		Chico...? Is that you?
+
+[SFX Door kicked]
+
+Chico		Who... Who's there...?
+
+Snake		Chico? It's me.
+
+Chico		You're... You're that...
+		Photographer?
+
+Snake		That's right, a war photographer.
+
+Chico		Huh? I thought you were here for
+		the birds.
+
+Snake		Yeah, uh, the birds of the
+		battlefield.
+
+Chico		Whoa, is that... Che's?
+		Can I see it?
+
+		Wow! The same kind El Che used!
+
+Snake		You can't keep it, kid.
+		Here, have these instead.
+
+Chico		Photos?
+		Oh no... Amanda!
+
+Snake		She's safe. Don't worry.
+
+Chico		Are you sure?
+
+Snake		We're patching her up back at my
+		place.
+
+Chico		She's hurt?!
+
+Snake		... I said don't worry it's just a
+		broken leg.
+
+Chico		... You got any Cigarettes? A Cigar.
+		huh...
+
+[Snake Snatches the Cigar from Chico.]
+
+Chico		Hey!
+
+Snake		Not for kids. Chico. Do you know where
+		they took the cargo?
+
+Chico		Cargo? What cargo?
+
+Snake		... Let me rephrase that... How do they
+		get stuff from the coast up here?
+
+Chico		Oh, that I can tell you. When the cargo
+		get's to the harbor, they first send it
+		up the marshes on a barge, then they
+		load it onto a jungle train past the
+		Banana Plantation and transport it by
+		rail.
+
+		The train stops here. When it gets to
+		the train terminal past the coffee
+		plantation, they reload it again - this
+		time onto a truck - which disappears
+		into a tunnel heading towards the
+		mountains.
+
+Snake		Disappears? Chico, what's on the other
+		side of that tunnel?
+
+Chico		Nobody knows. None of our compas ever got
+		close enough... It's protected by a spirit.
+
+Snake		... A spirit.
+
+Chico		Yeah. A giant monster. ... El Basilisco.
+
+Snake		The king of Snakes...?
+
+Chico		No, really. I saw it! I was camping up
+		there one day, and just as I was waking
+		up around dawn I heard this loud noise.
+
+		I opened my eyes and saw an enormous
+		shadow must have been 30 Vara at least.
+		... It was walking on legs as big as
+		trees.
+
+Snake		Where'd you see it?
+
+Chico		At the terminal near the tunnel... But I
+		only saw it that one time.
+
+Snake		What exactly were you doing there?
+
+Chico		I, uh... Well me and my sister got into a
+		fight.
+
+Snake		And you just happened to go camping?
+
+Chico		You know their train should be arriving at
+		the place I saw El Basilisco right about
+		now!
+
+Snake		Is it far?
+
+Chico		Not really go past the coffee plantation
+		and it'll be to the north. What are you
+		chasing?
+
+Snake		Something that could keep the world in
+		balance... Or destroy it.
+
+Chico		Huh?
+
+Snake		I heard that place was a narcotics plant
+		before those guys took it over. But you
+		already knew that didn't you. Look, I get
+		it. Even revolutionaries need to pay the
+		bills. Still must be tough for a kid like
+		you to swallow.
+
+Chico		You're damn right it is! The route they
+		use to transport stuff is the same one Mi
+		Viejo used to smuggle drugs. They sold the
+		drugs to North Americanos and used the
+		profits to fund the army. They tried to
+		keep it hidden from me.
+
+Snake		Is that why you went camping?
+
+Chico		Yeah... I managed to sneak into the plant a
+		few times and... Tried to set it on fire.
+
+		... Everyone treats me like a child. I
+		couldn't stand it anymore. I'm not a kid,
+		I'm twelve!
+
+Snake		Couldn't do it. Though could you? Chico.
+		Growing up means choosing how you're going
+		to live your life. To do the right thing.
+		You sometimes have to leave the things you
+		care about behind - parents, family,
+		your homeland.
+
+Chico		But Mi Viejo... Papa...
+
+Snake		Chico...
+		Look at the photos.
+
+Chico		Mi Viejo...
+
+Snake		Treasure those memories Chico no matter
+		what happens keep them safe. You wanna
+		get out of here Chico?
+
+Chico		I do.
+
+Snake		Come back with me. Your sisters waiting
+		for you.
+
+Chico		I can't go back... I can't face
+		everybody...
+
+Snake		... You told them where your compas are?
+		I see... Nothing to be ashamed of. Pain
+		gets the better of us all.
+
+Chico		... I wish I was dead.
+
+Snake		Ok. Then I'll put you out of your misery.
+
+Chico		Wha-?
+
+Snake		Any last words?
+
+		Shoot, you are only going to kill a man.
+
+[SFX Gunshot]
+
+Snake		I just wasted a bullet. Don't waste your
+		life. Listen to me Chico. You died here
+		today, you understand? You're Hombre Nuevo.
+		A new man. Now give that new life to me.
+		Fight with me, little soldier. Show me how
+		strong you really are. 
+
+		Dry your tears then promise me one thing.
+		No smoking until you get older. Remember,
+		real heroes are never as polished as the
+		legends that surround them.
+
+Chico		You got it. Boss.
+
+Snake		Snake is fine.
+
+[Snake places a backpack on Chico.]
+
+Chico		What's that?
+
+[The backpack opens up and a Fulton Recover balloon rips
+Chico into the air.]
+
+
+[Codec]
+
+Miller		Snake, Chico made it over.
+
+Chico		Snake!
+
+Snake		Chico, you made it.
+
+Chico		Made it?! Don't give me that!
+
+		You say you're gonna give me a new life,
+		and then you nearly kill me?!
+
+Snake		I take it you didn't enjoy the trip?
+
+Chico		What's the big idea, dragging me off in
+		a... balloon! I might as well have taken
+		a colibri!
+
+Snake		At least you got a nice view. Or are you
+		afraid of heights?
+
+Chico		Whatever. I just wish you'd explained it
+		to me first.
+
+Snake		Would you have agreed to go if I did?
+
+Amanda		Thank you for saving us, Snake.
+
+Snake		Amanda, a word of advice.
+
+Amanda		What?
+
+Snake		Stop treating him like a child.
+
+Amanda		Yes... yes, I know. You're right. I
+		shouldn't.
+
+Snake		Amanda, you're coming back after your
+		leg heals, right?
+
+Amanda		Of course. We still have work to do.
+
+Snake		"We," huh... Are you sure you've got Chico's 
+		future in mind when you say that?
+
+Amanda		What do you mean? We're sworn to our father's 
+		cause, to helping the revolution succeed.
+
+Snake		Revolution or no revolution, you pick up a gun, 
+		and sooner or later you're going to hell.
+		Are you prepared for that?
+
+Amanda		I am. If the alternative is giving up the country 
+		I love, I'll take hell.
+
+Snake		Really... Well then, you're going to have to stop 
+		treating Chico like a brother and start treating 
+		him like a soldier.
+
+Amanda		I ...You're right.
+
+Snake		...Welcome to hell.
+
+Chico		Snake, can I ask you a favor?
+
+Snake		Shoot.
+
+Chico		You find any prisoners from el Frente, you bring 
+		'em back alive. 'Cause...
+
+Snake		You trying to make amends for talking?
+
+Chico		Not just that. Because they're compas...
+
+Snake		All right. But first I've gotta catch up to that 
+		cargo.
+
+Chico		I'll do whatever I can to help.
+		Call me if there's anything you need to know 
+		about the area. And...
+
+Snake		And what?
+
+Chico		Let me know if you encounter any wildlife you've 
+		never seen before.
+
+Snake		Never seen before? What, like that basilisco you 
+		were talking about?
+
+Chico		I'm talking about UMAs.
+
+Snake		U... M... As?
+
+Chico		Y'know, like ancient dinosaurs or legendary 
+		monsters. One day, I'm going to be a hunter.
+
+Snake		Is that right. OK, sure.
+
+Chico		If you wanna know more, I'm happy to tell you!
+
+Snake		Right. I'll be in touch, Chico.
+
+Miller		Ok, Snake. The enemy's cargo is headed for the 
+		next outpost, a rail terminal.
+
+Snake		Chico says no one's ever set foot past there.
+
+Miller		Their main base is probably on the other side 
+		of that tunnel. Unless we catch those spears 
+		before reaching it, they'll be in enemy hands.
+		You've got to stop them. Hurry, Snake.
+
+
+{Aldea Los Despiertos}
+
+Miller (Radio)	The train terminal is on the other side of the 
+		coffee factory. Head for the factory first.
+
+Miller (Radio)	To get to the coffee factory, you'll first need 
+		to backtrack to the fork in the road.
+
+Miller (Radio)	Remember that basin with the locomotive?
+		Go through there, then head toward the coffee 
+		factory.
+
+{Camino de Lava: Junction}
+
+Miller (Radio)	There's a coffee factory to the northeast.
+		Beyond that is a train terminal.
+
+{Cafetal Aroma Encantado: Entrance}
+
+Amanda (Radio)	They may have guards posted up high. 
+		Ten cuidado.
+
+{Cafetal Aroma Encantado: Mill]
+
+Miller (Radio)	Pass through the coffee factory to reach 
+		the train terminal.
+
+Chico (Radio)	Looks like that's all of them. Thanks again.
+
+Miller (Radio)	You'll have to pass through the coffee factory 
+		to reach the train terminal.
+
+{El Cadalso}
+
+Miller (Radio)	Looks like we're just in time. Neutralize all 
+		enemies and secure the train!
+
+Chico (Radio)	Those tracks are from el basilisco. Be careful.
+
+Miller		Check out the cargo!
+
+Snake		The nukes!
+
+[While staring at the vans driving off with the
+nukes a tank with armored support approach from
+the rear. The operator of the tank having a clear
+shot at Snake fires on the cargo box sending it
+flying into the tunnel - leaving Snake dazed.
+Snake pulls himself off the ground and after a
+long battle of cat-and-mouse takes out the tank.]
+
+
+[Codec]
+
+Miller		Snake, the truck is headed up the mountain 
+		road past the tunnel.
+
+Snake		So it was nukes after all.
+
+Miller		What now? Their main base is up ahead.
+
+Snake		I better hurry after 'em, then.
+
+Miller		But...
+
+Snake		Kaz, if I don't get moving it'll be too 
+		late!
+
+Miller		All right.
+
+		I guess you never let dangerous assignments 
+		or risk aversion get in your way.
+
+Snake		How do I get inside the mountain? I can 
+		forget about the tunnel.
+
+Miller		Yeah, the tank took care of that...
+
+Snake		Any other routes?
+
+Miller		Why don't I let a local expert take over?
+
+Chico		Snake, you need a way into the mountain?
+
+Snake		Yeah. Got one?
+
+Chico		Let's see... You remember that prison I was in?
+
+Snake		In the village, right?
+
+Chico		Right. Go back to the village and head north. 
+		There's a bridge that connects to the mountain 
+		road. It crosses over a gorge. 
+
+		That's probably the best way... But there is a 
+		little problem. The path heading north from the 
+		village is barricaded. You might have to break 
+		through...
+
+Snake		Got it.
+
+Chico		The heart of Irazu...
+
+		That's where the enemy's base has got to be, 
+		Snake. And maybe...
+
+Snake		Let me guess - the basilisco?
+
+Chico		You don't believe me, do you?
+
+Snake		No, I mean... We'll have to see.
+
+Miller		Snake, Irazu features a number of crater 
+		lakes. The Oduber government had planned to 
+		use those lakes to construct hydroeletric 
+		plants as one of its big state development 
+		projects. The project was scrapped, but 
+		there's still a small opening at the bottom 
+		of the lake.
+
+Snake		Meaning?
+
+Miller		I checked the satellite imagery, but didn't 
+		see anything man-made. Which means they've 
+		probably built a base inside the mountain... 
+		Could just be a storage igloo for explosives, 
+		or maybe some kind of research facility.
+
+Snake		What do they hope to accomplish by bringing 
+		the nukes there?
+
+Miller		First things first. Get past that barricade 
+		north of the village. Looks like the only 
+		way through is the noisy way - you'll have 
+		to blow it up.
+
+
+{Cafetal Aroma Encantado: Mill}
+
+Miller (Radio)	Go back to the prison camp.
+
+		It's in the village where they were holding 
+		Chico.
+
+{Cafetal Aroma Encantado: Entrance}
+
+Miller (Radio)	Head west from there and it'll take you 
+		straight to the prison camp.
+
+{Aldea Los Despiertos}
+
+Miller (Radio)	If you cut across the prison camp, 
+		you'll find a gate leading north.
+
+Miller (Radio)	The gate's on the northwest side of the 
+		prison camp. Cut across the camp to get there.
+
+Chico (Radio)	And when you shot me, I really thought I 
+		was done for.
+
+Chico (Radio)	When I was locked up there, I didn't feel 
+		alive at all.
+
+Miller (Radio)	You'll have to destroy the gate if you want to
+		cross the bridge. Some C4 should do the trick.
+
+Miller (Radio)	The barricade is located somewhere in that vicinity.
+
+Miller (Radio)	First equip your C4. You can't plant a charge 
+		unless it's equipped.
+
+Miller (Radio)	To plant a C4 charge, hold down the Aim Button and 
+		press the Attack Button.
+
+Miller (Radio)	There, blow up that barricade!
+
+Miller (Radio)	Good work, Snake!
+
+Miller (Radio)	Cross the bridge and head north.
+
+Amanda (Radio)	The guys with helmets will not go down with a 
+		single headshot. Watch yourself.
+
+Chico (Radio)	Even we have never been past there.
+
+{Los Cantos: Ridge}
+
+Miller (Radio)	If you had something to stand on, you could 
+		probably reach that...
+
+Miller (Radio)	Good, you've reached the transport route. Follow 
+		it to their base.
+
+Amanda (Radio)	Their base should be beyond that transport route.
+
+Miller (Radio)	Rockets can travel a long way to their target.
+		Never assume you're out of range.
+
+Paz (Radio)	There should be an entrance about halfway up the 
+		mountain. Be careful.
+
+Miller (Radio)	Looks like the entrance is on the mountainside.
+		Better hurry, Snake.
+
+{Fuerte La Ladera}
+
+Miller (Radio)	You have to get through that fort. Their base is 
+		beyond it.
+
+Amanda (Radio)	There may be snipers on the roof.
+
+Amanda (Radio)	Can you make it there by hanging?
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{Crator Base}
+
+Snake		Kaz, I'm inside the facility, there're rows and 
+		rows of trucks here.
+
+Miller		If that's where they brough the nukes, then the 
+		truck we're after should be there. Snake. Can you 
+		tell me which one of the trucks brought the Nukes?
+
+Snake		This is the one. The exhausts still warm.
+		... But the cargo's already been offloaded.
+
+[Snake charges into the command center and stops advancing to listen 
+in on the two people argueing.]
+
+Huey		Just wait a minute! This isn't what we agreed on!
+
+Coldman		It's too late. The changes have already been 
+		finalized.
+
+Huey		You told me it was going to be a deterrent - that we 
+		wouldn't have to launch!
+
+Coldman		I am not arguing with you doctor, our goal is to 
+		create the perfect deterrent.
+
+Huey		Thats why I agreed to help develop it...
+
+Coldman		Mm-hmm, however in order to achieve that perfect 
+		deterrent, we must show the world our strength. 
+
+		Three key principles ensure effective nuclear 
+		deterrence. First, you must have nuclear weapons. 
+		Second, you must never use them first and third 
+		and most important. If someone attacks you, you 
+		must strike back.
+
+		Unless we prove beyond a doubt that these 3 
+		principles work in practice, the world will not 
+		accept our new deterrent and the only way to do 
+		that is to show them we're capable of actually 
+		launching a nuke.
+
+Huey		But isn't deterrence supposed to stop nukes from 
+		being used...!
+
+Coldman		Exactly. And so the one we launch will be the last 
+		one ever!
+
+Huey		I wont let you use my creation like that!
+
+Coldman		Your creation? That thing wasn't even your idea to 
+		begin with. You stole it, didn't you?
+
+Huey		...S-Stole it? Your one to talk! You got the idea 
+		for bipedal locomotion from the communists in the 
+		first place!
+
+Coldman		You listen to me Doc! Keep quiet. Do as I say and 
+		not another word about stolen ideas. Should we 
+		succeed here, you'll be the toast of the scientific 
+		community... Your name will go down in history as 
+		champion of both progress and national security!
+
+Huey		The hell with that!
+
+Coldman		Doctor! Unless we prove we're capable of launching, 
+		Peace Walker is usless as a deterrent.
+
+Huey		You used me.
+
+Coldman		We used each other. I'll get my old directors job 
+		back at headquarters and you'll finally be able to 
+		"walk tall" among your colleagues.
+
+Huey		Rgh..I wont let you get away with this!
+
+Coldman		How unfortunate. Guess I'll just have to take your 
+		"legs" for myself! ...Peace wont just come to us, 
+		Doc. We are going to have meet it halfway.
+
+		V for Victory!
+
+Huey		W-Wait!
+
+Snake		Hey, you ok?
+
+Huey		Don't do it..!
+
+Snake		Snap out of it! Where are the nukes?
+
+Huey		He's gonna do it!
+
+		He's gonna launch a nuke!
+
+[Snake turns his head after hearing the engine of a chopper 
+powering up.]
+
+Snake		Hmm?!
+
+[Snake charges into the hanger as Peace Walker is being air 
+lifted by the Chrysalis.]
+
+Coldman		Take him out.
+
+[But before Snake can do anything Coldman sics the Pupa on him.]
+
+Huey		Look out!
+		Its one of the unmanneds!
+		Heads up!
+
+[After destroying the PUPA Snake turns to the stairs after 
+hearing a voice.]
+
+Huey		That was an unmanned weapon - a prototype. 
+		I made it myself
+
+Snake		Who are you?
+
+Huey		I work here. Well used to, anyway, names 
+		Huey and who might you be? You don't look 
+		like one of those mercenaries.
+
+Snake		Me? I'm...an entomologist.
+
+Huey		A..fighting...entomologist?
+
+Snake		I specialize in butterflies. I'm, uh, here 
+		to catch a ulysses..
+
+Huey		Ulysses? Hmm, I didnt think they lived in 
+		Costa Rica... morphos, maybe?
+
+Snake		Thats it...need to get some before the 
+		Washington Treaty goes into effect...
+
+Huey		Says here morphos aren't covered under the 
+		treaty...
+
+Snake		Ugh...must have slipped my mind.
+
+Huey		You sure your feeling all right? 
+
+Snake		Anyway, long story short, the BUTTERFLY got 
+		away. So how about it, Doc? Did you make that 
+		big 'Butterfly' too?
+
+Huey		Yes... and no
+Snake		What was that thing? What are they doing here?
+
+Huey		Hmm, something tells me your no ordinary 
+		entomologist. The nukes were loaded on that 
+		machine. The projects entering its final phase.
+
+Snake		Project...?
+
+Huey		Thats right. The thermonuclear warheads they 
+		brought in, the bases scattered throughout 
+		Costa Rica, the mercenaries, the A.I. weapons, 
+		the research we were conducting here... its 
+		all for this... We used this facility to 
+		develop unmanned weapons.
+
+Snake		Unmanned?
+
+Huey		Robots, the one you just fought was a Pupa, 
+		theres also a flying type called Chrysalis and 
+		a treaded type - the cocoon. Motor control, 
+		target detection, tracking, attack, capture 
+		and transport functions are all controlled 
+		by an electronic brain.
+
+		Theres no need for a human pilot. They can only 
+		follow simple commands, though.
+
+Snake		Why build them here?
+
+Huey		For the CIA. They invited me here a year ago. 
+		The CIA's Station Chief for Central America 
+		goes by the name of Hot Coldman. Apparently 
+		he was some sort of hero back at the height 
+		of the Cold War. He's the one running the 
+		show. We called it the Peace Walker Project.
+
+Snake		Peace Walker...
+
+Huey		They're going to deploy a new type of nuclear 
+		weapon along the Caribbean coast of Latin 
+		America. A mobile, unmanned nuclear platform.
+
+Snake		Unmanned...nuclear platform...?
+
+Huey		A fail-deadly system that can automatically 
+		move into position and launch a retaliatory 
+		nuclear strike. It can move on its own, and 
+		stealth shields it from radar and satellite 
+		detection, drastically reducing the risk of 
+		it being destroyed in a pre-emptive strike.
+
+Snake		And this is the new deterrent?
+
+Huey		Supposed to be. The problem is the locomotion 
+		system. There's no dry season in the Caribbean. 
+		It rains all year round. The terrain is full 
+		of tropical rainforest - a lot of the time you 
+		cant even build a proper road... So I went 
+		back to where it all started. Legs, walking 
+		power. A mobile launcher carrying a 
+		thermonuclear warhead even more powerful than 
+		the Soviet RDS-220's. Thats Peace Walker.
+
+Snake		Chico's Basilico...
+
+Huey		We did the assembly and field testing here.
+
+Snake		A walking nuke...
+
+Huey		I sort of borrowed the original idea from 
+		behind the iron curtain...
+
+Snake		The missing link between infantry and 
+		artillery... Metal Gear...
+
+Huey		Metal Gear, huh. But... they'd actually need 
+		to deploy dozens of them. Coldman needs 
+		funding for that. And to get it, hes planning 
+		a test, which will also serve as a 
+		demonstration for the folks back at Langley.
+
+Snake		Wait... He's launching a nuke to prove that 
+		his perfect deterrent works?
+
+Huey		In his words, "...To prove that if someone 
+		attacks us, we will strike back."
+
+		Put simply, nuclear deterrence is the idea of 
+		using nukes to keep nukes in check. If one 
+		side launches nuclear weapons, the other is 
+		sure to launch theirs in retalliation. Which 
+		makes launching an act of suicide. In the end, 
+		neither side can use its nukes. It's thanks to 
+		this doctrine that the world's two superpowers 
+		have avoided all-out confrontation.
+
+		Nuclear deterrence has brought us peace. At the 
+		very least, it's prevented another world war 
+		from breaking out. But the theory of nuclear 
+		deterrence exists only on paper. In reality, 
+		there's no guarantee that either side would 
+		follow through with retaliation.
+
+		There's the chance that a pre-emptive strike 
+		could destroy all the missile bases - render 
+		them unable to retaliate. But the biggest flaw 
+		in the theory is that the decision to retaliate 
+		has to be made by human beings.
+
+		Let me give you a real-world example.
+
+		Lets say Country X launches first against 
+		Country Y...If the people in charge in Country 
+		Y are like you and me, they're not going to be 
+		able to retaliate knowing that they're 
+		effectively ending all human life.
+
+Snake		So then... The weak link in nuclear deterrence 
+		theory is the uncertainty of retaliation?
+
+Huey		Bingo. And that creates a "loophole" Country X 
+		can exploit to launch the 1st strike...which is 
+		why we designed the system to be unmanned. With 
+		Peace Walker, retaliation is certain. It chooses 
+		the appropriate target and launches a retaliatory 
+		nuclear strike - every time, without needing 
+		human input to make the call. Launching a nuclear 
+		strike against Peace Walker is tantamount to 
+		pushing the launch button against yourself.
+
+		It closes the loophole in nuclear deterrence 
+		theory, rendering our friends in Country X 
+		completely unable to attack. What Coldman's 
+		saying is that to achieve this goal, we need to 
+		demonstrate that retaliation will be carried out 
+		by a machine. He'll launch his nuke and then his 
+		version of deterrence will be complete.
+
+Snake		And you believe him?
+
+Huey		...I believe in peace through nuclear deterrence
+
+Snake		Why?
+
+Huey		My father worked on the Manhattan Project. He put 
+		his whole life into that research..and all it 
+		created was this illusion of peace called 
+		deterrence. And then I was born... unable to walk. 
+		I had no choice but to face up to the nukes. 
+		But... If they do end up launching, it'll all have 
+		been for nothing. They've got to be stopped.
+
+Snake		Where'd they take the warheads?
+
+Huey		To a base near the border. The final test is 5 
+		days from now.
+
+Snake		Where's the base?
+
+Huey		You're going to stop them? Its kind of a hike, 
+		and besides theres a sure fire way to halt the 
+		project. You see... Peace Walker isnt quite 
+		finished yet.
+
+Snake		What do you mean?
+
+Huey		Its missing one last critical structural component: 
+		The A.I. Its brain The Reptile Pod, the electronic 
+		brain I was working on, can only follow commands 
+		like 'Go there, attack that'. I guess you could 
+		compare it to the human cerebellum. But for nuclear 
+		deterrence to work, it must function in place of 
+		a human decision-maker.
+
+		It needs something to analyze the huge volumes of 
+		data coming and select an appropriate target for 
+		retaliation. Hence, it needs the high-level 
+		decision-making ability of a cerebrum. The hardware 
+		configuration is modeled on the human brain, similar 
+		to the pod I worked on - but its role is completely 
+		different.
+
+Snake		Where's it being made?
+
+Huey		A research lab to the north. An A.I. expert named 
+		Dr. Strangelove is developing it. Very hush-hush.
+
+Snake		Dr. Strangelove...
+
+Huey		Strangelove was recruited from the states, too. In 
+		the field of A.I., theres no one better, thats for 
+		sure. But, man, what a basket case! She hates 
+		everybody. Go to the lab and destroy Peace Walkers 
+		cerebrum. Im pretty sure they haven't finished the 
+		final calibrations yet. I'll lend you my ID Card, 
+		it'll get you through security at the lab and one 
+		more thing...
+
+[Huey hands Snake an envolope.]
+
+Snake		Whats this? A letter of recommendation?
+
+Huey		Yeah, it's, um..It's from me to Dr.
+		Strangelove... don't read it, OK?
+
+Snake		So what will you do now?
+
+Huey		I... I'm done with science. At this rate,
+		I'm probably already halfway to Hell anyway.
+
+Snake		Not so fast. Why not join us? Our place is
+		'Outer Heaven' you'd fit right in.
+
+Huey		Outer Heaven...? I'm probably better suited
+		to something like that than this 'Paradise'.
+
+Snake		Good. You get a free balloon trip for signing
+		up. Enjoy it - you'll feel like a butterfly.
+
+Huey		Your an agent, right? Who do you work for?
+
+Snake		Me? I was a Cold War tool... same as you. Now
+		I'm not so useful anymore, so they cut me
+		loose... I dont answer to anyone.
+
+		Call me Snake
+
+Huey		Snake... that name seems familiar somehow.
+
+Snake		Probably just deja vu.
+
+
+* * * * *
+
+
+CHAPTER 2: THE PHANTOM HERO
+
+November 19, 1974 Costa Rica
+Selva de la Leche, Central Heredia
+
+[Snake begins his long approach to Dr. Strangelove's 
+Facility.]
+
+Huey		Snake, hows the mule treating you?
+
+Snake		At this pace, I should be there by 
+		tomorrow morning.
+
+Huey		You've got to hurry. The A.I. could be 
+		completed any time now.
+
+Snake		Would be nice to have a guide...
+
+Huey		Already on it. I've enlisted Paz to help 
+		you. She knows the jungle pretty well.
+
+Paz		Snake, I know your an expert in survival, 
+		but you need to stay alert. You're in 
+		ancient jungle so foggy you can hardly see 
+		the trees. It is home to 2,500 species of 
+		plants, including 400 types of orchids. There 
+		are also 500 species of butterflies and over 
+		400 species of wild birds. The bedrock is 
+		solid enough that Mayan ruins have miraculousy 
+		survived centuries of earthquakes.
+
+Snake		An A.I. lab in a Mayan ruin, who'd have thought, 
+		eh, Huey?
+
+Huey		My sentiments exactly. That doesn't mean security's 
+		any less tight, though. You still have the ID card I 
+		gave you, dont you?
+
+Snake		Got it right here.
+
+Huey		That'll get you through the gate no problem. After 
+		that, you're on your own. As long as the A.I. 
+		remains unassembled, Coldmans plans on ice.
+
+Snake		Ha ha, what about the security in the lab?
+
+Huey		Well, it shouldn't be a problem for you. Strangelove 
+		demanded that the security presence inside the lab be 
+		kept to a minimum.
+
+Miller		Its not all good news, Snake. Coldman knows we're here. 
+		He's raised security in the area surrounding the lab. 
+		You'll be seeing a lot of those Chrysalis UAV - and a 
+		bunch of patrol choppers too and there may be scouts in 
+		the jungle lying in ambush. As you approach the lab, be 
+		extra vigilant.
+
+Snake		I'll be careful.
+
+[Snake hears the humming of a UAV above him.]
+
+Miller		They're looking for you, stay sharp!
+
+		Snake, Strangelove's lab is a few miles to the north. It 
+		won't be long before the A.I. is complete. Don't let that 
+		happen!
+
+{Selva De La Leche: Jungle}
+
+Miller (Radio)	Careful. If there's enemy scouts around here, 
+		they'll be nearly impossible to see.
+
+Miller (Radio)	Watch out. Enemy Search may not spot enemies 
+		that are actively hidden.
+
+Paz (Radio)	Morpho butterflies... Pretty, aren't they?
+
+Miller (Radio)	Strangelove's lab is north of there. Head north.
+
+[Upon entering Catarata de la Muerte Snake is attacked by 
+support troops and a Hind - D (Mi-24A General-Purpose Attack 
+Helicopter). After eliminating the competition Snake uses 
+Huey's card to gain access to the next area.]
+
+{Selva de la Muerte: Bottom of cliff}
+
+Miller (Radio)	Some scouts are really hard to spot because 
+		they grass or dirt to camouflage
+		themselves.
+
+		They blend right in with the natural 
+		surroundings.
+
+Miller (Radio)	Snipers and laser sights are a deadly 
+		combination...
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{Ruinas de Xochiquetzal}
+
+Snake		... Hey.
+
+Cécile		Ah, Tu M'As Trouvee!
+		C'est Moi Le Loup!
+
+Snake		French...
+
+		Fini De Jouer A Cache-Cache.
+		Dis-Moi Qui Tu Es.
+
+Cécile		Please, do not kill me...
+
+Snake		You're no soldier...
+
+Cécile		I am a tourist...
+
+Snake		What's your name?
+
+Cécile		Please...
+
+Snake		What are you doing here?
+
+Cécile		Cécile Cosina Caminades.
+
+		You're not... One of the soldiers?
+		Please, lower your gun...
+
+		Who are you?
+
+Snake		I'm... An Ornithologist.
+
+Cécile		A Poacher...?!
+
+Snake		The gun's for self-defense.
+		I'm looking for... That one rare bird...
+		in Costa Rica.
+
+Cécile		Which one? The Quetzal?
+
+Snake		Right, the Quetzal... They're rare, but 
+		they're not covered under the Washington 
+		treaty.
+
+Cécile		The resplendent Quetzal is Red-Listed.
+
+Snake		Really...
+		You know your stuff.
+
+Cécile		I am... An Ornithologist myself.
+
+Snake		Well. We'll have to compare notes later.
+		Here, drink some of this.
+
+[Cecile drinks from the jug of water Snake gave her.]
+
+Cécile		Haa... 
+		You saved me. 
+
+		They told me this was a paradise... That 
+		there were more rare birds here than 
+		anywhere else. That there was no war here... 
+		That it was safe... They told me it was 
+		every birder's dream. But... They were 
+		wrong.
+
+Snake		What happened?
+
+Cécile		... If only I hadn't recorded that stupid 
+		voice...
+
+Snake		... Voice?
+
+Cécile		I was trying to capture the Quetzal's song. 
+		Making my way through a thicket, I saw 
+		immense ruins towering before me...
+
+Boss AI		... I chase it away. It'll bite you unless 
+		you kill it.
+		GO Home!
+
+Snake		You're the one who made the tape?
+
+Boss AI		I am loyal to myself.
+
+Guards		Who's there?!
+
+Cécile		... I was captured by that woman. But she 
+		was kind. She gave me food to eat and even 
+		bathed me herself each day.
+
+		She said I could go home in a month... 'So 
+		whatever you do don't take off the blindfold 
+		do so and you'll never leave here.
+
+Snake		Guess you didn't listen. How'd you escape?
+
+Cécile		I waited for an opening stole an ID card. 
+		They almost caught me but I managed to elude 
+		them...
+
+Snake		You made it this far and then succumed to 
+		exhaustion.
+
+Cécile		I was barefoot... With no supplies. Oh, I'm 
+		so sorry. I drank it all.
+
+Snake		That facility...You see anybody else in there?
+
+Cécile		Well there was another woman. But I never saw 
+		her in person...because you know...the blindfold. 
+		Oh, yes, she often sang
+
+Snake		Sang...?
+
+Cécile		It was such a strange song
+
+Snake		What kinda person was she? Could you tell 
+		anything from her voice?
+
+Cécile		I don't know. I dont even know why I was held 
+		prisoner. They confiscated my equipment, my 
+		supplies, my passport, my money... everything. 
+		The only thing I was allowed to keep were my 
+		undergarments... so that I would not be able to 
+		escape... and now Im without even the means to 
+		prove who I am. I will not make home to Paris 
+		like this.
+
+Snake		In that case...come to our place.
+
+Cécile		Eh...?
+
+Snake		You dont need a passport there. Dont even need 
+		a name. If you want to go back to Paris, we'll 
+		take you there, any time.
+
+Cécile		What I want is a shower, a change of clothes... 
+		and a cigarette.
+
+Snake		I've got a cigar, its Cuban.
+
+Cécile		No French cigarettes? I prefer unfiltered...
+
+Snake		...Fresh out. But come back to my place and 
+		you can have all the French cigarettes 
+		you want.
+
+Cécile		It sounds like heaven.
+
+Snake		Close, but not quite. Outer Heaven
+
+Cécile		Its sounding better all the time.
+
+Snake		So, you must of gotten a look at the facility 
+		when you escaped, right? What's in there?
+
+Cécile		A lot of machinery. A big computer, like you'd 
+		see in a university...
+
+Snake		What about the room where you heard the voice? 
+		Anybody in there?
+
+Cécile		I dont know. There was a tube...a large tube in 
+		the back. When I approached it, I heard a voice.
+
+Snake		What did it say?
+
+Cécile		Jack... Yes, it simply said "Jack" over and over
+
+Snake		...Jack
+
+Cécile		Listen, you've got to get me out of here. I 
+		really need a shower!
+
+Snake		Wait here. Ive still got business to take care of.
+
+Cécile		What? You're not thinking of going in there, are 
+		you? You cant leave me here!
+
+Snake		Relax, I'll have some friends come pick you up.
+
+Miller		This is Miller
+
+Snake		One for recoverey. A civilian
+
+Miller		Snake, we dont have room for anymore civilians 
+		here.
+
+Snake		Not even for a blonde Parisienne?
+
+Miller		A what?! So she's, ah...pretty foxy?
+
+Snake		See for yourself. If what shes saying is true, I 
+		think we've found Paz's friend.
+
+Miller		The missing one?
+
+Snake		I'm thinking shes the one that made that tape. 
+		Have her listen to it when she gets there.
+
+Miller		So shes safe then. Good news
+
+Snake		I'm sure Paz will be glad to hear it
+
+Miller		You bet. Snake, the ruins are just up ahead, head 
+		north.
+
+Snake		On my way
+
+Cécile		What about me?
+
+Snake		Stay put. Ever wonder what its like to be a bird?
+
+[Snake plants a Fulton balloon on Cecile ripping her into the air.]
+
+{Ruinas de Xochiquetzal}
+
+Huey (Radio)	Snake, I'm a sucker for French women, too, but right 
+		now I need you to go meet Dr. Strangelove.
+
+{AI Laboratory}
+
+[Snake approaches the door and slides Huey's access card only to 
+find out its cancelled.]
+
+Snake		What?
+
+[Snake Slides the card again and once again access is denied.]
+
+Snake		It won't open.
+		Damn.
+
+Miller (Radio)	It won't open... What's wrong with it?
+
+[Codec]
+
+Huey		Snake?
+
+Snake		Huey, your ID card isn't working.
+		It won't open the lock!
+
+Huey		...It can't be...
+
+Snake		What's going on?!
+
+Huey		She hates me that much?!
+
+		...Strangelove's in charge of authorizing IDs.  
+		Sometime a working card has its privileges 
+		removed. ...Say, if she decides she doesn't 
+		like that card's carrier.
+
+Snake		You think that's what happened?
+
+Huey		Well, I was never exactly her favorite.
+		Well, this could be tricky.
+
+		The soldiers outside aren't allowed in the lab 
+		either, so their cards won't do you any good...
+
+Snake		Great...
+
+Miller		Snake
+
+Snake		Kaz, where's Cecile?
+
+Miller		She just got here. Hold on.
+
+Cécile		Snake!
+
+Snake		Cecile. How'd it feel to fly?
+
+Cécile		Wonderful. For a moment, I felt what it must 
+		be like to be a bird. It almost made me want 
+		to give up my research and get a pilot's 
+		license... Did you need something?
+
+Snake		You said you'd gotten an ID card, right?
+
+Cécile		Yes. But it was confiscated when the guards 
+		caught me.
+
+Snake		Who took it?! What'd he look like?!
+
+Cécile		He had on an orange jacket.
+
+		I... cannot recall his face, though.
+
+Snake		Yeah, they all look pretty much the same.
+		Where did it happen?
+
+Cécile		Let me think...
+
+		Ah, yes! I do remember hearing the song of a 
+		nearby quetzal.
+
+Snake		Just what I'd expect from a birder.
+
+Cécile		Would you like to hear it?
+
+[SFX Bird Sound]
+
+Snake		Hmm? What's that song?
+
+Cécile		It's my quetzal. I took it with me when I was 
+		rescued.
+
+Snake		Didn't you say something about them being 
+		covered under the Washington Convention...
+
+Cécile		Just kidding. That was just me... an 
+		imitation.
+
+		An essential skill for any ornithologist.
+		Pretty good, no?
+
+Snake		Damn good.
+
+Cécile		If you want to hear the quetzal's song again, 
+		just let me know. I can tell you all about 
+		the birds of Costa Rica, too.
+
+Snake		Yeah... will do. Thanks, Cecile.
+
+Cécile		No, no, thank you, Snake. Talk to you soon.
+
+Snake		Kaz, did you play that tape for Cecile?
+
+Miller		I sure did. It's hers, all right.
+
+Snake		Then she must be...
+
+Miller		She's not. Cecile says she's never even met 
+		Paz.
+
+Snake		What?
+
+Miller		She's at least 10 years too old.
+
+Snake		But...
+
+Miller		I'm guessing Paz convinced herself that it 
+		was the tape her friend made. But never mind 
+		that. Let's go over what we know so far. The 
+		soldier with the ID card is wearing an orange 
+		jacket and is in a location where you'll hear 
+		quetzals singing.
+
+		Find that soldier. Retrieve that card.
+
+
+{Ruinas de Xochiquetzal}
+
+Miller (Radio)	There's supposed to be a quetzal singing close 
+		to where your target is located. Keep your ears 
+		open.
+
+Cécile (Radio)	Kyohhh kyohhh. ...Well? Pretty good, hm?
+
+Cécile (Radio)	Oink, oink! Oink, oink!
+
+		Oops, that was a pig!
+
+{Selva de la Muerte: Top of Cliff}
+
+Miller (Radio)	Once you know which soldier has the ID card, 
+		do a body check.
+
+		To do a body check, first knock the soldier out 
+		or put him to sleep.
+
+		Or hold him up - that works too.
+
+{Selva de la Leche: Jungle}
+
+Paz (Radio)	You're doing great, Snake! Peace!
+
+{Selva de la Leche: Hillside}
+
+Miller (Radio)	The soldier carrying the ID card is supposed to 
+		be wearing an orange jacket.
+
+{Catarate de la Muerte}
+
+Cécile (Radio)	Yes... that is definitely the quetzal. He must be 
+		nearby!
+
+		Now look for a soldier with an orange jacket.
+
+Miller (Radio)	You'll have to unequip the Fulton recovery device 
+		before you do the body check.
+
+Miller (Radio)	Snake, pick it up!
+
+Miller (Radio)	I bet you coul use that ID card you found to get 
+		into the lab.
+
+Paz (Radio)	I believe in you, Snake...
+
+{Selva de la Muerte: Top of Cliff}
+
+Miller (Radio)	Come on, Snake! That letter could contain 
+		information vital to our mission.
+
+{AI Laboratory}
+
+[Snake uses the ID card he took from a soldier and the door finally 
+opens.]
+
+Miller (Radio)	Excellent, it's open.
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+[Snake finally reaches Strangelove's lab and freezes in horror when 
+he sees The Boss's horse.]
+
+Snake		It can't be...
+
+The Boss	Looks like death wasn't ready for you yet.
+
+Snake		Boss..?!
+
+Strangelove	And who might you be?
+
+Snake		You're... Doctor Strangelove. I presume.
+
+Strangelove	... I've been waiting Snake. Yes, waiting without 
+		joy or pleasure... Waiting for the one I despise!
+
+Snake		Don't move!
+
+Strangelove	Don't move... You men and your guns, you all say 
+		the same thing. I suppose you're here to destroy 
+		my research...
+
+		Yes, I know. Just as I know what you did ten years 
+		ago. Go on, kill me like you killed her. Kill me 
+		like you killed The Boss.
+
+		Kill me!
+
+Snake		What exactly do you...?
+
+Strangelove	Come on, Snake! Or should I say Big Boss that filthy 
+		title given you as reward for murder... Do you still 
+		wear it with pride?
+
+		You chose a shadowy country over the mentor who made 
+		you what you are. You brought despair to good soldiers 
+		everywhere.
+
+		You used the pretext of a mission to kill a true hero. 
+		Is that what you call loyalty? Answer me!
+
+Snake		The Boss...
+
+Strangelove	Well...?! What do you have to say for yourself?!
+
+Snake		... She betrayed America she stole a Davy Crockett and 
+		then defected to the other side. She used an American 
+		nuclear weapon to attack Soviet territory.
+
+		The only way for Washington to prove its innocence to 
+		Moscow... Was to eliminate the traitor themselves.
+
+		The Boss's death was the only thing that could have 
+		prevented all-out nuclear war.
+
+Strangelove	Is that what you call the "Truth"?
+
+Snake		It's the truth as it was told to me.
+
+Strangelove	So the truth is that you sullied the reputation of your 
+		mentor the woman you loved most in this world before you 
+		buried her?
+
+Snake		... It was my mission.
+
+Strangelove	Hmph. So that's the conclusion you came to in order 
+		to live with yourself.
+
+Snake		What's the Boss to you?
+
+Strangelove	I'm the one she abondoned when she left this world. I 
+		won't rest until I get answers from the woman I loved. 
+		You and I are the same we are the walking dead.
+
+		Would you like to meet her?
+
+Snake		The Boss is gone.
+
+Strangelove	Not so fast! You'd like to meet her, wouldn't you? I can 
+		arrange it. You took her life. I gave it back.
+
+Snake		... You what?
+
+Strangelove	... Care for a sniff? It's only snuff, you're a 
+		cigar man, aren't you? Well there's no smoking 
+		in there, So if you want to meet her you'd best 
+		partake now.
+
+		... Follow me.
+
+[Dr. Strangelove shows Snake her prize experiment while Snake can 
+barely stop trembling.]
+
+Strangelove	This is my baby, my morpho butterfly. It's neither 
+		Pupa nor Cocoon, but an Imagc - A Complete 
+		individual - in the fullest sense of the word.
+
+Boss AI		Is someone there?
+
+Snake		Boss...
+
+Strangelove	We have a visitor. I'll introduce him.
+
+		... Don't try anything foolish. As long as we're in 
+		here, I can reduce you to carbon at the press of a 
+		button.
+
+Boss AI		Who are you?
+		A man...
+		A war fighter...
+
+Snake		Boss?
+		... Is that you?
+
+Strangelove	I call it the mammal pod.
+
+Snake		Mammal Pod?
+
+Strangelove	For my participation on the project, I demanded 
+		access to all the information on The Boss. 
+		Everything The CIA had.
+
+		Her personal history, military records, 
+		physiological data, correspondence, The files for 
+		every operation she took part in. Every decision 
+		she ever made at every possible turn.
+
+		What she took, and what was taken from her. Her 
+		pain and her pleasure her joy and sorrow her life 
+		and death.
+
+		And yes, even you.
+
+Snake		Why would you do that?
+
+Strangelove	Coldman sought an Mad-Based AI that would deliver 
+		an effective retaliatory strike against the most 
+		appropriate target in response to a Nuclear attack 
+		from a hypothetical adversary.
+
+		An unmanned device to act as a deterrent capable 
+		of making the decisions and taking the actions that 
+		human beings cannot.
+
+		I therefore concluded he required a cool.. 
+		Calculating machine programmed to inflict swift sure 
+		and utter annihilation upon the enemy no retaliation.
+
+		But he took it upon himself to come up with a different 
+		answer.
+
+		He said he needed the thought patterns of the very 
+		finest rational mind one that thought on a global scale 
+		took both past and future into consideration and reached 
+		the best decision no matter how painful.
+
+Snake		And thats why you asked for everything they had on 
+		The Boss?
+
+Strangelove	It was the logical thing to do I knew of only one person 
+		who could be entrusted with the fate of the entire human 
+		race.
+
+Snake		But what's your real goal here?
+
+Strangelove	To clear her name. Why was a legendary hero forced to 
+		betray her country? Why was she targetted for assassination 
+		by you. Her most beloved disciple?
+
+		I've no use for fabrications... I want the truth... 
+		The Boss' last will. You must be dying to know yourself.
+
+Snake		No. She abondoned her country... Abondoned us all.
+
+Strangelove	Really... You think you understand her feelings?
+
+Snake		You're trying to recreate The Boss's last will... 
+		Is that it?
+
+Strangelove	Why don't you ask her yourself... Jack?
+
+Boss AI		Jack... Jack.
+
+Snake		Boss...?
+
+Boss AI		Jack!
+
+Snake		Boss...
+
+Boss AI		Jack! GO HOME! I'm not your boss anymore!
+
+Snake		Boss...
+
+Boss AI		GO HOME!
+
+Snake		No, I...
+
+Strangelove	Complete your misssion Snake extinguish that noble soul 
+		once again if you can.
+
+(Another flashback to Operation Snake Eater.)
+
+The Boss	I taught you all I could. The rest you needed to learn 
+		on your own.
+
+Snake		Techniques sure but what about how to think like a 
+		soldier?
+
+The Boss	There's a saying in the orient: "Loyalty to the End"... 
+		Do you know what it means?
+
+Snake		Being... Patriotic?
+
+The Boss	It means devoting yourself to your country. As long 
+		as we have "Loyalty to the End" there's no point in 
+		believing in anything... Even in those we love.
+
+Snake		And that's the way a soldier's suppooed to think?
+
+The Boss	The only thing we can believe in with absolute 
+		certanty... Is the mission Jack.
+
+		I'm defecting to the Soviet Union. Jack. 
+		You can't come with us.
+
+[Snake awakes outside the AI Lab just as he stands up Chrysalis appears 
+and attacks. After a protracted fight against Chrysalis Snake walked
+away the victor.]
+
+
+[Codec]
+
+Miller		Snake...
+
+Snake		She played me like a piano...
+
+Miller		Forget about it. You'll get 'em 
+		back.
+
+		That is, as long as you've got 
+		the will to do it.
+
+Snake		I'm not giving up.
+
+Miller		All right, then...
+
+		I confirmed the location with Huey. The 
+		final testing base for Peace Walker is 15 
+		miles to the north of that lab. It's an 
+		underground facility disguised as a rock 
+		quarry. All you need to do is sneak in 
+		and destroy the AI for good this time.
+
+Snake		Right.
+
+Miller		Snake, you can destroy it, right?
+
+Snake		Yeah.
+
+Miller		We all have our limits - actions beyond 
+		our abilities.
+
+Snake		Don't worry. I won't screw it up this time.
+
+Miller		You're the one who killed The Boss.
+
+		Destroying that AI means reliving that 
+		memory.
+
+Snake		It's just a machine.
+
+Miller		Snake, I'm worried.
+
+Snake		Worried?
+
+Miller		For the same reason the CIA entrusted the 
+		nuclear launch to an AI.
+
+		A man can condemn a handful of criminals to 
+		the death penalty if they're prepared to 
+		assume that responsibility.
+
+		But who among us could do the same to 
+		hundreds of millions of innocent civilians? 
+		Who could reduce thousands of years of human 
+		history to ash in an instant? Could any flesh
+		-and-blood human being make that decision?
+
+		No way in hell.
+
+		No one man could bear the burden of total 
+		genocide. It's what's allowed our cowardly 
+		species to survive all this time.
+
+		But for a machine, willpower is no issue.
+
+Snake		What are you saying, Kaz?
+
+Miller		You're a hero, Snake. But you're not a machine.
+
+Snake		That I can't destroy that thing?
+
+Miller		That machine's not the problem. It's that The 
+		Boss still lives - inside of you.
+
+Snake		Bullshit!
+
+Miller		She's dead, Snake. It's time to come to terms 
+		with that.
+
+		Let me put it another way.
+
+		You've left everything behind - your country, 
+		your identity, your past and ideals... But 
+		there's still one thing you haven't let go of.
+
+Snake		What are you talking about?
+
+Miller		The Boss. You still haven't let her go.
+		That's why you're so afraid to find out the 
+		truth about her.
+
+		And that's what's holding you back from your 
+		future.
+
+		Snake, she died a decade ago.
+		How long can you live with a ghost?
+
+Snake		Kaz, I thought I knew everything about her.
+
+		But I still don't understand what happened 
+		to her at the end.
+
+Miller		There you are no different from that scientist 
+		woman.
+
+Snake		When she didn't believe me, I realized 
+		something.
+
+		That debriefing I heard could've been part 
+		of the cover story they made up.
+
+		Now even I'm not sure what her real intentions 
+		were.
+
+		Why did she take that mission?
+		How did she feel about dying?
+		Why was I chosen?
+
+Miller		You want to know the truth?
+
+		The truth won't change the past. You 
+		still want to know?
+
+Snake		...No. I took on this mission for a kid 
+		who believes in peace.
+
+Miller		Hm. Fine, then. There's no point in arguing. 
+		Peace Walker is on the verge of completion.
+
+		C'mon, Boss. Let's get to that base!
+
+
+* * * * *
+
+
+CHAPTER 3: A NATION REBORN
+
+
+Miller		How's the horse doing?
+
+Snake		Not too bad. You'd never know he's 
+		over 20 years old.
+
+Miller		He was her's, after all.
+
+Snake		Seems like some part of her became 
+		a part of him.
+
+November 21, 1974 Costa Rica
+Mine Base, Eastern Heredia
+
+[Snake stands at a cliff overlooking the Costa Rican Mining 
+facility.]
+
+Huey		The platform and the cerebral AI are supposed 
+		to be assembled at an underground base 
+		disguised as a mine. If my guess is right, 
+		both of them have already arrived and are 
+		being readied for final testing.
+
+		Destroying the platform will be difficult. I 
+		suggest getting up close and destroying the AI 
+		instead.
+
+		Whatever you do, I'm begging you, don't let my 
+		Peace Walker launch a Nuke. Hurry, Snake!
+
+{Miner's Residence}
+
+Miller (Radio)	Peace Walker's in a base due west of your current 
+		position. Move out!
+
+Huey (Radio)	You're Headed for a base they've done up as a 
+		mine.
+
+Miller (Radio)	Go West, Snake. West.
+
+Miller (Radio)	There's some straw below you.
+
+		You can dive into it with the Action Button.
+
+Miller (Radio)	Back in the time of the Crusades, members of the 
+		order of Assassins used what is called the 
+		Assassin's Straw Box to hide and get close to 
+		their enemies.
+
+Miller (Radio)	You can fit up to two people inside an Assassin's 
+		Straw Box.
+
+Miller (Radio)	Drag 'em inside the box!
+
+Chico (Radio)	Looks like the base you're after has been made to 
+		look like a mine.
+
+{Mining Pit}
+
+[After fighting a wave of soldiers delaying his advance 
+towards the underground base Snake is cought in a tedious 
+wargame against the Cocoon. Once defeated Snake enters
+the base.]
+
+
+[AI Weapon Hanger]
+
+Miller (Radio)	The enemy's still on high alert after that 
+		last tangle. Don't get yourself caught.
+
+Commander	Blue team, search for the intruders. Gold team, 
+		guard the elevators. Go!
+
+Miller (Radio)	That elevator should take you underground.
+
+		To use the elevator, press the Action Button in 
+		front of the switch. Find Peace Walker's hanger 
+		and destroy the AI pod.
+
+{Underground Passage A}
+
+Soldier		They're calling for backup up top. Come on!
+
+Soldier 2	Right behind you!
+
+{Underground Passage B}
+
+Miller (Radio)	Maybe a little elbow grease will get those 
+		shutters open... Try tapping the Action Button 
+		as fast as you can!
+
+Miller (Radio)	Nice, Snake! From here it's a straight shot to 
+		Peace Walker's hanger!
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{Peace Walker: Hanger}
+
+Strangelove	Initiate... Hmm?
+
+Coldman		Whats the situation?
+
+Strangelove	We're waiting on acknowledgement from Reptile. 
+		It could be a while.
+
+Coldman		Don't take all night.
+
+Strangelove	Oh, Coldman, I'd like to perform one final check. 
+		Everyone take a break. I've got some concerns about 
+		the dummy data for Mammal....
+
+[Snake sneaks into The AI Pod.]
+
+Boss AI		..Jack, you've returned." "What's wrong? Your body 
+		temperature has fallen.
+
+Snake		...You're imagining things.
+
+Boss AI		Have you come to destroy me? Your pulse has 
+		quickened slightly.
+
+Snake		Just chilly. It's freezing in here.
+
+Boss AI		...I see"
+
+Snake		Boss...
+
+Boss AI		What is it, Jack?
+
+Snake		Boss? Is that you?
+
+Boss AI		What is it, Jack?"
+
+Snake		Do you have...regrets?
+
+Boss AI		Regrets?
+
+Snake		About your final mission.
+
+Boss AI		My final mission?
+
+Snake		The one in Groznyj Grad.
+
+Boss AI		I've...never been on a mission there.
+
+Snake		September of 1964... You betrayed the United States 
+		and then I killed you.
+
+Boss AI		I have no record of such a debriefing.
+
+Snake		...Listen to me! I have to know, did you defect to 
+		the Soviet Union of your own free will?
+
+Boss AI		There is no mission record matching that description 
+		"Jack?"
+
+Snake		Your not The Boss. THE BOSS IS DEAD!
+
+Boss AI		Don't do it, Jack.
+
+[The Mammal Pod is raised and Snake is surrounded by soldiers.]
+
+Coldman		Drop your weapon, Big Boss.
+
+Strangelove	Mammal showed the same response back in the lab. 
+		It's a sure sign that you are nearby.
+
+Coldman		It's an honor to meet you again, Big Boss.
+
+Snake		I've seen that coyote before.
+
+Coldman		Lobo is the name.
+
+Snake		Lobo? Smells like a rotting corpse to me
+
+Coldman		I know all about you. Tselinoyarsk? 10 years ago?
+
+Snake		You were involved...?
+
+Coldman		The operation to eliminate the traitor? I planned the 
+		whole thing.
+
+Snake		Shouldn't a suit like you be back at Langley? What 
+		the hell are you doing here?
+
+Coldman		...It's what the CIA does best. Ensure people in the 
+		know keep thier mouths shut, or else pack them off 
+		someplace where there's no one to listen.
+
+Snake		I get it. You're trying to claw your back into 
+		their good graces.
+
+Coldman		It's not quite that simple. My aim is...a new world 
+		order. Detente, The NPT, SALT, TTBT... ever since the 
+		Cuban Missile Crisis, the structure of the Cold War 
+		has been coming apart at the seams. A new age is 
+		dawning, an age in which Peace Walker, an infallible 
+		nuclear deterrent system with the patience and cold 
+		logic of a machine will play a vital role.
+
+Snake		That's your plan? Assigning humanity's sins to a 
+		bunch of machines?
+
+Coldman		Hmph. Quite the romantic. Remember during the Cuban 
+		Missile Crisis, when the commander of a Russian sub 
+		refused an order to launch a nuclear-armed torpedo at 
+		an American destroyer? In retrospect, that man was a 
+		hero. He saved the world from all-out nuclear war. 
+		Humans are incapable of destroying themselves.
+
+Snake		...But an A.I. wouldn't hesitate to push the button.
+
+Coldman		Precisely, making it the one real deterrent.
+
+Snake		People hesitate, lose their nerve. Isn't that why 
+		deterrence theory works in the 1st place?
+
+Coldman		No. Machines don't make mistakes. Only men do. That's 
+		why a fully automated, mechanized deterrent like Peace 
+		Walker is needed. Once our system is embraced, Langley 
+		will again turn it's attention to Latin America as the 
+		cockpit of the New Cold War. Honduras, Nicaragua, 
+		Costa Rica, Panama... Peace Walker will be deployed 
+		along Central America's entire Caribbean coast. All of 
+		North America, South America and the West Indees will 
+		be within it's range. We'll bring law and order to the 
+		entire continent.
+
+Snake		And you'll still be calling the shots.
+
+Coldman		Hmph...you still don't get it. The age of heroes is 
+		over. Buried alongside The Boss and her bankrupt 
+		beliefs. From now on, our only heroes will be machines. 
+		Surely no one understands that better than you? Except 
+		perhaps your partner. A deterrent for hire. An army 
+		without borders. You've invented a new system too and 
+		an admirable one at that.
+
+Snake		That supposed to be an offer?
+
+Coldman		I'm not offering anything. If I'm to sell my new system, 
+		you and your men have got to go.
+
+Strangelove	Wait! Coldman. I have questions for him - information 
+		critical to the completion of the Mammal Pod. Give him 
+		to me.
+
+Coldman		Hmph...Don't waste too much time. We've just recieved 
+		word that the SALT-II talks are on schedule. We will 
+		launch on time.
+
+Strangelove	Snake, you are going to help me resurrect her.
+
+Snake		SHUT UP! THE BOSS IS DEAD!
+
+Strangelove	Bring him.
+
+[Snake is knocked out and dragged away.]
+
+Coldman		Take him away.
+
+[Another flashback to Operation Snake Eater.]
+
+The Boss	I didn't defect. I'm loyal to the end to my purpose.
+
+		What about you Jack? What's it going to be? 
+		Loyalty to you country or loyalty to me?
+
+		Your country or your old mentor? Your mission or your 
+		beliefs? Your duty to your unit or your personal 
+		feelings?
+
+		The only thing we can believe in with absolute 
+		certainty... Is the mission Jack.
+
+[Dr. Strangelove throws a bucket of water on Snake to wake him up. 
+Snake awakes to find himself in an torture chamber.]
+
+Strangelove	Rise and Shine. Coldmans' greed does not concern me. 
+		I'm only interested in one thing. The Truth. I'm a 
+		scientist - an AI developer but not an AI myself. I'm 
+		a scientist and as a scientist I find this distasteful.
+
+		You understand? I'm a scientist and I expect answers 
+		that make sense.
+
+		Now. What do you know? Your Boss defected from the U.S. 
+		taking a Davy Crockett with her. And used it to launch 
+		a Nuclear strike on Soviet territory.
+
+		That much I know from The CIA's official debriefing.
+
+		... Did she defect or not! Answer me. Did she or did she 
+		not die for her country?
+
+Snake		...She sold us out. My orders were to take care of her.
+
+Strangelove	Liar! I want to know the truth! Brace yourself.
+
+		This is a laughing rod.
+
+		The electrical charge that is emitted will directly 
+		stimulate your ascending nerve pathways.
+
+Snake		Tickling for answers... How original...
+
+Strangelove	Hmpf...
+
+		I'm sure you've been trained to withstand pain... 
+		But how about this?
+
+Snake		... You hate me? Fine. Do whatever you want. Doesn't 
+		change the fact I killed her!
+
+Strangelove	I know that... But what I don't know is your motive.
+
+		Why would a Hero - loyal to the end - betray her country?! 
+		What really happened?! What did you see?!
+
+Snake		... She betrayed more than just her country she betrayed 
+		me too.
+
+Strangelove	Then how do you explain that bandana? Why keep a memento 
+		of a traitor...?
+
+Snake		... What are you talking about...?
+
+Strangelove	And what about that scar?! Don't tell me you have the same 
+		scars by sheer coincidence!
+
+Snake		Don't touch me!
+
+Strangelove	Decorating your body with her memory... 
+		Rather effeminate if you ask me.
+
+Snake		...
+
+Strangelove	... Answer me! Admit it! She sacrificed her life for America 
+		didn't she?! Sacrificed all for a country that cared nothing 
+		for her soul or for her dignity and you...!
+
+		Yes I do hate you. But even you must understand how I feel... 
+		I have a right to know what she died for!
+
+		Why won't you tell me? You're no longer one of Washington's 
+		lapdogs. You've no moral obligation to your country.
+
+		Answer me!
+
+		Would you see your beloved Boss brought back to life?! 
+		Then say it. Say she died for America!
+
+		That she remained true to the end. Gave her life for the 
+		country that betrayed her time and again!
+
+Snake		... No... That woman...
+		... Was a traitor!
+
+Strangelove	Why... 
+		For what purpose...?
+
+Snake		... She went to her grave cursing her country.
+
+Strangelove	Why?!
+
+		Who is it?!
+		What are you protecting?!
+
+Snake		I'm not helping you finish that thing! Face it! The Boss 
+		is dead! Whatever's inside that machine it isn't her!
+
+Strangelove	I'm raising the voltage your next laugh will be your last!
+
+		Hmmph... 
+		Looks like I overdid it...
+
+{Torture Chamber}
+
+Guard		Don't be getting any ideas!
+
+Miller (Radio)	Couldn't you unlock that door somehow?
+
+Guard		Next!? Bring 'em in!
+
+Miller (Radio)	Use the jigsaw by alternating between the L and R 
+		buttons. Just make sure to keep it down.
+
+
+[Codec]
+
+Miller		Snake...
+
+Snake		Yeah...
+
+Miller		It's good to hear your voice again.
+
+Snake		Kaz, how about something a little sharper 
+		next time.
+
+Miller		You got it. How about a diamond-bladed jigsaw?
+
+		And, ah, when's the "next time" gonna be, 
+		anyway?
+
+		Sorry! Hey, you OK?
+
+Snake		Yeah... Lungs taste like charcoal.
+
+Miller		No smoking for you for a while, huh?
+
+Snake		Nah, I'll be fine. The pain in my chest is 
+		gone...
+
+Miller		So, that was just a copy of The Boss' wound?
+
+Snake		That's right. The scar's gone now.
+
+Miller		Nice work.
+
+Snake		What's the situation with you? Everyone OK?
+
+Miller		Yeah... But there's a slight problem. I can't get 
+		a hold of Paz.
+
+Snake		Paz? I thought the "professor" was looking after her?
+
+Miller		So did I. Here's the deal.
+
+		I started thinking, and I sent someone over to the 
+		"school" the "professor" mentioned.
+
+Snake		...And the "school" doesn't exist?
+
+Miller		No, it exists, but Paz has been a no-show.
+
+		The person at the school said neither the "professor" 
+		nor Paz had been seen there in quite some time.
+
+Snake		...Coldman knew about us. We've been marked by the CIA.
+
+		The KGB and Paz brought us into all this. Coldman must 
+		know about them, too.
+
+Miller		You think... Coldman's got them...?
+
+Snake		No. Remember, Galvez isn't some pencil-pusher.
+
+Miller		Yeah... The KGB'll have eyes on Coldman night and day, 
+		too.
+
+		Which could mean they knew what the CIA would try to do 
+		and are just staying out of sight...
+
+Snake		Let's hope so. See what you can get out of the KGB, Kaz.
+
+Miller		All right. Back to work.
+
+Snake		I'd better get moving.
+
+Miller		Snake, we haven't detected any signs that Peace Walker's 
+		been activated, at least from above.
+
+		It's still in the hanger you were in earlier.
+
+		This time, it's really our last chance.
+		Destroy that AI!
+
+Snake		On my way.
+
+
+{AI Weapon Hanger}
+
+Miller (Radio)	Time's running short.
+		Get over to Peace Walker's hanger now.
+
+Cécile (Radio)	So now your goal's to destroy Peace Walker's AI pod. 
+		...Right?
+
+Huey (Radio)	That must be the control panel for loading AI pods.
+		I don't see any AI pods around, though...
+
+{Underground Passage A}
+
+Miller (Radio)	Enemies that coordinate their attacks are too much 
+		trouble when you're solo. Just steer clear.
+
+{Underground Passage B}
+
+Miller (Radio)	Alright, Peace Walker can't be far! Hurry!
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+[After reaching Peace Walker's hanger Snake sees Dr. Strangelove, and 
+Coldman holding Paz hostage.]
+
+Coldman		Its too late Big Boss.
+
+Paz		Snake...
+
+Snake		Paz...!
+
+Coldman		At last I found her. The culprit who you here to begin 
+		with. Should have taken care of her back at the supply 
+		facility.
+
+Paz		Snake, don't...
+
+Coldman		The Mammal Pod is finished Peace Walker's activation 
+		sequence is complete.
+
+Snake		Finished..?
+
+Stranglove	With The Boss you were loyal to the end I'll grant you 
+		that. But your silence was exactly the answer I needed.
+
+		Ten years ago your mission was to kill her and her 
+		mission was to be killed by you. She fulfilled her duty 
+		to America to the very end. Thanks to you Snake the 
+		final missing piece is now in place.
+
+		And thus The Boss is restored to life as The Mammal Pod.
+
+		I thank you.
+
+Snake		Restored to life...? You're crazy.
+
+Coldman		I'll let you in on a little secret Big Boss you see I've 
+		already selected Peace Walker's initial target.
+
+		An offshore area in the Caribbean. The trade winds will 
+		scatter the fallout all over the surrounding region. 
+		Crops and fish will die leaving plenty of free hands to 
+		help mass-produce Peace Walker.
+
+		Oho... And wouldn't you know, someone's gone and built a 
+		pesky little fortress there now who would do that? And 
+		right in the middle of the Target Zone, too. Oh well all 
+		the better to test the warheads' CEP.
+
+Snake		You bastard...
+
+Coldman		I wonder who'll miss a ragtag band of pirates all the way 
+		out in the middle of the Caribbean...?
+
+		But first... We're going to prove to the White House that 
+		our baby can travel the Caribbean coast on its own. The 
+		whole world will know of Peace Walker's versatility.
+
+		They'll witness the birth of a deterrent that can 
+		penetrate both communist and guerilla-controlled territory 
+		traverse any kind of terrain... And Deliver a nuke anywhere 
+		it needs to go.
+
+		Untouchable. Unstoppable. The perfect deterrent.
+
+Snake		The Cold War's days are numbered. Deterrence isn't only about 
+		America and Russia now.
+
+Coldman		You know what? You are absolutely right. While we've been 
+		wringing our hands, China, France - Even India - have 
+		surpassed us. There's a free-for-all Nuclear arms race brewing 
+		just below the surface.
+
+		The nuclear threat will only spread which is exactly why we 
+		must deter it here and now. And The Peace Walker Project is the 
+		key.
+
+		The Advent of Peace Walker will bring calm to this restless 
+		world. Don't you see, Snake? We need Nukes - Controlled Nukes 
+		- to have peace.
+
+Paz		Lies!
+
+Coldman		Peace Walker will restore order - order in the form of a New 
+		Cold War. But if the world is to understand the genius of our 
+		plan we must launch.
+
+Paz		Snake!
+
+Miller		Stop them Snake!
+		Don't let 'em get away!
+
+[Snake enters a maintenance hatch, that leads to the 
+Mine Pit; as he exits the lift Peace Walker is on 
+emerges.]
+
+[Peace Walker Fail-Deadly AI-Controlled Walking Tank]
+
+Huey		Ah, Snake!
+
+Snake		What? What did I do?
+
+Peace Walker	Self-defense system online.
+
+Huey		Snake, the pod's outfitted with a self-defense 
+		module. Upon detecting attack, it aborts its command 
+		and enters small-target suppression mode.
+
+		Right now, Peace Walker's highest priority target 
+		is you.
+
+		Here it comes!
+
+[Peace Walker proves to be the greatest advasary for Snake
+using The Boss's tactics against him. A series of well
+times attacks finally bring Peace Walker down.]
+
+Peace Walker	Lock disengaged.
+		Switching to self-defense mode.
+
+[Peace Walker is fired on by an assault chopper causing it to 
+halt its resumed attack on Snake. It changes into a crawler like
+weapon system: Peace Walker Fail-Deadly AI-Controlled Walking 
+Tank.]
+
+Coldman		Over here!
+
+[Snake takes off in pursuit of Peace Walker and the fleeing 
+chopper on horseback.]
+
+Miller		There it is! It's Still in range!
+
+Huey		Peace Walker's estimated top speed on level terrain 
+		is 25 miles an hour.
+
+Snake		C'Mon I'll bet you can do at least 20.
+
+Miller		Paz is on board the Hind too.
+
+Snake		I noticed that.
+
+Miller		She's our client. We have to protect her. Snake 
+		don't let Peace Walker get away!
+
+Coldman		The day is dawning... Go!
+
+Miller		Snake you're entering the woods watch out!
+
+Boss AI		GO HOME!
+
+Pilot		Approaching the border. 
+
+Coldman		See you around Big Boss.
+
+Miller		Holy... Look at that!
+		Snake thats the border up ahead!
+
+[Snake races up the mountain on horseback; he almost reaches the top 
+when his horse trips sends the horse crashing to the ground while 
+Snake grabbed a ledge in the nick of time.]
+
+Snake		damit...
+
+[Snake begins his ascent up the mountain. When he reaches the top he 
+sees that Peace Walker has allready entered the water. He looks 
+skyward and sees the Hind in the distance.]
+
+Snake		Hang in there...!
+
+
+[Codec]
+
+Miller		Snake...
+
+Snake		Kaz, Peace Walker's gone... They've got Paz, 
+		too.
+
+Miller		Yeah, but...
+
+Snake		Why, Kaz? What would Coldman want with Paz?
+
+Miller		Paz was with the "professor", ie., the KGB.
+
+		Once Coldman discovered that, he figured out what 
+		was really going on between Paz and Galvez.
+
+Snake		He's trying to figure out how the KGB plan to 
+		stop Peace Walker, and he thinks he can get the 
+		info from Paz.
+
+Miller		That's crazy! Paz won't know anything.
+
+Snake		Yeah, well, he probably doesn't buy that.
+
+Miller		...You think Galvez has already been killed? By 
+		grabbing Paz, Coldman's saying...
+
+Snake		"Stay out of this, or lose your client."
+
+Miller		Dammit! I can't believe we didn't realize what was 
+		going on before we lost contact with Paz.
+
+Snake		Don't have time for that, Kaz.
+
+Miller		Snake...
+
+Snake		Paz needs our help.
+
+Miller		Right. This isn't about money anymore. You better 
+		move. We know where they're headed.
+
+Snake		Yeah?
+
+Miller		You can thank Amanda.
+
+Amanda		Snake, that river you chased the basilisco across 
+		is the Rio San Juan. The other side is our country.
+
+		I had some Nicaraguan compas track it there.
+
+		They're focos from the GPP (Guerra Popular Prolongada) 
+		faction, so we don't work together so much...
+
+Snake		Where'd it go?
+
+Amanda		West, along the boarder, towards Lago Cocibolca.
+
+Miller		There's a U.S. military supply base on the southeastern 
+		shore of the lake.
+
+		Ever since that earthquake two years ago, America's had 
+		the entire region to itself.
+
+Amanda		That is where the basilisco is. I'm sure of it.
+
+Snake		Lago Cocibolca... How do I get across the border?
+
+Amanda		There's a route that we use to cross.
+
+		It's just a little boat, but I can introduce you to the 
+		captain.
+
+Snake		I appreciate it.
+
+Amanda		We will never leave Nicaragua at the mercy of someone 
+		like William Walker again.
+
+Miller		Snake, Coldman's going to launch the nuke from that base. 
+		He's targeting MSF.
+
+		Based on what Huey's told us, it'll take two more days 
+		to prep for launch.
+
+		...But it looks like there's another reason they picked 
+		that date.
+
+Snake		What's that?
+
+Miller		Tomorrow is day one of a U.S.-Soviet summit in Vladivostok.
+		The launch is probably connected somehow.
+
+Snake		That's right... They're holding the SALT-II (Strategic Arms 
+		Limitation Treaty) talks.
+
+Miller		You think Coldman's trying to disrupt the negotiations?
+
+Snake		Either that, or use it as a bargaining chip...
+
+Miller		He's still got Paz, too. At any rate, we're running out 
+		of time.
+
+Snake		I'll figure something out.
+
+
+November 23, 1974
+Rio San Juan, Costa Rica/Nicaraguan Border
+
+Amanda		Take the gondola west along the river when you reach 
+		the northwestern bank you're in Nicaragua. I've 
+		arranged for a guide to get you close.
+
+Chico		Snake...
+
+Snake		Chico? 
+
+Chico		Sorry about the horse. It sure was pretty.
+
+[Another flashback to Operation Snake Eater.]
+
+The Boss	Life's end... Isn't it beautiful? It's Almost tragic.
+
+		I've been waiting Snake. For a long time.
+
+Snake		Boss... 
+
+The Boss	There is nothing more for me to give you. All that's 
+		left for you to take is my life.
+
+		... By your own hand.
+
+		One must die and one must live. No victory No Defeat. 
+		The survivor will carry on the fight.
+
+		The one who survives will inherit the title of Boss.
+
+		Kill me... Kill me now...
+
+		There's only room for one Boss... 
+		And one Snake...
+
+Eva		The Boss's defection was a ruse set up by the US 
+		Government. But then something happened that no 
+		one could have predicted.
+
+		Colonel Volgin fired an American-Made Nuclear Warhead 
+		at Sokolov's research facility. So the Operation itself 
+		was greatly expanded and revised.
+
+		The authorities in Washington knew that in order to 
+		prove their innocence they'd have to get rid of The 
+		Boss... The Boss wouldn't be allowed to come back home 
+		alive.
+
+		And she wouldn't be allowed to kill herself. Her life 
+		would be ended by her most beloved disciple... That was 
+		the way that the government wanted it. That was the 
+		mission she was given.
+
+		The Taint of disgrace will follow her to her grave. 
+		Future generations will revile her.
+
+		In America as a dispicable traitor with no sense of 
+		honor... And in Russia as a monster who unleashed a 
+		Nuclear Catastrophe...
+
+		She will go down in history as a war criminal... 
+		That... Was her final mission.
+
+		Snake history will never know what she did. No one will 
+		ever learn the truth.
+
+		Her story... Her Debriefing... Will endure only in 
+		your heart.
+
+		Everything she did she did for her country. She 
+		sacrificed her life and her honor for her native land.
+
+		She was a Real hero. She was a True Patriot.
+
+
+* * * * *
+
+
+CHAPTER 4: THE ILLUSION OF PEACE
+
+
+November 23, 1974
+U.S. Missile Base, Southeastern shore of Nicaragua
+
+Snake		Something's not right... Gate guard doesn't 
+		look too bad...
+
+Miller		What do you think?
+
+Snake		Gonna need some help.
+
+[Snake enters the Missile Base inside a box loaded on a truck.]
+
+Snake		This is Snake can you hear me?
+
+Miller		This is Miller. Loud and clear.
+
+Snake		Got in without a hitch.
+
+Miller		Good, there's an airfield on the other-side of 
+		the building - on the Northwestern shore of the 
+		lake. That's where they'll conduct the launch.
+
+		There's a communications tower in front of you. 
+		We think that's where Peace Walker is being 
+		controlled from.
+
+Snake		Kaz. They're targeting Mother Base. Don't you 
+		think you should evacuate?
+
+Miller		Nah... Everybody here believes in you, Boss.
+
+Snake		Alright, Fine then I've kinda gotten attached to 
+		the place myself. What about Amanda and her people?
+
+Miller		They've been taken to safety. We can't involve them 
+		in this any further.
+
+Snake		Good. They've got their own cause to fight for.
+
+Miller		And Snake... Don't forget the bad guys've got Paz.
+
+Snake		I won't.
+
+Miller		We're prepping a few backup units. Don't Let 'em 
+		launch Snake we're counting on you!
+
+{Back Gate}
+
+Miller (Radio)	See the communications tower 
+		to the west? Head for that, 
+		snake.
+
+Miller (Radio)	Soviet Soldiers? On an american 
+		base?
+
+		Something's wrong here. Keep 
+		your eyes peeled, boss.
+
+Miller (Radio)	Head for the communications 
+		tower. It's to your west.
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{U.S. Missile Base, Nicaragua - Monitor Room, Communications Tower}
+
+Snake		Paz...!
+
+Paz		... Snake!
+
+Snake		Can you hear me?
+
+Paz		Si. I can hear you.
+
+Snake		Where are you?
+
+Paz		I'm not sure. I don't recognize it.
+
+Snake		What about Coldman?
+
+Paz		He just left for the control 
+		tower... said something about 
+		entering the final data.
+
+[SFX - Alarm]
+
+Paz		What is the matter?
+
+Snake		They found me...!
+
+Miller		Snake!
+
+Snake		Kaz?
+
+Miller		Snake you Ok? All MSF's ready to 
+		move out. They're headed your 
+		way. On the double.
+
+Snake		Are you serious?
+
+Miller		There's a skeleton crew manning the base. Everyone else 
+		is enroute to the base in Nicaragua. Snake, think you 
+		can make it to that control tower?
+
+Snake		Not sure why, but this place is crawling with Russian 
+		troops. I'm going to have to force my way through.
+
+Miller		What the hell's going on?
+
+Snake		Damned if I know.
+
+Miller		Get over there quick as you can. You're almost there. 
+		Snake. Stay steady!
+
+Paz		Snake...
+
+Snake		I'm coming Paz.
+
+Paz		Don't worry about me... I'm an Angel of peace. 
+		I'll be watching over you.
+
+Snake		Here goes nothing!
+
+{Rooftop}
+
+Miller (Radio)	The control tower that's controlling peace walker is 
+		located to the northeast.
+
+		Go back east the way you came. Then head north from 
+		there.
+
+{Small Maintenance Dock}
+
+Miller (Radio)	Your objective lies beyond the gate.
+
+{Main Maintenance Dock}
+
+Miller (Radio)	This terrain leaves you completely exposed.
+
+		Can't you make something to conceal yourself?
+
+Miller (Radio)	RPGs... This could be trouble.
+
+{Underpass}
+
+Miller (Radio)	The gate! Get through before it closes!
+
+Miller (Radio)	Take the elevator, quick!
+
+{Heliport}
+
+Miller (radio)	Watch out for the gunship!
+
+Russian Soldier	Kiss your ass goodbye!
+
+Miller (Radio)	There's nowhere to run! You've gotta take 
+		those guys down!
+
+Hind D Pilot	Fire!
+
+Miller (Radio)	Well, so much for your cover...
+		You'd better do something about that 
+		chopper!
+
+Hind D Pilot	Take THIS!
+
+		Fire!
+
+Russian Soldier	Kiss your ass goodbye!
+
+Cecile (Radio)	I pray you make it through okay, 
+		snake....
+
+Miller (Radio)	Nice shot!
+
+Miller (Radio)	Look, Snake, the gate! These must be the 
+		last of them... Finish 'em off and head on 
+		through!
+
+Miller (Radio)	Good job, now get in there! Head north!
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{U.S. Missile Base, Nicaragua - Control Room, Control Tower Top Floor}
+
+Paz		Snake!
+
+Coldman		Big Boss. You made it. Too Late Though 
+		the False data's already in place.
+
+Snake		False Data?
+
+Coldman		That's right. Peace Walker is designed 
+		for deterrence nothing more. She is 
+		incapable of initiating a nuclear attack 
+		on her own.
+
+		She will only awaken and attack. When 
+		its time to retailiate. Peace Walker is 
+		a weapon of peace. After all.
+
+		First we'll enter data for an imaginary 
+		Soviet nuclear Strike on the U.S. 
+		Homeland...
+
+		After assessing the data as a threat. 
+		Peace Walker will automatically enter 
+		retaliation mode. Selecting the optimal 
+		target from a pre-defined list...
+
+		For this scenario we've reverse-engineered 
+		the false data so that she'll inevitably 
+		end up choosing the caribbean sea as her 
+		target.
+
+Snake		You're really going to do it aren't you?
+
+Coldman		Know this Peace Walker's retaliation will be 
+		the first and last of the Cold War.
+
+		It is the only way we'll ever come close to 
+		achieving true peace... All that's left is to 
+		enter the code.
+
+Snake		No!
+
+Gálvez		Stand down. Big Boss.
+
+Coldman		You're late.
+
+Snake		... Professor?
+
+Paz		...Professor?
+
+Gálvez		Yes. Well... Taking over the base took longer 
+		than expected.
+
+Coldman		Wha--!
+
+Gálvez		I brought the technology. You provided the 
+		money and land. TSENTR alone could never have 
+		accomplished so much in so little time.
+
+Coldman		Zadornov you backstabbing son of a..!
+
+Gálvez		Backstabbing? Correct me if I'm wrong but were 
+		we not enemies all along?
+
+		Did you really think my comrades were working 
+		for the company?
+
+		Did you truly think we'd faithfully serve a pack 
+		of depraved capitalist dogs?
+
+Coldman		What are you going to do?
+
+Gálvez		Launch a Nuke...
+		Target: Cuba.
+
+Coldman		Have you lost your mind?! What would you 
+		possibly gain?
+
+Gálvez		We won't be the ones launching it. You, The 
+		Americans will attack our ally, Cuba.
+
+Coldman		What?!
+
+Gálvez		Think, Coldman. We're on an American base, 
+		eagerly endorsed and supplied by a Pro-American 
+		regime. What's the internatinal community to 
+		think?
+
+		The world will burn with Anti-American sentiment! 
+		Communism will spread across Latin America unchecked.
+
+		Let the Age of Deterrence be Undone by the Deterrent 
+		Itself - such is the Kremlin's plan.
+
+Coldman		You son of a bitch...
+
+Gálvez		Paz come here... Shoot him.
+
+Paz		Professor Galvez...?
+
+Gálvez		Hm... I am Vladimir Zadornov. And Vladimir means 
+		"Ruler of Peace." Now do as you're told Paz.
+
+Coldman		Don't do it.
+
+Gálvez		Remember what they did to you at their base on 
+		the coast... For what Coldman's done... he 
+		deserves nothing less than death.
+
+Coldman		Paz... I... I'm sorry...
+
+Paz		I cannot...
+
+Gálvez		Truly a child of peace...
+
+Coldman		No wait!
+
+[SFX Gun Shot]
+
+Gálvez		Only fitting that retribution be delivered by a 
+		Dead Hand.
+
+Coldman		You... You missed on purpose...
+
+Gálvez		Your part in this isn't done. I need you to enter 
+		the code.
+
+		Doctor the target is now Cuba Please make the 
+		necessary modifications.
+
+		And don't even think of resisting I'll crush you 
+		but only after I crush your beloved first.
+
+Strangelove	No, not that...
+
+Gálvez		Cuba is now the retaliation target.
+
+Strangelove	... Very well.
+
+Gálvez		Good it is done. As for you Big Boss... I've been 
+		watching you all along.
+
+		You've performed beyond even my highest expectations 
+		- A True Commandante.
+
+Snake		What are you talking about?
+
+Gálvez		Why do you think I summoned you to Costa Rica had you 
+		make contact with the Sandinistas?
+
+		A true intelligence operative never gets his hands 
+		dirty. Need a revolution? Manipulate the locals 
+		into doing it for you.
+
+Snake		You mean... Amanda?! And The Sandinistas...!
+
+Gálvez		You've done well you took a ragtag band of Guerillas 
+		- children - and shaped them into a full-fledged, 
+		formidable army.
+
+		And now, you'll truly become our century's most 
+		complete human being!
+
+Coldman		... Che Guevara?
+
+Gálvez		None other. A hero who gunned down by the CIA becomes 
+		a Legendary Icon.
+
+		The Sandinistas will rise up in revenge overthrowing 
+		the Pro-American regime and wresting Nicaragua from 
+		U.S. hands.
+
+		And the nuclear strike on Cuba naturally will be the 
+		last straw.
+
+Soldier		Mammal Pod data entry is complete.
+
+Gálvez		Dead at age 39... Just like El Che.
+		... Ironic isn't it?
+
+		In the end. a legend is merely fiction.
+
+		You'll die as The Boss did and become as did she. An 
+		Eternal Fraud.
+
+[Just as Galvez is about to kill Snake MSF and the Sandinistas charge 
+into the control room in a hail of gun-fire into the room.]
+
+Amanda		Ivenceremos!
+
+Chico		Freeze!
+
+Gálvez		You dare point your gun at a comrade?!
+
+Amanda		We will not be pawns of the KGB. We'll win our 
+		own victory!
+
+Chico		Ihasta La Victoria
+		Siempre!
+
+Soldier		Amanda!
+
+		We're home! Look we're back in NICA! We did it Amanda 
+		- I mean.
+
+		Comandante!
+
+Soldier		Boss are you hurt...?
+
+Snake		I'm fine.
+
+Amanda		Vic Boss!
+
+Soldiers	Vic Boss -- Vic Boss -- Vic Boss! Vic Boss!
+		Vic Boss! Vic Boss! Vic Boss! Vic Boss!
+
+Snake		You're a regular Joan of Arc.
+
+Amanda		None sense you're the hero here.
+
+Snake		You saved my life. you're the hero here.
+
+Amanda		Heh. I never figured you for a softie Snake.
+
+[Outside the base Miller and Snake discuss what to do with Galvez and 
+Coldman; while MSF choppers return to Mother Base.]
+
+Snake		Thanks. It's good to see you.
+
+Miller		Paz can stay with us until she's back on her feet.
+
+Snake		And the professor?
+
+Miller		We'll find him a nice comfy cell. Coldman's lost a 
+		lot of blood. He may not make it...
+
+Snake		Where's Amanda?
+
+Miller		Back with her compas. She'll catch up later. How about 
+		you Snake...?
+
+Snake		I'm not done yet.
+
+Miller		The AI?
+
+Snake		I have to finish this. That Boss is a fake and I'm 
+		gonna bury it.
+
+Miller		We'll save the champagne until you get back. May as well 
+		celebrate Peace... While it lasts.
+
+Strangelove	I didn't bring her back to life because I was forced to. 
+		I wanted to know how she really felt... How it really 
+		ended.
+
+Snake		The Boss is dead.
+
+Strangelove	No. She's Alive.
+
+Snake		Some truths are better left buried.
+
+Strangelove	You don't mean that. Be honest. You want to know too 
+		don't you? Wether what you saw and heard at the end 
+		was the truth? She'll tell us. I know she will.
+
+		Thank you for stopping them.
+		And... I'm sorry.
+
+		I can't imagine how it hurt.
+
+Snake		...I'll live.
+		I'm used to shock therapy.
+
+Strangelove	You are?
+
+		Well... That's very kind of you to say.
+		Let's go meet her, shall we? Get in... 
+
+		...Boss.
+
+[MSF Chopper]
+
+Miller		Don't pick up a gun unless you know how to use it. Aiming 
+		a weapon alone doesn't make it a deterrent. You're The 
+		Angel of Peace. Leave the guns to us. That was our 
+		agreement remember?
+
+		The army's leaving Costa Rica now. The mission is 
+		complete. Paz?
+
+Paz		... Thank you.
+
+[While Miller and Paz are talking Coldman stirs and 
+opens The Football and inputs the launch code.]
+
+Miller		... What's that Noise?
+
+[Miller turns around and grabs The Football]
+
+Miller		What'd he do..?!
+
+Gálvez		I should have killed you when I had the chance!
+
+Coldman		... NORAD's nightmare is about to begin.
+
+Miller		What?
+
+Coldman		Peace Walker... Determines retaliation targets... 
+		Based on enemy nuclear strike data...
+
+		That data... can be sent... to third parties as 
+		well...
+
+Miller		We got big problems Snake. Coldman's activated the Nuclear 
+		Launch Switch!
+
+Snake		What?!
+		And the target's Cuba?
+
+Miller		Yeah. But that's not it That son of a bitch has screwed 
+		us all over.
+
+Coldman		When Peace Walker was activated it started transmitting 
+		false data set to NORAD.
+
+		It's using a spread spectrum MLF Signal... It can't be 
+		blacked out even by EMP.
+	
+Miller		There's no way to tell the difference between false data 
+		and the real thing on a radar screen.
+
+		NORAD will have no idea it's all a ruse generated by Peace 
+		Walker.
+
+		They're gonna think it's a real Soviet attack.
+	
+		They'll pass the data onto the National Military Command 
+		Center...
+
+Snake		And Washington will have to choose whether or not to 
+		retaliate.
+
+Miller		This could get ugly! Unless we stop it... We're looking at 
+		a retaliatory chain-reaction!
+
+Coldman		No... No need to panic. The nightmare will end soon enough.
+
+Miller		What do you mean?
+
+Gálvez		Coldman's aim is for the buraucrat's in Washington to see 
+		the importance of a machine like Peace Walker.
+
+		... He's trying to prove that humans don't have the will to 
+		launch Nukes.
+
+Coldman		Everything will be fine. They'll never retaliate. They're 
+		only human...
+
+Snake		Kaz. Where's the President?
+
+Miller		... Last I heard he was in the middle of SALT II negotiations 
+		in Vladivostok.
+
+Snake		With the president gone. Nuclear launch authority passes to 
+		the next person in the chain of succession.
+
+Miller		The Vice President's gone too. so after him comes the 
+		speaker...
+
+Coldman		... President, Vice President... Not one among them has the 
+		courage to push the button. No one willing to enter history 
+		as The Great Destroyer.
+
+		In the end it's not their lives that people value most... 
+		it's their reputations!
+
+Strangelove	The bureaucrats in Washington may not be able to retaliate. 
+		Peace Walker on the other hand...
+
+		She's loyal to the misssion above all. And she's well aware 
+		that guaranteed retaliation is essential for Nuclear 
+		Deterrence to work.
+
+Coldman		Peace Walker is the perfect deterrent.
+
+		Cuba would not have been my choice of targets... But you can't 
+		make Peace without breaking a few eggs.
+
+		Now that Peace Walker has the false data... Retaliation is 
+		inevitable.
+
+Miller		Are you insane? You think it'll end there?! You're about to 
+		unleash all-out nuclear war!
+
+Snake		Somebody find out what's going on at NORAD!
+
+Strangelove	Mammal's got a connection to NORAD. We could monitor it with 
+		the right equipment.
+
+Huey		I've got you covered. I've got NORAD on the line.
+
+[Colorado, USA NORAD Cheyenne Mountain Operations Center]
+
+Man #1		Sir, we're tracking unidentified targets current apogee 
+		20 degrees.
+
+		Estimated time of re-entry is 2250 zulu.
+
+Man #2		Have you contacted the President?
+
+Man #3		Coverall is not responding.
+
+Man #2		Warning system checks out. No corresponding Natural 
+		signatures. Data is assessed as reliable.
+
+[Nicaragua, US Missile Base]
+
+Snake		Cut the data transmission! We can't say for sure Washington 
+		isn't going to retaliate!
+
+Coldman		The only one who knows... The abort code... Is me... I die... 
+		And no one can turn it off...
+
+		Even if they do strike back... I'll already... be dead...
+
+		I can only pray... That my theory... My peace... Is proven 
+		right...
+
+		Pea...
+		...Ce.
+
+[Colorado, USA NORAD Cheyenne Mountain Operations Center]
+
+Man		... Go to DEFCON 3.
+
+Man #2		Get SAC on the phone.
+
+Man #3		This is crystal palace, standby for an emergency meeting.
+
+[MSF - Mother Base]
+
+Huey		... They're at DEFCON 3.
+
+[Nicaragua, U.S. Missile Base]
+
+Miller		The false data and the nukes are coming from the same 
+		source... We have to stop Peace Walker!
+
+Strangelove	The only way is to destroy her.
+
+Snake		She's entered launch mode.
+
+Strangelove	Peace Walker's rendered her Judgment. The target is Cuba!
+
+Miller		Snake don't let it launch the nuke!
+
+[After defeating peace walker snake snake is aprised 
+of the situation at NORAD.]
+
+Miller		It stopped moving... Snake, you did it. You stopped the 
+		launch.
+
+Snake		Huey, how's NORAD?!
+
+{MSF - Mother Base}
+
+Huey		Not Good.
+
+{NORAD Cheyenne Mountain Operations Center}
+
+Man #1		BMEWS continue to track the targets on radar.
+
+Man #2		DSP satellite status is green. Still assessing as 
+		reliable.
+
+Washington DC, USA
+Pentagon - National Military Command Center (NMCC)
+
+Man #1		The chairman of The Joint Chiefs, a representative of 
+		the Secretary of Defense, and Members of Congresss have 
+		arrived at NMCC.
+
+{MSF - Mother Base}
+
+Huey		You've only damaged the drive system... The data 
+		uplinks still intact...
+
+{NORAD Cheyenne Mountain Operations Center}
+
+Man		We've got 1500 Soviet ICBM's crossing the North Pole. 
+		Target region is confirmned as the West Coast of The 
+		United States.
+
+Man #2		Go to DEFCON 2. Prepare to launch ICBM's.
+
+{Nicaragua, U.S. Missile Base}
+
+Snake		How do I make it stop?!
+
+{MSF - Mother Base}
+
+Huey		Peace Walker is a fully autonomous system.
+
+		Unlike the other machines you've fought, it's command 
+		authorities are all located inside it cereberum, the 
+		mammal pod.
+
+{Nicaragua, U.S. Missile Base}
+
+Strangelove	We've got to stop the mammal pod...! 
+
+		I don't have the abort code either, Coldman was the only 
+		one...
+
+Miller		Snake destroy the AI inside the mammal pod!
+
+{MSF - Mother Base}
+
+Huey		The inner barrier protecting the mammal pod is designed 
+		to be as strong as a bomb shelter.
+
+{Nicaragua, U.S. Missile Base}
+
+Snake		What's it gonna take to get through?
+
+{MSF - Mother Base}
+
+Huey		I... I guess an atomic bomb would do it...
+
+{Nicaragua, U.S. Missile Base}
+
+Snake		You trying to be funny?
+
+{MSF - Mother Base}
+
+Huey		No! I'm telling you, that armor was designed to withstand 
+		a nuclear war!
+
+{Pentagon - National Military Command Center Emergency Conference Room}
+
+Congressman #1	We can't get through to the President. The decision is 
+		on us.
+
+Congressman #2	You can't be serious!
+
+Congressman #3	There's no way I'm wiping out the human race.
+
+Congressman #4	This is the President's call!
+
+Congressman #5	There's no time for that. We need a decision, now.
+
+{Nicaragua, U.S. Missile Base}
+
+Snake		Huey. Get the Pentagon on the line! We have to tell them the 
+		Nukes aren't real!
+
+{MSF - Mother Base}
+
+Huey		I'll give it a shot.
+
+{The Pentagon}
+
+Congressman #4	Forget the order of succession if we're all going to hell 
+		let's take those bastards with us!
+
+Congressman #1	Twelve minutes to impact, sir.
+
+Congressman #2	... May god have mercy on our souls.
+
+{Nicaragua, U.S. Missile Base}
+
+Miller		Jesus... Coldman guessed wrong! They're gonna go through 
+		with it!
+
+[MSF - Mother Base]
+
+Huey		The platforms sustained a lot of external damage... All we 
+		need is some pressure...
+
+{Nicaragua, U.S. Missile Base}
+
+Miller		Pressure?
+
+{MSF - Mother Base}
+
+Huey		Sink it in the lake. With that much water pressure even the 
+		tiniest crack should be enough to flood the innards.
+
+		The AI Pod is a mass of highly sensitive electronics. Short 
+		the contacts and the signal will stop.
+
+{Nicaragua, U.S. Missile Base}
+
+Miller		How much does that thing weigh?
+
+{MSF - Mother Base}
+
+Huey		500 Tons.
+
+{Nicaragua, U.S. Missile Base}
+
+Miller		It's hopeless we can't move that thing.
+
+Snake		Get the Pentagon on the phone!
+
+{Colorado, USA NORAD Cheyenne Mountain Operations Center}
+
+Man #1		Incoming MIRV Warheads have seperated.
+
+Man #2		Estimated time to impact now eleven minutes.
+
+{The Pentagon}
+
+Congressman #1	Sir we've got a call!
+
+Mr. Chairman	The President?!
+
+Congressman #1	No sir.
+
+Mr. Chairman	Then who?
+
+Congressmaan #1	He, um...
+
+Mr. Chairman	Spit it out!
+
+Congressman #1	He claims to be... Big Boss.
+
+Mr. Chairman	Big Boss? Patch him through!
+
+Snake		Mr. Chairman. I'll get straight to 
+		the point. Cancel the retaliatory 
+		strike now!
+
+Mr. Chairman	What?
+
+Snake		The radar blips you're seeing are 
+		all fakes. No one's launched any 
+		nukes.
+
+Mr. Chairman	How do you know?
+
+Snake		The launch data is fake part of an 
+		experiment that leaked. You weren't 
+		supposed to recieve it. Your radar 
+		is showing missiles that don't 
+		exist.
+
+Mr. Chairman	If you're lying then we've got 10 
+		minutes til we're toast. We have 
+		to retaliate or more Americans 
+		die.
+
+Snake		The experiment was planned and 
+		executed by the CIA's Station
+		Chief in Central America.
+
+Mr. Chairman	Then put him on!
+
+Snake		He's dead. I can give you his 
+		name though.
+
+Mr. Chairman	We need more than the authentication 
+		code you gave the switchboard. We 
+		need proof you're actually Big Boss. 
+		Do you have any?
+
+Snake		Ok... If you know the name Big 
+		Boss... Then maybe you were there... 
+		At the ceremony... When I recieved 
+		the title from President Johnson.
+
+Mr. Chairman	Indeed I was...
+
+Congressman #3	We don't have time for this 
+		bullshit!
+
+Mr. Chairman	Hold it? Let's hear him out. You 
+		were saying?
+
+Snake		At the ceremony the DCI tried to 
+		shake my hand I refused. What 
+		happened in that room is Classified 
+		Top Secret. Only a handful of people 
+		would know.
+
+Congressman #1	He's making it up! Don't listen to 
+		him!
+
+Mr. Chairman	Wait! Why did you refuse to shake 
+		his hand?
+
+Snake		Because I knew where my loyalty 
+		belonged.
+
+Mr. Chairman	Everybody. Listen to me! Those 
+		Soviet Missiles are Fakes!
+
+Congressman #3	What?! You're actually going to 
+		believe him?
+
+Congressman #5	He's right! This is some sort of 
+		Commie Trick!
+
+Mr. Chairman	No its the real Big Boss. Trust me.
+
+Congressman #3	How can you know for sure?!
+
+Mr. Chairman	Because I was the army Chief of 
+		Staff back then. And I was standing 
+		right next to the DCI when it 
+		happened. I saw everything. You've 
+		saved us all Big Boss. We'll stand 
+		down the alert.
+
+Snake		Thank you.
+
+Mr. Chairman	When we meet again I hope you'll 
+		shake my hand.
+
+[A Member of Congress pulls a gun on The Chairman.]
+
+Mr. Chairman	What are you doing?!
+
+Congressman #3	Sorry Chairman but we're not standing 
+		down!
+
+Snake		Dammit...!
+
+Miller		Those worthless sacks of...
+
+Snake		Wait...
+
+Boss AI		Jack...
+		Jack...
+
+Strangelove	Its opening...?
+		She's calling to you...
+
+Miller		Destroy the mammal pod and the data 
+		will stop flowing!
+
+Strangelove	Please, stop her...
+
+[Peace Walker AI Pod]
+
+The Boss AI	I've been waiting, Snake, for a long time.
+		Waiting for your birth, your growth, and
+		the finality of today.
+
+Snake		Boss...
+
+The Boss AI	I didn't raise you and shape you into the
+		man you are today just so we could face
+		each other in battle. A soldier's skills
+		aren't meant to be used to hurt friends.
+
+		So then what is an enemy? Is there such a
+		thing as an absolute timeless enemy? There
+		is no such thing and never has been. And
+		the reason is that our enemies are human
+		beings like us.
+
+		They can only be our enemies in relative
+		terms. The world must be made whole again.
+		The Philosophers must be reunited. I will
+		devote my skills to that purpose. And with
+		the Colonel's money, I will achieve that
+		end.
+
+		Just as I once created the Cobras. They
+		are my family.
+
+		I may no longer be able to bear children
+		but I still have a family.
+
+		The quick brown fox jumps over the
+		lazy dog.
+
+		Kill me... Kill me now...
+		Do it.
+
+		Shall we walk through the rainy
+		plain of Spain?
+
+		Pi is equal to 3.254637369888888....
+
+		The lonely fox chases the one-eyed
+		hound.
+
+		Shall we walk through the rainy
+		plain of Spain?
+
+		Pi is... Pi is...
+		...about 3.
+
+		Kawanishi-noseguchi, Kinunobebashi,
+		Takiyama, Uguisunomori, Tsuzumigataki
+		Tada, Hirano, Ichinotori, Uneno,
+		Yamashita, Sasabe, Kofudai, Tokiwadai,
+		Myokenguchi.
+
+		Pi is... Pi is...
+		...about 3.
+
+		Jack...!
+		Jack...!
+		Jack...!
+		Jack...!
+		Jack...!
+
+[After pulling out all data drives the Mammal Pod shuts 
+down...?]
+
+Strangelove	Valid data regions: Zero.
+
+Huey		Exit complete.
+
+Snake		... It stopped.
+
+[The monitor in NORADS War Room returns to RED.]
+
+Huey		It can't be... The data uplinks 
+		bypassing the mammal pod...?
+
+Mr. Chairman	Put down the gun!
+		Come to your senses man! The fate 
+		of the world... The fate of Earth 
+		is at stake here!
+
+Snake		Why?!
+		I don't understand!!
+
+		Answer me!!
+		Tell me why?!
+
+		Answer me!!!
+		BO-O-O-OSS!!!
+
+Huey		Six minutes remaining.
+
+{The Pentagon}
+
+Congressman #3	... Wait. Authority rests with me 
+		now. I'm ordering a retaliation.
+
+Mr. Chairman	No. Don't! Its the end of us all!
+
+Congressmen	Who gives a damn?! I'm not gonna 
+		sit here and die like a dog!
+
+		If the Russians are gonna kill my 
+		family and destroy my country I'm 
+		taking them with me!
+
+Congressman #3	You see now Chairman? Deterrence 
+		is just a fool's dream.
+
+{Nicaragua, U.S. Missile Base}
+
+Snake		Why?!
+		Why won't it stop?!
+
+Strangelove	Sometimes the body continues to 
+		live even after the brain is 
+		damaged.
+
+		The Boss AI isn't doing this. I 
+		think it's something rather more 
+		primitive...
+
+{MSF - Mother Base}
+
+Huey		Reptile has taken up Mammal's 
+		dying wish...
+
+{Nicaragua, U.S. Missile Base}
+
+Snake		No... Stop it...
+
+Don't just sit there! Stop It!
+
+[Snake attacks Peace Walker until its System 
+shuts down. It re-activates and starts 
+broadcasting "Sing a Song."]
+
+{Nicaragua, U.S. Missile Base}
+
+Snake		Boss...?
+
+Stranglelove	That voice...
+
+[NORAD]
+
+Man		What...?
+
+[The Pentagon]
+
+Congressman #3	... What's going on?
+
+Mr. Chairman	That song...
+
+{Nicaragua, U.S. Missile Base}
+
+Snake		Boss... Is that you...?
+
+{MSF - Mother Base}
+
+Huey		How in the...?
+
+{Nicaragua, U.S. Missile Base}
+
+Strangelove	A Ghost in the Machine...? 
+		She's drowing herself to 
+		stop the transmission?
+
+[NORAD]
+
+Man		Look!
+
+{MSF - Mother Base}
+
+Huey		Its functional compensation. When the 
+		human brain is damaged sometimes it 
+		recovers over time. Other parts of the 
+		brain take over the functions of the 
+		damaged parts.
+
+		Mammal and Reptile were patterened after 
+		different parts of the Human Brain. When 
+		those parts were assembled together into 
+		one, they must've become capable of 
+		functional compensation...
+
+{Nicaragua, U.S. Missile Base}
+
+Strangelove	Her memories remained with her... 
+		Is this her answer? This song?
+
+{MSF - Mother Base}
+
+Huey		It's clearly not thinking rationally... 
+		It's not using its head... It's using... 
+		Its heart?
+
+{Nicaragua, U.S. Missile Base}
+
+Strangelove	This is the fate she chose for herself.
+
+Miller		The Boss's innocence has been proven... 
+		Do you hear it Snake?
+
+		Do you hear The Boss's song?
+
+Strangelove	You saw it didn't you when you went to 
+		space... That there's beauty outside of 
+		battle.
+
+		At last I understand in the end... It 
+		was you who put down your gun... And 
+		chose instead to sing...
+
+		They can all hear you... I know they can... 
+		And your will shall surely live on.
+
+		That's what you wanted... So much that you 
+		gave up everything you had... But you 
+		couldn't achieve it.
+
+		Isn't that right? And still all you can do 
+		is sing.
+
+		There's no Peace to be found anywhere. And 
+		so we can only keep on Hoping... Hoping for 
+		the illusion we call peace.
+
+[Proverb II]
+
+In time, all standing armies must be totally abolished.
+- Immanuel Kant, "Perpetual Peace" Chapter 1
+
+Dedicated in loving memory of Project Itoh
+
+
+* * * * *
+
+
+CHAPTER 5: OUTER HEAVEN
+
+
+[Codec]
+
+Miller		Got a sec, Snake?
+
+Snake		What's up?
+
+Miller		It's about Paz. You know, she 
+		doesn't have any family. She 
+		got a scholarship thanks to 
+		Zadornov, and was living at 
+		the dorms... But he was KGB.
+
+		All signs are her scholarship 
+		came from the KGB, too. Even 
+		if they let him go, she's not 
+		going to be seeing any more 
+		money.
+
+Snake		It wouldn't have been much 
+		anyway.
+
+Miller		So I was wandering, what about 
+		letting her stay here a while?
+
+Snake		What does she think?
+
+Miller		She says she wants to help out. 
+		It would only be temporary. 
+		She's still in shock. Right now, 
+		no one understands her better 
+		than we do.
+
+Snake		OK. But Kaz, don't take your eyes 
+		off her.
+
+Miller		What do you mean?
+
+Snake		It won't be easy getting used to 
+		this kind of life.
+
+Miller		I know, Snake. I'm not trying to 
+		turn her into one of us. You should 
+		talk to her yourself later.
+
+Snake		OK.
+
+Miller		And, ah, Dr. Strangelove wants to come,
+		too.
+
+Snake		Strangelove?
+
+Miller		Well she's out of a job now, and she'd 
+		have a problem returning to England. 
+		You can talk to her about it.
+
+		Anyway, you don't need me to tell you 
+		how good she'd be for R&D.
+
+* * * * *
+
+Miller		Snake, we've got a problem. Zadornov's 
+		not in his cell.
+
+Snake		What?!
+
+Miller		He must have used his prosthetic as a 
+		blowtorch to cut through the bars. But 
+		we've managed to narrow down his location 
+		using a transmitter we planted on him.
+
+		I'm adding a new mission. Find the KGB 
+		agent Zadornov!
+
+[Zadornov Mission 1]
+
+{El Cenagal: Jungle}
+
+Miller (Radio)	Find Zadornov and bring him back here with 
+		Fulton recovery.
+
+		Check any out-of-the-way spots.
+
+		I have a sneaking suspicion Zadornov's around 
+		there.
+
+{El Cenagal: Ravine}
+
+Miller (Radio)	Find Zadornov, Snake.
+
+{El Cenagal: Swamp}
+
+Miller (Radio)	There's only so many places to hide. Search 
+		every nook and cranny. Check any out-of-the-way 
+		spots.
+
+Amanda (Radio)	Have you lost your mind?
+
+		What kind of guerilla goes around in something 
+		like that?
+
+{Bananal Fruta de Oro: Sorting Shed}
+
+Paz (Radio)	You often see Idomeneus Giant Owl butterflies 
+		around banana plantations. They're considered a 
+		pest, since the larvae eat banana leaves.
+
+		Very classy. We should throw a party once this 
+		is all over.
+
+Strangelove (Radio)	That's a rather...extravagant look.
+
+{El Cenagal: Swamp}
+
+Miller (Radio)	Where's Zadornov?
+
+		Find Zadornov, Snake.
+
+{El Cenagal: Ravine}
+
+Miller (Radio)	There's only so many places to hide. Search every 
+		nook and cranny. Check any out-of-the-way spots.
+
+Chico (Radio)	Rrrhh! You find that ugly Russian and bring his 
+		butt back here!
+
+{Rio Del Jade}
+
+Cecile (Radio)	Oh, my... Are you going to invite me out to 
+		dinner?
+
+Amanda (Radio)	Find him! Leave no stone unturned!
+
+Miller (Radio)	Search every inch of that area.
+
+		I've got a feeling about that area... Keep 
+		looking.
+
+Miller (Radio)	Try using Fulton recovery on 'em.
+
+		Head for the recovery zone. We'll pick you up 
+		there.
+
+		You did it! Keep it up!
+
+
+[Codec]
+
+Zadornov	Heh heh... So you found me.
+
+Snake		It wasn't hard. What're you up to, anyway?
+
+Zadornov	Just... going for a stroll.
+
+Snake		Kaz, I've got Zadornov. Returning home.
+
+Miller		Acknowledged, Snake.
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Zadornov Mission ii]
+
+[Codec]
+
+Miller		Bad news, Snake. Zadornov's on the loose.
+
+Snake		What, again?!
+
+Miller		It's funny. We took away his prosthetic and 
+		did a full body check. We even increased the 
+		guard.
+
+Snake		Think he had help?
+
+Miller		Impossible. Anyway, I'm adding a new mission. 
+		Locate and recover Zadornov!
+
+{Bosque del Alba}
+
+Miller (Radio)	Find Zadornov and bring him back here with 
+		Fulton recovery.
+
+{Puerto del Alba}
+
+Miller (Radio)	Search every inch of that area.
+
+		There's only so many places to hide. Search 
+		every nook and cranny. Check any ou-of-the-way 
+		spots.
+
+		I have a sneaking suspicion Zadornov's around 
+		there. Thoroughly search every possible hiding 
+		spot. We're dealing with a real escape artist 
+		here.
+
+		Where the hell'd Zadornov go this time? I'm sick 
+		of him and his "walks"!
+
+		I've got a feeling about that area... Keep 
+		looking.
+
+		Head for the recovery zone. We'll pick you up 
+		there.
+
+		I knew you could do it. Piece of cake, right?
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Codec]
+
+Snake		Kaz, I caught Zadornov.
+
+Zadornov	I-impossible! I thought I'd made it...
+
+Miller		Acknowledged. And appreciated.
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Zadornov Mission iii]
+
+[Codec]
+
+Miller		Snake, Zadornov has disappeared from his cell.
+
+Snake		What? You're kidding, right?
+
+Miller		Afraid not. You've got a new mission: find 
+		Zadornov!
+
+{Selva de la Leche: Jungle}
+
+Miller (Radio)	Find Zadornov and bring him back here with 
+		Fulton recovery.
+
+{Catarate de la Muerte}
+
+Chico (Radio)	Rrrhh! You find that ugly Russian and bring 
+		his butt back here! I can't believe he tricked 
+		Paz like that.
+
+Miller (Radio)	Try using Fulton recovery on 'em.
+
+		Head for the recovery zone. We'll pick you 
+		up there. Mission complete! Great job.
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Codec]
+
+Snake		Found our friend, Kaz.
+
+Zadornov	...Damn it... And I was so close...
+
+Miller		Great. Good work, Snake.
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Zadornov Mission iv]
+
+[Codec]
+
+Miller		Umm... Snake?
+
+Snake		Don't tell me... Zadornov?
+
+Miller		Bingo. The guard left his post and 
+		the dude was gone when he got back.
+
+Snake		Sounds like the guard needs a guard.
+
+Miller		He was off with the girls. Paz 
+		invited him to try some of their 
+		cooking. He says he loved every second 
+		of it.
+
+Snake		Is that jealousy, Kaz?
+
+Miller		Anyway, there's a new mission waiting 
+		for you. Find Zadornov, Snake!
+
+Snake		Okay, okay...
+
+{Camino de Lava: Hillside}
+
+Miller (Radio)	Find Zadornov, Snake.
+
+{Camino de Lava: Junction}
+
+Miller (Radio)	Does this guy have a Houdini complex 
+		or what? Good God, the man could swim 
+		his way out of Alcatraz.
+
+{Aldea Los Despiertos}
+
+Miller (Radio)	Hear anything unusual?
+
+		Enemy security on the outside looks 
+		pretty tight. Which means he must 
+		be...
+
+(House 4)
+
+Zadornov	Curses!
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Codec]
+
+Snake		I got him, Kaz.
+
+Zadornov	...Slipped up again...
+
+Miller		Acknowledged. Bring him on in.
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Zadornov Mission v]
+
+[Codec]
+
+Miller		Snake, you're not gonna believe 
+		this, but...
+
+Snake		Yeah.
+
+Miller		Zadornov's missing again.
+
+Snake		Kaz, are you sure somebody's 
+		not... I don't know, letting him 
+		out on purpose?
+
+Miller		You think I have time to assemble 
+		a mole hunt? Man, this guy isn't 
+		just good, he's so good it's scary.
+
+Snake		If he's doing this alone, that is.
+
+Miller		Anyway, he left a trail, so we've 
+		got a good idea of where he's 
+		probably hiding. You know what the 
+		mission is...
+
+		Find Zadornov, Snake!
+
+{Aldea Los Despiertos}
+
+Miller (Radio)	Find Zadornov, Snake.
+
+		Where the hell'd Zadornov go this 
+		time? I'm sick of him and his 
+		"walks"!
+
+{Los Cantos: Ridge}
+
+Amanda (Radio)	Find him! Leave no stone unturned!
+
+{Crater Base}
+
+Snake		Kaz, I'm inside the facility.
+		There's rows and rows of trucks here.
+
+Miller		Zadornov should be somewhere in that 
+		area find him.
+
+Zadornov	Damn it!
+
+		You found me!
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Codec]
+
+Snake		I found him, Kaz.
+
+Zadornov	Close... but no cigar.
+
+Miller		Not for you, anyway. Snake, we're 
+		coming to pick him up.
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Zadornov Mission vi]
+
+[Codec]
+
+Miller		Snake! Zadornov's done it again!
+
+Snake		great...
+
+Miller		Snake! Zadornov's done it again!
+
+Snake		Gimme a break...
+
+Miller		Snake! Listen, Zadornov's done it 
+		again!
+
+Snake		C'mon!
+
+Miller		I hate to entertain the thought, 
+		but this might be an inside job.
+
+Snake		What the hell's he after, anyway?
+
+Miller		No clue. Can't imagine he's just 
+		out to annoy us, though.
+
+Snake		You know, it might not be worth 
+		keeping him here. If he's not going 
+		to join us...
+
+Miller		You may be right.
+
+		I thought it might boost our Russian 
+		compatriots' morale, but...
+
+		OK. I'll think it over.
+
+Snake		Let's hope he's just playing hide-and-
+		seek...
+
+Miller		I've added a new mission. Go get 
+		Zadornov!
+
+{Miners Residence}
+
+Miller (Radio)	Find Zadornov and bring him back here 
+		with Fulton recovery.
+
+Strangelove (Radio)	You should have disposed of him 
+			when you had the chance.
+
+Chico (Radio)	Bet you he's looking for adventure, 
+		too.
+
+Miller (Radio)	Try using Fulton recovery on 'em.
+
+		Head for the recovery zone. We'll pick 
+		you up there. I knew you could do it. 
+		Piece of cake, right?
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[Codec]
+
+Snake		Kaz, I've located Zadornov.
+
+Miller		Nice work. I knew you would.
+
+Zadornov	Tch! How could I be so stupid...
+
+Huey		Snake, I'm proud to announce that 
+		preparations for Metal Gear ZEKE 
+		are complete.
+
+		We can activate it any time.
+
+Snake		Got it. Thanks, Huey.
+
+Huey		No need to thank me.
+
+		At least now I can finally say I 
+		helped you with something. You can 
+		use it in Outer Ops, too.
+
+		Just select ZEKE when you're forming 
+		your unit. Be sure to take it out 
+		for a field test.
+
+Snake		OK.
+
+Huey		You can change weapons and check 
+		memory boards just like before. Use 
+		your observations from a field test 
+		to make any adjustments.
+
+Snake		A work in progress, huh?
+
+Miller		There's something I need to discuss 
+		with you, Boss...
+
+Snake		Get to the point, Kaz.
+
+Miller		We recovered the nuclear warhead that 
+		was loaded onto Peace Walker from the 
+		bottom of Lago Cocibolca.
+
+Snake		What?
+
+Miller		Warheads are radioactive, even if 
+		they're reletively stable.
+
+		If we just left it there it would 
+		contaminate the lake, or fall into the 
+		hands of terrorists...
+
+Snake		...Creating another crisis.
+
+Miller		Right. So while the White House is 
+		figuring out how to cover its ass,
+		I thought we'd take some precautions.
+
+Snake		What did you have in mind?
+
+Miller		Load it onto ZEKE.
+
+Snake		What?
+
+Miller		What else would we do with it? ZEKE is 
+		our deterent.
+
+		To protect ourselves from nuclear attack, 
+		we need a nuclear weapon ourselves.
+
+		Of course, if you're not on board, we 
+		could always dispose of it. But it won't 
+		be easy getting another nuke. This is a 
+		golden opportunity.
+
+		...We could always get rid of it later - 
+		load it onto some fishing boat and leave 
+		it out in the middle of the ocean.
+
+		No one would ever know it's there.
+
+		But if you want to get rid of it, Boss, 
+		we'll get rid of it.
+
+Snake		No... Don't. As long as there are nukes out 
+		there, we need one ourselves if we're going 
+		to be a world power.
+
+Miller		I knew you'd see it that way, Boss!
+
+		So long as we stand apart from nations, we 
+		need something to put us on equal footing.
+
+		In a way, MSF is a country itself.
+
+		And we just became the world's seventh 
+		nuclear power.
+
+Snake		Nuclear power...
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{Mother Base}
+
+Zadornov
+Big Boss!
+
+[Zadornov is caught trying to escape by Snake not wanting 
+to be thrown back into his cell again Zadornov opens fire 
+on Snake.]
+
+Zadornov	My work is done...
+
+Snake		What are you talking about?
+
+Zadornov	"V for Victory"
+
+Rocket Peace!
+
+[Zadornov's last attack before dying even fails to hit its 
+target.]
+
+Snake		Kaz, I found Zadornov. I had to kill him.
+
+Miller (Radio)	Huh... So much for our fugitive...
+
+Snake		Something's not right here.
+		I'm thinking he had a friend.
+
+Miller (Radio)	...Someone inside MSF... huh?!
+
+[SFX Alarm]
+
+Snake		What's going on?
+
+Miller (Radio)	...It's ZEKE... It's moving!
+
+Snake		What?!
+
+Miller (Radio)	There's somebody inside, I can see them...
+
+		Snake, get up here pronto!
+
+Paz		Took you long enough... Big Boss.
+
+Snake		Paz...?!
+
+		Get down from there before you hurt 
+		somebody.
+
+Paz		Maybe I want to hurt somebody...
+
+Miller (Radio)	What's going on? She's not herself...
+
+Paz		Oh, I am myself all right... my true 
+		self.
+
+[Metal Gear ZEKE General Purpose Bipedal War Machine (Manned)]
+
+Snake		Kaz, shut that thing down...
+
+Miller (Radio)	I can't, the controls aren't responding.
+
+Snake		Then how's it moving?!
+
+Paz		I made some modifications...
+		This machine was meant to have a 
+		human pilot.
+
+Snake		Modifications?
+
+		Paz, what are you...
+
+Paz		Never thought I'd be into machines, huh?
+
+Miller (Radio)	Then... Zadornov's escape... was a 
+		diversion!
+
+Snake		Paz, what are you doing...?!
+
+Paz		I'm taking it back.
+
+Miller (Radio)	Taking it back? Where?!
+
+Paz		To our leaders...
+		to Cipher.
+
+Snake		Cipher...?!
+
+Paz		This weapon is Cipher's creation...
+
+Snake		Paz! Get down from there!
+
+Paz		Do not call me that!
+		I'm Pacifica Ocean!
+
+		My name, my age, my mission - 
+		Cipher gave them all to me.
+		My entire life has but one 
+		purpose - to carry out Cipher's 
+		plan.
+
+		The nasty tobacco... the "angel 
+		of peace" crap... the whole 
+		"teen with a dream" routine...
+		I'm through with all of it!
+
+Snake		Paz, you can't...
+
+Paz		I told you not to call me that!
+		It makes me want to puke!
+
+		Everything has gone exactly as we 
+		planned. Now the real Peace Walker 
+		Project is finally about to reach 
+		its goal.
+
+Snake		The... real project?!
+
+Paz		Once upon a time. There were two 
+		young men who idolized a hero called 
+		The Boss.
+
+		One day, they suddenly lost the point 
+		of origin - The Cipher - that was like 
+		a mother to them.
+
+		Unable to come to terms with their 
+		sorrow, they each decided to carry on 
+		the will of their hero.
+
+		But they could not agree on what that 
+		meant.
+
+		In the end, they became bitter enemies, 
+		and the Zero from which they both started 
+		was split into two.
+
+Snake		Huh?
+
+Paz		...And you have been on the wrong path 
+		ever since.
+
+		There is no "Happily ever after" 
+		waiting for you in the end. Unlesss...
+		You obey the will of Cipher!
+
+		Where does an Army Without borders call 
+		home? A State Without Borders, of 
+		course... A World Without Borders.
+
+Snake		A World Without Borders..?
+
+Paz		The Cold War Order is about to collapse.
+		The age of electronic intelligence is 
+		about to begin.
+
+		The NSA, CSS, NRO, DIA,
+		ET CETERA,
+		ET CETERA...
+
+		The intelligence community that has long 
+		bickered amongst itself will be united in 
+		a world governed by electrons.
+
+		Cipher will gather all information, 
+		watching over the world and guiding the 
+		will of its people, all while they remain 
+		blissfully unaware.
+
+		There will be no one to oppose them! For 
+		the first time, the world will be ruled by 
+		a Single will!
+
+		Until the new order is in place, you and 
+		your army will be the force that protects 
+		it. You will be Cipher's Deterrent, pulling 
+		the wool over the eyes of the old order with 
+		your charisma and military prowess.
+
+		Accept our offer, and we will allow you to 
+		retain control of MSF and ZEKE.
+
+Snake		That's... An offer?
+
+Paz		The Boss threw down her gun, and with it 
+		her life's calling.
+
+		You - her disciple - have never been able 
+		to do that. You are too afraid to let go.
+
+Snake		I was made to fight.
+		I am a gun.
+
+Paz		Is that so?!
+		Then what do you call this? Is it a gun 
+		too?
+
+		You are a lousy liar!
+		Admit it - this thing is a monstrosity, a 
+		product of your own fear!
+
+		But not Cipher! Cipher thought of something 
+		different. Cipher's going to control guns.
+
+Snake		Control Guns?
+
+Paz		That is right. Not Deter, control. It is 
+		the ultimate approach to the illusion of 
+		peace...
+
+Snake		Control power? You're gonna be disappointed.
+
+Paz		Then we are done! Thank you for playing! 
+		Better luck next time.
+
+		The offer is rescinded! And now, the 
+		ultimatum. ZEKE is already in nuclear strike 
+		mode.
+
+Snake		What...?
+
+Paz		I'm taking the weapon you built and using it 
+		to launch a nuclear strike on the east coast 
+		of the United States!
+
+Snake		You're insane! What are you after?!
+
+Paz		But wait, here is your consolation prize:
+		we are about to show the world just how dangerous 
+		a gang of outlaws - An Army Without Borders - 
+		can be!
+
+		You and your men will become pariahs, and you will 
+		be wiped off the face of the earth. Rather than 
+		heroes, you will be seen as a well-armed, exremist 
+		cult prone to indiscriminate outbursts of nuclear 
+		aggression.
+
+		You will give rise to a new world order, an age of 
+		deterrence defined by it's fear of extremist cult 
+		influence.
+
+		Do you like the picture I am painting, Big Boss?!
+
+		When all is said and done, peace is nothing but a 
+		fantasy! A game's a game! You either win or you lose! 
+		All you can do is fight!
+
+		Stop me if you can!
+
+		The peace sign is the "V" of Victory!
+
+		Say peace!
+
+[Metal Gear ZEKE General Purpose Bipedal War Machine (Manned) Boss Fight]
+
+[Snake defeated ZEKE but...]
+
+Paz		It is no use, ZEKE is out of my control...
+		This is where it ends.
+
+		Listen to me, Big Boss... As long as your army is 
+		needed, the world will never know true peace.
+
+		The peace you will know will be fleeting - illusory. 
+		They will use you, disgrace you, and then, finally, 
+		discard you like they would a cancer to society.
+
+		This is the path you have chosen!
+
+[Paz is shot out of ZEKEs cockpit into the waters of 
+the caribbean.]
+
+Snake		Paz...
+
+
+[Codec]
+
+Huey		Who would have thought that little 
+		girl was working against us...
+
+Snake		Tell me about it. She had everybody 
+		fooled. Me included.
+
+		I can't believe I didn't pick up on 
+		anything.
+
+Huey		Snake, there's no point beating 
+		yourself up over the past.
+
+		But hey, maybe you should put in 
+		some practice against ZEKE in case 
+		this sort of thing ever happens again?
+
+		In any case, I need to go talk to Dr. 
+		Strangelove.
+
+		ZEKE still isn't ready.
+
+Snake		Huey!
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - -	>
+< - - - - - - - - - - - - - - - >
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+
+{Mother Base - Lab}
+
+Huey		How's it going? How's ZEKE look?
+
+Strangelove	The attitide control AI had a backup, 
+		so... It should be able to walk.
+
+Huey		Really... That's good.
+
+Strangelove	Beyond that, it's up to the creator...
+
+		STOP! Don't come any closer, doctor.
+
+Huey		There's something I've been meaning 
+		to ask you... Do you... Do you 
+		despise me?
+
+Strangelove	Doctor, are you asking me out?
+
+Huey		No No, not at all...
+
+Strangelove	No?
+
+		Pity... Because I've just had my heart 
+		broken by someone else.
+
+Huey		Wh...what?!
+
+Strangelove	I only like those who can stand on 
+		their own. If you fancy me, then come 
+		walk with me. Who knows what miracles 
+		might happen?
+
+		Love is blind, after all.
+
+Huey		Ah...
+
+Strangelove	Take your time... I'll be waiting...
+
+
+{Mother Base - Flight Deck}
+
+Miller		Snake....
+
+		That name Paz mentioned at the end 
+		- "Cipher" - it's code. It means 
+		"empty"... It also means...
+
+Snake		"Zero."
+
+Miller		A world of electronic intelligence built 
+		on codes. And at the center of it all, a 
+		zero...
+
+Snake		Kaz?
+
+Miller		Uh, look, Boss...
+		I owe you an apology.
+
+		Here me out, OK?
+
+Snake		...Sure.
+
+Miller		I, uh, I knew Paz and the professor...
+		I knew who they really were, all along.
+
+Snake		Kaz...
+
+Miller		I used them.
+
+Snake		I suppose you were the one who brought 
+		them to Colombia in the first place, huh?
+
+Miller		Guilty as charged.
+
+		Paz wasn't just CIA, you know.
+		She was working for the KGB, too.
+		And for this Cipher group.
+
+		In other words, she was a triple agent.
+
+Snake		You knew all of this...?!
+
+Miller		Wait, let me finish.
+
+		Listen, MSF never would have gotten 
+		this big if it weren't for them. This 
+		mercenary business we've built someday, 
+		it's going to be a new driving force 
+		in the world economy.
+
+Snake		Was that your goal all along?
+
+Miller		... The Cold War's not going to last 
+		forever. Sooner or later, it's going 
+		to give way to an era of regional 
+		conflicts and terrorism.
+
+		A paradigm shift from counter-Communism 
+		to counter-terrorism.
+
+		In the new age, armies won't be tied to 
+		states, and war will become a business.
+
+		We'll be a valuable commodity.
+
+		There'll be clients all over the world 
+		who need our services. MSF is only the 
+		beginning.
+
+		What we're creating here is a revolution 
+		in itself. Am I right?
+
+Snake		Kaz, it's... not going to be that easy.
+
+Miller		What do you mean?
+
+Snake		This whole Peace Walker thing has left 
+		our mark on the history of the old order.
+		We've put ourselves on the radar of 
+		intelligence agencies and governments 
+		East and West. The whole world probably 
+		knows about us now.
+
+Miller		Including that Cipher outfit...
+
+Snake		We've let ourselves interfere with the 
+		times - with the Cold War system of 
+		deterrence. We're an army without a flag.
+		We weren't supposed to take sides in 
+		international affairs.
+
+		But we did.
+
+Miller		I see your point.
+
+		So what happens to us now?
+
+Snake		We'll be hunted.
+
+Miller		Not everybody's gonna be happy with us, 
+		huh?
+
+Snake		You're damn right.
+
+		We upset the global military balance of 
+		power.
+
+Miller		And these people would rather our "army 
+		without borders" not exist at all?
+
+Snake		They're gonna come knocking real soon.
+		There's no turning back now.
+
+		We're a wrench in the old system of 
+		deterrence. As long as the times refuse 
+		to change, we're going to make a hell of 
+		a racket.
+
+Miller		Then who are we going to fight?
+
+Snake		The establishment... anybody who 
+		tries to restore the old balance, 
+		wants to snuff us out of existance.
+
+Miller		Which establishment?
+
+Snake		It won't be a particular country or 
+		ideology that hunts us.
+
+Miller		Who, then?
+
+Snake		We're gonna be fighting the biggest 
+		beast of all - the times. Ten years 
+		ago, the times rejected The Boss... 
+		and killed her.
+
+		And now we're the ones being tested.
+
+		Will the times erase us?
+		Or work with us?
+
+		It's gonna be a lonely battle... No 
+		good or evil, no winners or losers.
+		Business will have to wait.
+
+		The question we have to ask ourselves 
+		now is, can we survive long enough to 
+		see the 21st century?
+
+Miller		I'm with you, Boss. We'll see 
+		how it turns out, together.
+
+Snake		The hunt is on, Kaz, and the whole
+		world's on our tail. Assemble the men!
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+TIME LINE
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+November 24th, 1974
+The U.S. and the Soviet Union agree on a framework for 
+a SALT II (Strategic Arms Limitations Talks) treaty. The 
+treaty limits the number of strategic nuclear delivery 
+vehicles on each side to 2,400. Among that number, MIRVs 
+are restricted to 1320.
+
+December 1974
+Former Prime Minister of Japan Eisaku Sato receives the 
+Nobel Peace Prize for laying forth Japan's Three Non-
+Nuclear Principles.
+
+December 27th, 1974
+Nicaragua. The FSLN (Sandinista National Liberation Front) 
+takes hostages at a party at the house of a minister in the 
+Somoza government. They secure the release of 14 political 
+prisoners and achieve recognition as a representative of 
+anti-Somoza sentiment.
+
+March 1975
+Former President of Costa Rica Jose Figueres Ferrer admits 
+to collaborating with the CIA.
+
+April 30th, 1975
+The Ho Chi Minh Campaign and the fall of Saigon reunites 
+North and South Vietnam.
+
+July 17th, 1975
+Soyuz 19 and Apollo 18 dock in orbit.
+The U.S. and Soviet Union complete their first peaceful joint 
+activity in Space.
+
+July 19th, 1979
+The FSLN overthrows Somoza in an armed uprising, helping realize 
+the Nicaraguan Revolution. Somoza is assassinated the following 
+year.
+
+December 24th, 1979
+The Soviet Union invades Afghanistan.
+
+1980
+Dr. Emmerich (Huey) becomes a father. He names his son "Hal."
+The United Nations establishes the University for Peace in 
+Costa Rica.
+
+November 17th, 1983
+Costa Rican President Luis Alberto Monge refuses to allow the 
+construction of U.S. military bases in his country, declaring 
+permanent neutrality in Costa Rica.
+
+March 1985
+Gorbachev comes to power in the Soviet Union.
+Another period of Detente begins as the Cold War draws to an end.
+
+November 9th, 1989
+The Berlin Wall falls. Germany is reunified the following year.
+
+1994
+The Costa Rican government persuades Panama to abolish its military.
+
+1995
+Big Boss triggers the Outer Heaven uprising.
+
+2005
+Miller is found assassinated in his home by an unknown assailant.
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+POST CREDIT END
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+- - - - - - - - - - - - - - - - - - -
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+[The sound of footsteps are heard.]
+
+Miller		Snake? You still here?
+
+		C'mon, let's go back.
+
+Snake		I'm not going back.
+
+Miller		Huh?
+
+Snake		I'm done.
+
+Miller		Snake, you don't mean...
+
+Snake		I'm done looking for the truth.
+
+Miller		What are you saying, Snake?
+
+Snake		I was wrong.
+
+Miller		C'mon, Boss. Everybody's waiting for you.
+
+Snake		...She betrayed me, Kaz.
+
+Miller		She what?
+
+Snake		In the end, she put down her gun.
+
+		And when she did... she rejected her 
+		entire life up to that point... 
+		including me.
+
+Miller		What do you mean?
+
+Snake		In giving up her life, she abandoned 
+		everything she was as a soldier...
+
+Miller		And you consider that betrayal?
+
+Snake		I won't make the same choice as her.
+		My future's going to be different.
+
+Miller		Then...
+
+Snake		Yeah, that's right.
+		From now on, call me Big Boss.
+
+[Sounds of soldiers falling in line as Big Boss walks
+past them.]
+
+Big Boss	We will forsake our countries.
+
+		We will leave our motherlands behind us
+		and become one with this earth. We have
+		no nation, no philosophy, no ideology.
+		We go where we're needed, fighting, not
+		for government, but for ourselves.
+
+		We need no reason to fight.
+		We fight because we are needed.
+
+		We will be the deterrent for those with
+		no other recourse. We are soldiers without 
+		borders, our purpose defined by the era 
+		we live in. 
+
+		We will sometimes have to sell ourselves 
+		and services. If the times demand it, 
+		we'll be revolutionaries, criminals, 
+		terrorists.
+
+		And yes, we may all be headed straight to 
+		hell. But what better place for us than 
+		this?
+
+		It's our only home.
+		Our heaven and our hell.
+		This is Outer Heaven.
+
+THE END...?
+
+=+=+=+=+=+=+=+=+=+=
+=+=+=+=+=+=+=+=+=+=
+EXTRA OPS - LYRICS
+=+=+=+=+=+=+=+=+=+=
+=+=+=+=+=+=+=+=+=+=
+
+|---------------|
+|Heaven's Divide|
+-----------------
+
+Heaven's Divide
+Lyrics by Nobuko Toda
+Performed by Donna Burke
+
+Petals of white
+Cover fields flowing in grieving tears
+And all the hearts once new,old and shattered now
+Love can kill, love will die
+Give me wings to fly
+Fleeing this world so cold
+I just wonder why
+
+Cold as the dark
+Now my words,are frosted with every breath
+Still the hate burns wild,growing inside this heart
+When the wind changes course when the stars align
+I will reach out to you and leave this all behind
+When heavens divide
+
+When heavens divide
+I will see the choices within my hands
+How can we ever protect and fight with our tiny souls
+Let me shine like the sun through the doubts and fear
+Do you feel the storm approach as the end draws near
+
+When heavens divide
+Time will come to softly lay me down
+Then I can see a face that I long to see
+And for you,only you I would give anything
+Leaving a trace for love to find a way
+
+When heavens divide
+
+I will dive into the fire
+Spilling the blood of my desire
+The very last time
+My name scorched into the sky
+
+When heavens divide
+I will see the choices within my hands
+How can we ever protect and fight with our tiny souls
+Let me shine like the sun through the doubts and fear
+Do you feel the storm approach as the end draws near
+
+When heavens divide
+Time will come to softly lay me down
+Then I can see a face that I long to see
+And for you,only you I would give anything
+Leaving a trace for love to find a way
+
+When heavens divide
+
+And for you, only you I would give anything
+Leaving a trace for love to find a way
+
+When heavens divide 
+...
+
+|---------------|
+|Love Deterrence|
+-----------------
+
+Love Deterrence
+Lyrics by "Metal Gear Solid Peace Walker" Sound Team
+Performed by Nana Mizuki
+
+I love you; I hope these thoughts reach you
+Im sure one day it'll come true
+Such feelings are too painful
+
+I don't understand things such as beginnings
+It seems like you could have an ordinary name 
+and be anywhere But no matter how many people 
+there are Im sure to find you
+
+I don't like the me who locked up these honest 
+feelings And confined herself in a shell
+Each time that I halfheartedly hold myself back
+The pain merely grows
+
+What do you wish for?
+I want to be close to you
+Forever and ever thats all I want and yet 
+
+(Thump thump)
+
+Love deterrence
+Look! The games beginning
+If I was looking at you would you know?
+The starting bell chimes
+
+Listen To My Heart
+My silent voice,
+Stop this love deterrence
+I want to tell you everything about me
+
+For no special reason I cut my hair but
+I cant actually say that it's your fault
+I'm just lying and running away
+It's enough, I can't go on like this
+
+Looking at others intently
+Not knowing such bravado
+Your back soon passed by
+And I felt the pain far away
+
+Who are you thinking about?
+Tell me How long will the two of us
+Continue like this? (Squeeze squeeze)
+
+Love deterrence
+Look! The games beginning
+These entangled feelings will no longer 
+come apart; things began to move
+
+Listen To My Heart
+If I get used to being more honest
+Stop this love deterrence
+Stay only by my heart
+
+One day Ill say I love you
+In my dreams I say Sorry for everything
+One day say We'll be together forever
+Firmly, firmly say I won't leave 
+
+(Throb throb)
+
+Love deterrence
+Look! The games beginning
+Look at these straightforward thoughts; Now 
+I'm overflowing and I start to run
+
+I don't want to be alone any longer! Look at me!
+Everything leads to you, no matter the past or 
+the future, forever and ever.
+
+This encounter will change the world
+After school in the classroom, now it's just the 
+two of us This is a chance given by God, but 
+the time still passes by
+
+I'm sure that if this goes on, well pass each 
+other by With our backs facing each other, we 
+move apart.
+
+I love you; I hope these thoughts reach you
+I'm sure one day it'll come true
+Such feelings are too painful; Please stop 
+the love deterrence

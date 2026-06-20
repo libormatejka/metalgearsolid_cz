@@ -1,0 +1,4552 @@
+Metal Gear Solid: Portable Ops Game Script
+by Marten "Karma Hunter" Stein
+
+Metal Gear Solid: Portable Ops
+
+(Graphic Novel Cutscene)
+
+(A flash of scenes, accompanied by sounds of fighting, a blade 
+brandishing, and ending with a scream.)
+
+The next scene is a prison cell, with a prisoner just waking up in a 
+terror. This is Naked Snake, the protagonist of Metal Gear Solid 3.
+
+???: Right on time. Excellent. It's been exactly twelve hours since we 
+administered the drug. I trust your dreams were pleasant...Big Boss?
+
+Snake: What are you talking about?
+
+???: Please, drop the act. I know all about you, Boss. Or would you 
+prefer I called you...Naked Snake?
+
+Snake: Sounds like you've got the right guy. Who are you?
+
+???: My name is Lt. Cunningham. Until four weeks ago, I was with the 
+CIA.
+
+Snake: Cunningham? FOX Unit's interrogation specialist?
+
+Cunningham: Ah, so you have heard of me. I'm honored, Snake.
+
+Snake: And those guys who attacked me - they were FOX, too?
+
+Cunningham: Yeah. Although, we'll leave it at that, for now.
+
+Snake: What do you want from me? I'm retired from FOX. I'm guessing 
+this isn't a social call or you wouldn't have brought the goons.
+
+Cunningham: Retired? Yeah, I suppose you are, to the outside world. 
+Don't worry. I'm not here to give you a new mission. I just want to ask 
+you one simple question. Six years ago as a member of FOX, you 
+prevented a full-scale nuclear war. You were hailed as a true patriot, 
+given the title of Big Boss by the president. And then you turned right 
+around and quit the unit. Threw aside your rank, your good name. 
+Mysterious, don't you think? What did you see out there on your 
+mission? What did you see in Groznyj Grad?
+
+(Scenes of the Shagohod, Snake/EVA, and the Boss briefly flash.)
+
+Cunningham: Where is the Legacy?
+
+Snake: You mean the Philosophers' Legacy...?!
+
+Cunningham: Yes. The secret cache of funds amassed by the Big Three 
+during the Second World War. Where is it?
+
+Snake: If you're looking for the Legacy, try the CIA. They're the ones 
+who took it after the mission six years ago.
+
+(Cunningham strikes Snake with an electrified baton, knees him in the 
+face, then presses down with a mechanical prosthetic leg on Snake's 
+sternum.)
+
+Cunningham: Simply apply the right type of pain, to the right degree, 
+at just the right location. It's always been my policy for persuasion, 
+and I've found it to be quite effective. The CIA only recovered half of 
+the Legacy from the Soviets after Operation Snake Eater. And you know 
+where the other half went.
+
+Snake: The CIA...only got half?
+
+Cunningham: You can drop the act. You defeated The Boss and returned 
+alive, so you must know where the other half of the Legacy is. And 
+now...you're gonna tell me, Snake.
+
+Snake: Don't have a clue.
+
+Cunningham: That's too bad. Because I'd hate to have to continue 
+persuading you like this, "comrade." 
+
+(Cunningham strikes Snake's head, electrifying him one more time.)
+
+Cunningham: No matter. We have plenty of time. Sooner or later I'm sure 
+it will all come back to you.
+
+Snake: Wait! This isn't an official mission, is it? What happened to 
+Major Zero? Tell me the truth, Cunningham!
+
+Cunningham: This is an official FOX mission. For now.
+
+(Cunningham laughs as he exits.)
+
+(End Cutscene)
+
+PRISON
+
+(after trying to open the door)
+
+???: It's no use. It's shut tight.
+
+Snake: !?
+
+???: Snake...so that's your name, huh? It's got a nice ring to it.
+
+Snake: Who are you?
+
+???: I'm just a prisoner, like you.
+
+Snake: An American? How'd an American like you end up a prisoner in a 
+place like this?
+
+???: It's a long story. But never mind that. Don't you want to get out 
+of here?
+
+Snake: You know a way?
+
+???: Take a good look under that bed See that duct? The cover comes 
+right off. You can go through it to the next room.
+
+Snake: How'd you know?
+
+???: 'Cause I'm the one that took the cover off. But as luck would have 
+it, they moved me to another cell right after that, so I never got a 
+chance to use it. If you make it out, will you do a fellow prisoner a 
+favor?
+
+Snake: A favor?
+
+???: Don't worry. You'll get something out of it, too.
+
+Snake: Deal. I'll give it a shot.
+
+(after acquiring the Mk22 - and with it, the Sneaking Suit)
+
+Snake: Aromatic polyamide...this is the FOX Unit's new sneaking suit. 
+What's this doing here?
+
+(Graphic Novel Cutscene)
+
+???: Well, I'll be damned. It is Snake...Or should I say, Big Boss. Are 
+you the real deal?
+
+Snake: You know me?
+
+???: Are you kidding? You're a legend in the black ops world.
+
+Snake: Black ops...
+
+???: What's a hero like you doing in a place like this?
+
+Snake: Beats me. I'd like to find out myself. Where are we, anyway? 
+Near the equator, from the looks of it... If I had to guess, I'd say 
+South America.
+
+???: You got it, Big Boss. The San Hieronymo Peninsula, to be exact, 
+known to the locals as "la peninsula de los muertos", the peninsula of 
+the dead. It's off the coast of central Columbia, more or less directly 
+south of Cuba.
+
+Snake: Never heard of it.
+
+???: You wouldn't have. It doesn't show up on any conventional maps - 
+it's under Red Army control.
+
+Snake: The Red Army? In Columbia?
+
+???: In 1964, the Russians provided military aid to FARC, Columbia's 
+biggest rebel faction. And in return, FARC gave them this land.
+
+Snake: 1964... The year of the Virtuous Mission.
+
+???: Two years prior, the Russians failed in their attempt to build an 
+intermediate range ballistic missile (IRBM) base in Cuba. Had they 
+succeeded in deploying nuclear-equipped IRBMs inside Cuba, every major 
+American city would have been within range.
+
+Snake: The Cuban Missile Crisis.
+
+???: Exactly. In the end, the Russians gave up on the idea of deploying 
+missiles in Cuba. But rumor had it that they were looking for a new 
+site, one where they could build a base in secret.
+
+Snake: And that place was the San-Hieronymo Peninsula?
+
+???: Yeah. Well, not exactly... Apparently the plans for this missile 
+base were abandoned before it was built.
+
+Snake: Abandoned?
+
+???: Due to detente. Both the U.S. and the Soviet Union are having 
+trouble financing their enormous military budget, and they can't afford 
+to keep waging the Cold War like they did in the Sixties. Last year, 
+they began conducting the Strategic Arms Limitation Talks with the goal 
+of limiting each country's number of ballistic missiles.
+
+Snake: Meaning no more need to build a new missile base.
+
+???: Right. But as you can see, they'd already completed part of the 
+facility. We were sent in to investigate what was going on. Before we 
+could do that, they ambushed us.
+
+Snake: "They"?
+
+???: The FOX Unit. My team was wiped out in the blink of an eye. I fear 
+I'm the only survivor.
+
+Snake: What's the FOX Unit doing in a Soviet base?
+
+???: Not a clue. I'd have expected you to know more about it than me.
+
+Snake: I'm not with FOX anymore.
+
+???: I see. Anyway, that's all I've got.
+
+Snake: All right. Hold on, I'll get you out of there.
+
+???: It's no use. I've tried over and over. You need a special key to 
+unlock the cell door. Right now, you've got to get outta here. Head 
+five clicks southeast of the detention center and you should reach a 
+communications base. I need you to call in a rescue, if you can.
+
+Snake: Rescue?
+
+???: You should be able to make contact with the States using the 
+satellite uplink. But the circuit will most likely be monitored. If 
+only you could use some kind of encrypted transmission...
+
+Snake: Someone capable of receiving an encrypted protocol that they 
+can't listen in on...
+
+???: Any ideas?
+
+Snake: I don't know if I'll be able to pull it off, but there's one 
+thing I could try...
+
+???: Great. I'm counting on you, Big Boss.
+
+Snake: Call me Snake.
+
+???: It's been an honor, Snake. The name's Campbell. Roy Campbell. Good 
+luck.
+
+(End Cutscene)
+
+Campbell: That reminds me...You've been out of action for a while, 
+haven't you, Snake? Now would be a good time for a light refresher - 
+just to help you get reacquainted with your weapons and basic actions. 
+I'll help you out. First, equip a weapon. Hold the Circle button. This 
+will bring up a list of carried weapons. Use the directional buttons to 
+select.
+
+(after selecting the Mk22)
+
+Campbell: To use a weapon, press the L button to ready the weapon and 
+the Square button to fire. Now it's your turn.
+
+(after firing)
+
+Campbell: Good. You got it. Next, let's do a First Person attack.
+
+(if you hit Campbell while firing)
+
+Campbell: Stop! Don't shoot! Come on, already! We're moving on! We're 
+on to First-Person attacks now!
+
+Campbell: Press the R button to ready the weapon and the Square button 
+to fire. Use the analog stick to aim. While aiming, you can press the L 
+button to get a more accurate fix on the target. Try it out.
+
+(after firing)
+
+Campbell: OK, that about does it for weapons.
+
+(if you shoot Campbell)
+
+Campbell: What the hell?! Damn it! Never mind...that's enough for 
+weapons.
+
+Campbell: ...Oh, and before I forget... Do you know about the radar in the 
+upper-right corner of the screen? That's your Surround Indicator. It 
+keeps you informed of sounds in the surrounding area. The outer ring 
+displays the sounds you hear around you. The inner ring displays the 
+sounds you make yourself. Be especially careful when you see red on the 
+radar. That means the enemy is near. If you make a sound, they'll be 
+all over ya.
+
+(if you try to open Campbell's door)
+
+Campbell: Forget it. It won't open.
+
+(after moving for the exit)
+
+Campbell: Hold it! You can't just dash blindly into plain view! You've 
+got to check to make sure it's safe first. There should be a guard 
+outside to the left. You need to make your exit when that guard isn't 
+looking your way, right? So use the wall press and then peek. Face the 
+wall to the left, then move towards the wall and press the Triangle 
+button. Then, while you're pressed against the wall, hold the Triangle 
+button down and make your way slowly toward the exit.
+
+(after moving along the wall to the exit)
+
+Campbell: Hey, you're pretty good. Now head for the communications 
+base. Use the Triangle button to open any doors you encounter. Well, as 
+long as they're not locked, that is. You can view the route to the 
+communications base on the Map Screen by pressing the START button. The 
+goal is marked with an "X". I also seem to remember there being an 
+electronic gate along the way. If you're careful, I think you can sneak 
+past it. You know how to crawl, right?
+
+Campbell: I'm counting on you, Snake...Or should I say, "legendary 
+soldier..."
+
+COMMUNICATIONS BASE
+
+Snake: That's a dish antenna for satellite communications... This must be 
+the communications base. The communicator that I'm looking for is in 
+that building...
+
+(after reaching the communicator)
+
+[CALL]
+
+Snake: Does anybody read me? This is Snake. If anybody can hear this, 
+please respond.
+
+Para-Medic: Snake! Is it you? Is this the real Naked Snake?
+
+Snake: That voice... Para-Medic?
+
+Para-Medic: It's me! It's been a while, huh, Snake? It's good to hear 
+your voice again.
+
+Snake: Same here. It'd be even better if I weren't in this god-forsaken 
+place. So, you're still using this circuit?
+
+Para-Medic: Major Zero kept it just in case. He said if you were safe, 
+you might try to use it to contact us. To be honest, I never really 
+expected you to call. But I'm glad you did.
+
+Snake: Yeah, me too. But why are you on the line? Where's the Major?
+
+Para-Medic: Major Zero was placed under arrest by the military last 
+month.
+
+Snake: The military...the Pentagon arrested the Major? Why?
+
+Para-Medic: He's being held under suspicion of treason. I don't know 
+the details, but a month ago, a CIA unit stole a top-secret weapon 
+guarded by the military and fled the country. They're charging the 
+Major with instigating the revolt. You've been charged too, Snake.
+
+Snake: Me?
+
+Para-Medic: The military believes you spearheaded the rebellion.
+
+Snake: You've got to be kidding me. I'm retired from FOX!
+
+Para-Medic: I know, Snake. Calm down and listen to me. The CIA unit...the 
+one that stole the prototype weapon and executed the revolt. Its name 
+was FOX. Meaning the FOX Unit is your next target!
+
+Snake: What the hell... What are they after?
+
+Para-Medic: I don't know. Any members of FOX who didn't join the 
+rebellion were killed. The unit is in shambles.
+
+Snake: I don't believe this.
+
+Para-Medic: I know how you feel. You know why the military suspects 
+you, don't you, Snake? Whoever started this mess managed to gather FOX 
+members specializing in solo missions and killed all those who opposed. 
+The only soldier who could have pulled that off is you.
+
+Snake: ...Done in by my own overblown reputation. Are you the only one 
+there? 
+
+Para-Medic: For now, at least. But Sigint's helping us out over at 
+ARPA.
+
+Snake: The Pentagon's Advanced Research Projects Agency...
+
+Para-Medic: Right. His frequency is 148.41.
+
+[CALL]
+
+Sigint: Yo, Snake! Long time, no see. I hear you got yourself into a 
+bad mess out there.
+
+Snake: Mr. Sigint... Looks like I need your help again.
+
+Sigint: Aw, man, it's cool. We've been through a lot together. With 
+your skills, it shouldn't be too hard to find your way out of there. 
+But that's not gonna be enough. You gotta catch whoever started this 
+revolt. If you can't take him alive, dead will do just fine.
+
+Snake: Huh?
+
+Sigint: We need evidence that proves your innocence. Otherwise, we're 
+gonna end up court-martialed for helping you.
+
+Snake: I see what you're saying, but I can't do it. We're not just 
+talking about rogue FOX members here. They've got the Russian soldiers 
+based on the peninsula on their side.
+
+Sigint: Yeah. That's what we heard, too. It looks like they took over 
+the chain of command for a Red Army unit that was secretly stationed 
+inside Colombian territory.
+
+Snake: Took over the chain of command... So that's it... I thought this 
+seemed a little strange for an official military operation. They got 
+the soldiers that were already stationed here to join them.
+
+Sigint: Hearts and minds... the bread and butter of Special Forces. 
+Anyway, because of that, neither the U.S. nor the Soviet Union can get 
+involved publicly. If the world found out the Russians built a nuclear 
+base in Columbia, or that American had one of their most advanced 
+weapons stolen, there'd be hell to pay. And the rogue unit is using 
+those secrets as leverage to demand negotiations for independence with 
+the U.S. and Soviet Union.
+
+Snake: ...They're planning to create a new military nation? So, in other 
+words, they've got the strength necessary to back up these crazy 
+demands. And I can't expect any backup from home. And you want me, on 
+my own, to go in and capture the ringleader of this rebellion?
+
+Sigint: Well, there's no reason you have to do it alone. If the rebels 
+managed to get the local militia on their side, who's to say you can't 
+do the same thing? 
+
+Snake: You're saying I should convince the Russians and the rebels to 
+join my side?
+
+Sigint: It's not that complicated, man. Just think of it as procuring 
+your allies on site. That's what you're good at, isn't it? Procurement 
+on site.
+
+Snake: You're kidding, right? This isn't the same as catching fish and 
+snakes, you know.
+
+Sigint: You gotta try, Snake. Otherwise, everybody's gonna be gunning 
+for you - the rebels, AND the Pentagon. And you're gonna bring us and 
+Major Zero down with you.
+
+Snake: ...
+
+Sigint: Oh, I do have some good news, too. As luck would have it, we 
+just sent a scout unit to the peninsula to gather intelligence. It's an 
+SFG unit.
+
+Snake: The Green Berets? Here?
+
+Sigint: We lost contact with them a little while ago, but there might 
+still be some survivors. If you rescue them, they'll help you out.
+
+Snake: Yeah, I think I know who you're talking about... OK, I'll see what 
+I can find.
+
+PRISON
+
+Snake: You OK, Roy?
+
+Campbell: Snake, what are you doing back here?
+
+Snake: Found a key. Thought you might be interested in it...
+
+Campbell: Did you call for help?
+
+Snake: Nobody's coming.
+
+Campbell: What?
+
+Snake: Seems they think I'm the one who's leading FOX... The one who 
+wiped out your unit.
+
+Campbell: ...That's insane.
+
+Snake: And unless I clear my name, they're not letting me back into the 
+country - and we can forget about someone coming to rescue us.
+
+Campbell: Clear your name... But how?
+
+Snake: Track down the real roots of FOX's rebellion.
+
+Campbell: ...
+
+Snake: Roy.
+
+Campbell: What?
+
+Snake: I need your help to pull this off.
+
+Campbell: Me?
+
+Snake: Yeah. I need your skills as a Green Beret.
+
+Campbell: Whoa, Snake, don't go getting any crazy ideas.
+
+Snake: What's so crazy about----?
+
+Campbell: Look at me. My leg's broken. I can barely walk. And I've had 
+this nasty fever for days...
+
+Snake: All right. Why don't you drive instead of walk?
+
+Campbell: What do you mean?
+
+Snake: On a base this big, there's bound to be a personal transport 
+vehicle or two lying around.
+
+Campbell: Well, yeah, but...
+
+Snake: And you don't need your legs to fire a gun...right?
+
+Campbell: ...
+
+Snake: So are you with me?
+
+Campbell: ...
+
+Snake: Roy!
+
+Campbell: All right. I'm with you.
+
+Snake: Great. I owe you one.
+
+Campbell: (Geez, who'd have thought the legendary Big Boss would be 
+this pushy...)
+
+Snake: I'm leaving my spare radio with you. If anything happens, call 
+me. We'll use frequency 140.85. Press the SELECT button to open the 
+Radio Screen. Use the left and right directional buttons to adjust the 
+frequency, and press the Circle button to make a call. Press the down 
+directional button to bring up a list of saved frequencies.
+
+Campbell: I'll give you a ring if I start to get lonely.
+
+STAGE SELECT
+
+Snake: OK. First things first. We need intel. Did you get some kind of 
+briefing before the mission?
+
+Campbell: The first recon target we were given during the pre-mission 
+briefing at Fort Bragg was here... A Soviet front-line patrol base. This 
+will be our first target for information collection. I can take you 
+there. I've got a good idea of where it's located. ...Well, more like I 
+don't know where any of the other facilities are, exactly...
+
+Snake: It'll do. So what's the plan?
+
+Campbell: This place is packed with soldiers - the perfect target for 
+our first recon. Get as much intel as you can. You should be able to 
+extract useful information by listening in on soldiers. 
+
+Snake: All right, we'll go with your plan.
+
+Campbell: Heh heh. Looks like we'll make a great team, Snake. OK, let's 
+get going.
+
+SOVIET PATROL BASE
+
+[CALL]
+
+Campbell: OK, now get out there and suss out the situation. You can 
+learn a lot from what the enemy is saying. Just get close to an enemy 
+and listen carefully. I know you can do it. When you're approaching an 
+enemy, hold the Triangle button as you move... That will muffle your 
+footsteps during your approach.
+
+Snake: Got it.
+
+Campbell: ...
+
+Snake: ...Mm? Something wrong, Campbell?
+
+Campbell: ...N... No, it's... Just got dizzy for a second.
+
+Snake: You sure you're all right? How's the fever?
+
+Campbell: I'm fine. And there are more important things to worry about.
+
+Snake: Take care of yourself... We can't afford to have you out of action 
+now.
+
+Campbell: Yeah... I know.
+
+(after encountering some soldiers)
+
+Soldier A: A weapon that can obliterate all major cities in the 
+motherland? Give me a break! You've been watching too many movies. 
+
+Soldier B: No, no. This ain't no joke. I heard that American officer - 
+the one our boss brought in - say something about it.
+
+Soldier A: You mean that tight-assed peg-leg?
+
+Soldier B: You should have seen that bastard's face when the topic of 
+the weapon came up... There must have been something in that document 
+that arrived from HQ the other day...
+
+Soldier A: Probably just has a bad case of the runs. I know I do...
+
+Soldier B: This isn't a joke.
+
+Soldier A: Look. I know what you're saying. Aiming that thing at our 
+motherland... That just doesn't sit right with me. Yeah, it's suicidal. 
+
+Soldier B: But it's just a threat, right? A bluff? He's an expert at 
+this sort of manipulation. I hope you're right...
+
+Soldier A: Do you ever wonder what kind of weapon we're really storing?
+
+Soldier B: Sometimes... But this is not your run-of-the-mill nuclear 
+missile we're protecting, that's for sure.
+
+(after listening in on a few soldiers)
+
+[CALL]
+
+Campbell: It sounds like you've heard an earful already. ...Oh, before I 
+forget. Pay extra attention to anybody who looks like a commanding 
+officer. They might be carrying something important. Remember that! If 
+an item is displayed in red, that's an item vital to your mission, so 
+you won't be able to drop it. 
+
+(after retrieving Secret Documents)
+
+[CALL]
+
+Campbell: Looks like you obtained some enemy documents. Good work. OK, 
+hoof it back to the truck. We'll look over them once you get back.
+
+STAGE SELECT
+
+Campbell: Snake, about those documents you found just now...
+
+Snake: Find anything interesting?
+
+Campbell: You're not going to believe this...
+
+Snake: Try me.
+
+Campbell: It seems the rebels are actually planning to activate that 
+new weapon they stole. The documents outline details of a launch plan. 
+The date and time aren't mentioned, but it looks like we don't have 
+much time.
+
+Snake: No way. They're in the middle of negotiations with Washington 
+and Moscow. Even assuming this launch plan is real, it's got to be a 
+bluff to strengthen their hand.
+
+Campbell: Maybe. But they exterminated us Green Berets - their own 
+comrades - without mercy or remorse. I don't think they're too 
+particular about means to their end.
+
+Snake: ...
+
+Campbell: I hope it turns out I'm worrying too much. But if they're 
+serious about this, it could ignite a global crisis.
+
+Snake: ...
+
+Campbell: Snake, until we have a clearer picture of what's going on 
+here, I think we should assume the worst. Better to overreact now and 
+laugh about it later than ignore this and live to regret it.
+
+Snake: ...I can't argue with you on that.
+
+Campbell: Right now, we're the only ones on this peninsula in a 
+position to stop these guys. It's our duty to act before the launch 
+deadline.
+
+Snake: Yeah, you're right.
+
+Campbell: ...Even so, the fact is there are only two of us, and we can't 
+do this alone.
+
+Snake: Got any ideas?
+
+Campbell: ...Snake, when you were listening in on the enemy, did you get 
+the feeling that maybe not everyone's satisfied with their commander?
+
+Snake: Yeah, some of them were griping about it.
+
+Campbell: ...Tell me, how hard do you think it would be to recruit some 
+of those soldiers over to our side?
+
+Snake: Recruit them?
+
+Campbell: Exactly. We could use any grievances they have against their 
+leader to try and persuade them to join us. Sowing discord among the 
+enemy has been a basic element of psychological warfare since the time 
+of Confucius, right? Play our cards right, and we might be able to find 
+out what's really going on.
+
+Snake: Hmm...
+
+Campbell: What do you think, Snake?
+
+Snake: Sigint was saying the same thing... ...Yeah. It might be worth a 
+try.
+
+Campbell: Heh heh. I knew I could count on you. Now, first thing we 
+gotta do is choose a suitable candidate.
+
+Snake: So what exactly does that entail?
+
+Campbell: I'm getting reports that soldiers unhappy with the rebellion 
+can also be found in other areas. That means you'll have to drag 'em 
+back to the truck so we can all have a friendly chat about them joining 
+our little resistance. Go out and give it a try. Oh, and one more 
+thing... We've learned the name of the enemy's supreme commander.
+
+Snake: Who is it?
+
+Campbell: His name is Gene. G-E-N-E.
+
+Snake: "Gene"...?
+
+Campbell: OK, then. Let's get this mission started. Pick someplace 
+where there'll be enemies easy to convert. So where to, Big Boss?
+
+SOVIET PATROL BASE
+
+[CALL]
+
+Campbell: Let's review. We're going to scout for soldiers with grudges 
+against Gene. Listen to what the enemy is saying. Then, once you've 
+found someone ripe for the picking, grab and bring 'em back to the 
+truck. The best time to get 'em is when they're alone. Once you've got 
+the enemy alone, knock the sucker out. Now there are several ways to 
+knock an enemy out... You can shoot them in the head with your Mk22, or 
+put them into a nice chokehold. Here's how to execute a chokehold. 
+First, unequip your weapon so you're barehanded. To unequip a weapon, 
+push the Circle button once quickly. Then quietly sneak up behind the 
+enemy. Push and hold the Square button to get 'em into a full nelson. 
+Once you've got his arms pinned, repeatedly tap the Square button to 
+choke the sucker. Sooner or later, he'll lose consciousness. You can 
+also pick the enemy up and carry him around when you're barehanded by 
+holding the Square button while positioned above his body. Then just 
+drag the unconscious enemy back to the truck. That's it. Go get 'em.
+
+(Snake captures a soldier during the course of the mission. This 
+soldier's name is Jonathan) 
+
+(Graphic Novel Cutscene)
+
+Jonathan: You!
+
+(Jonathan rises and attacks Snake, who blocks the blow)
+
+Snake: You heal up pretty quick. 
+
+(Jonathan moves and grabs Campbell, taking his pistol. He draws the 
+pistol, but is disarmed and taken down by Snake before he can fire)
+
+Snake: Quick thinker, too. They trained you well. You're a good 
+soldier.
+
+Jonathan: Who... who are you?
+
+Snake: Call me Snake.
+
+Jonathan: Snake? Is that a codename? You must be with the Americans. 
+Are you with the FOX Unit, too?
+
+Snake: I'm not with the Americans or with FOX. I'm just a soldier.
+
+Jonathan: Just a soldier? Then why...?
+
+Campbell: We're here to stop FOX Unit from going renegade. A member of 
+FOX named Gene betrayed the U.S. Government and stole a top-secret 
+weapon. He plans to use that weapon, and the warheads in this base, as 
+bargaining chips to negotiate with your country. But blackmail is more 
+like it. We're here to put a stop to it. Our mission is to free the 
+soldiers of the San Hieronymo Peninsula from Gene's control, and 
+capture the traitors in the FOX unit. I can understand if you're afraid 
+of FOX. But we need others to help us free the Soviet soldiers on this 
+peninsula. Will you join us?
+
+Jonathan: You're here...to save us? And you want me to help you defeat 
+Gene? (laughs)
+
+Campbell: What's so funny? You think... he's been brainwashed?
+
+Jonathan: Brainwashed? Is that what you think is happening here? A fine 
+joke. But I'm afraid you two have it all wrong.
+
+Campbell: Wrong?
+
+Jonathan: We didn't rebel because of Gene... Our country betrayed us 
+first! We have stood guard over this god-forsaken base, unable to reach 
+our friends and loved ones because of the secrecy of our mission. The 
+climate was brutal. The meals were meager. We watched as our comrades 
+succumbed to disease, or died fighting the Columbian government. And 
+still we went on carrying out our mission, believing our efforts were 
+all for the good of the motherland! And how did the motherland reward 
+us? By stabbing us in the back.
+
+Campbell: You're talking about the Kremlin's policy shift? If the 
+existence of this base came to light, the political fallout with the 
+United States could fatally undermine Moscow's position in the 
+Strategic Arms Limitation Talks that Brezhnev is promoting. That's why...
+
+Jonathan: We have no use for political rationales. What matters to us 
+is that Mother Russia wiped this base from existence. But instead of 
+allowing us to return home, the army erased all traces of communication 
+and cut off our supplies. They sought to isolate the peninsula, and 
+make it look like this was all the work of a few out-of-control 
+soldiers. We were abandoned by our own country!
+
+Campbell: That's why you decided to follow Gene?
+
+Jonathan: Gene told us he would build us a nation. A nation not of 
+soldiers, but for them. We do not follow Gene out of fear. He will 
+deliver us justice. The only thing we fear is losing that justice. 
+That's why we follow him, not you. You'll never be able to stop him.
+
+Snake: Justice, huh? The meaning of justice can change from one day to 
+the next. A professional soldier never brings justice into the mission. 
+The only ones who need a reason to fight are the ones who fight for a 
+living. That's what my mentor told me. Politics are fickle. They change 
+with the times. So long as we remain loyal to our countries, soldiers 
+like us need nothing to believe in. She died out of loyalty - not to 
+justice, not to her country. To herself. For the mission.
+
+Jonathan: Your mentor... the one who taught you the art of battle... Who 
+was she?
+
+Snake: They called her The Boss. I killed her.
+
+Jonathan: The Boss... The legendary soldier? Then Snake, you must be Big 
+Boss. You're the hero who killed Colonel Volgin at Groznyj Grad.
+
+Snake: Prove your loyalty as a soldier. That's what The Boss told me. I 
+still don't know what she meant.
+
+Jonathan: Prove your loyalty... Not to justice, not to your country... but 
+to yourself. Does Gene truly plan to threaten the motherland?
+
+Campbell: Yes. Snake procured documents from a patrol station that 
+confirm as much. If launched from this base, the weapon Gene stole 
+could deliver a devastating blow to every major city in Russia. I know 
+it's hard to believe.
+
+Jonathan: No. I believe you. Not as a member of the Red Army, but as a 
+soldier. 
+
+Snake: ...I appreciate it.
+
+(Jonathan rises and shakes Snake's hand)
+
+Jonathan: I will follow you. Snake, give me my mission.
+
+STAGE SELECT
+
+Campbell: (cough, cough) OK, Snake, what's the plan?
+
+Snake: Hey, Campbell, you sure you're all right?
+
+Campbell: I'm fine... I'll get over it. Now about our plan...
+
+Snake: If we're going to keep collecting intel, we'll need to pick up 
+some more new recruits. 
+
+Campbell: Of course I'd recommend putting together a unit of four 
+soldiers, but if you want to continue on with a smaller unit, that's 
+your call. 
+
+Snake: So we need two more...
+
+Campbell: For now, let's use the buddy system and pair you up with the 
+one we just caught. You can organize your unit using MANAGE over at the 
+Briefing menu. Push the X button to bring up the Briefing menu and 
+select MANAGE. We'll put you and your new friend down as "Team Alpha," 
+alright? The new recruit is registered as a rookie, so... ...move that guy 
+over to your team - Team Alpha. Don't forget you've got Bravo, Charlie, 
+and Delta teams you can fill too. Recruit more comrades and fill those 
+ranks. Just remember that there will be plenty of missions that only 
+you can lead. So make sure you move to that team before deployment. If 
+you need more detailed instructions, push the SELECT button and view 
+the HELP screens. 
+
+(after moving Jonathan into Team Alpha and selecting a mission)
+
+Soldier: Big Boss, Campbell's sick. I'm not exactly sure what it is, 
+but his symptoms look like a form of tropical malaria that I've seen 
+before. 
+
+Snake: What?
+
+Soldier: The first bout has subsided. He's lying down here beside me 
+now.
+
+Snake: Are you positive it's malaria? I know he took preventative 
+drugs...
+
+Soldier: I'm not a medic, so I can't say for sure. But judging by these 
+symptoms... Hey! Don't try and get up!
+
+Campbell: Snake, it's me. I'm in bad shape. Malaria... Who'd have 
+thought?
+
+Snake: Take it easy, Campbell. 
+
+Soldier: What do we do now, Big Boss...?
+
+Snake: ...The preventative drugs don't work. This could just be the 
+beginning... If he's got some tropical disease other than malaria... Then 
+there's not telling whether we might start showing the same symptoms.
+
+Soldier: Good point...
+
+Snake: ...I got an idea. Keep an eye on him. Give me a minute to consult 
+with my "family doctor" about treatment.
+
+Soldier: Huh? Family doctor?
+
+Snake: Para-Medic. Let's head for the communications base.
+
+Soldier: R...right. The communications base. Got it.
+
+Campbell: Sorry... to be such a pain in the ass, Snake...
+
+Snake: Save your strength. On the way we'll keep our eyes out for new 
+recruits.
+
+COMMUNICATIONS BASE
+
+[CALL]
+
+Campbell: Good, you made it inside the communications base. They've 
+probably beefed up security...but you've got to stay out of enemy sight 
+until you reach the communicator.  I don't know how many more of these 
+outbreaks I can take. We've got to find a cure, and soon. I know you 
+can do it.
+
+[CALL]
+
+Jonathan: Big Boss, let's go over how to switch team members. You won't 
+be sneaking in alone anymore. We'll all be sneaking in together. 
+
+Snake: I thought that going in alone was the whole point of a sneaking 
+mission. 
+
+Jonathan: Right, I know. Going in all at once wouldn't be very bright. 
+We'll move one at a time, and switch off as we go along.
+
+Snake: What do people do when it's not their turn? 
+
+Jonathan: We'll have them hide nearby. After all there's plenty of 
+cardboard boxes in the truck.
+
+Snake: All right. I'm used to hiding in cardboard boxes. 
+
+Jonathan: When you want to switch off with another team member, press 
+the START button to bring up the Map Screen. Then select "MEMBER 
+CHANGE." Then you'll be prompted to select a "Hiding Point" - a 
+location on the map where you can hide - choose one as a place to hide. 
+Finally, choose a team member to switch with. Then you're done. 
+
+Snake: OK. We'll do that. 
+
+Jonathan: From what I've seen, there are a lot of soldiers around here 
+dressed like me. I should be less conspicuous than you. I used to be a 
+rescuer, so I'm pretty good at dragging people around. Meaning I'm 
+perfect for gathering new recruits. So make good use of me. 
+
+(if you switch to Jonathan)
+
+[CALL]
+
+Jonathan: OK, it's my turn now. Wow, called on by Big Boss himself - 
+this is going to make a great story when I get back. 
+
+Snake: Watch yourself out there. 
+
+Jonathan: If a unit member is dressed like the enemy, they can slip 
+through the enemy's guard as long as they don't act strange. Sometimes 
+you'll see a blue chameleon icon appear at the top-left of the screen. 
+That means the enemy believes you are an ally so they won't sound any 
+alarms. Unfortunately, a legendary soldier such as yourself doesn't 
+qualify for this special type of infiltration technique. 
+
+Snake: Yeah... All right, show me what you can do. I'll keep listening 
+from here and let you know where the enemies are as far as I can tell. 
+The red circles on the Map Screen are the locations of the enemy 
+soldiers. They show use where the enemies around us are. 
+
+Jonathan: Thanks. I'll put it to good use. All right, here I go. Wish 
+me luck. 
+
+(after reaching the communicator)
+
+Snake: OK... Everybody here?
+
+Soldier: We're all set, Big Boss. Everybody's here. So this "family 
+doctor" of yours - is she that good?
+
+Snake: Yeah, you could say that. She's saved my life more than once.
+
+Para-Medic: Snake? You came all the way back to the communications 
+facility? You must really want to talk to me, huh?
+
+Snake: Yeah, actually, I do. One of my men has come down with malaria. 
+
+Para-Medic: Malaria? Can you get some preventative drugs? Depending on 
+the drug, it can be used to treat malaria even after symptoms appear. 
+
+Snake: We've been using the drugs. But they don't seem to be working 
+too well. Do you think it might be some other kind of disease?
+
+Para-Medic: Hmm... Wait. You said these were malaria symptoms?
+
+Snake: Yeah. No question about it. 
+
+Para-Medic: I got it. 
+
+Snake: What? 
+
+Para-Medic: Do you know how people get malaria?
+
+Snake: Yeah. The virus is transmitted by mosquitoes, right?
+
+Para-Medic: It's not a virus. It's a parasite. 
+
+Snake: A parasite? You mean there's an actual bug inside his body?
+
+Para-Medic: Exactly. In tropical malaria, the malaria parasite gestate 
+within female anopheles mosquitoes and are then transferred to human 
+hosts. Ordinarily, the drugs would prevent the symptoms from happening. 
+But there are different populations of malaria parasites. In certain 
+areas, the populations are drug-resistant. You know what that means? 
+
+Snake: The drugs won't work? 
+
+Para-Medic: Bingo. So the only way to treat it is to find a different 
+drug that's effective against that particular population of malaria 
+parasite. 
+
+Snake: A different kind of drug...
+
+Para-Medic: Try the local medical facility. They should have a supply. 
+But you'd better hurry. You might already be infected with the same 
+parasites. It's only a matter of time before you start to develop 
+symptoms. 
+
+Snake: Got it...
+
+STAGE SELECT
+
+Soldier: Big Boss, I need to talk to you. 
+
+Snake: What's up?
+
+Soldier: Para-Medic was saying that we need some medicine to treat 
+malaria. 
+
+Snake: Yeah. If there were a hospital nearby, I'm sure it'd have a 
+supply in stock. 
+
+Soldier: I know where we can find one.
+
+Snake: A hospital?
+
+Soldier: Yes. There's a hospital in the sector my former squad patrols. 
+I can tell you exactly where it's located. 
+
+Snake: Must be my lucky day. Lead the way.
+
+Soldier: Yessir. Oh, and one other thing...
+
+Snake: Go on...
+
+Soldier: It's a small hospital with minimal facilities - in the 
+mountains. But just the other day, I saw them bringing in a huge 
+shipment of drugs and medical supplies. 
+
+Snake: What for? 
+
+Soldier: I don't know. But what I do know is that this shipment was way 
+too big for a hospital of that size. 
+
+Snake: Sounds suspicious.
+
+Campbell: In any case, Snake, we'd better hurry to the hospital. 
+They've got to have some malaria drugs there. And I'm guessing it'll be 
+a prime location to recruit new comrades with medical careers. Might as 
+well recruit some new allies for the battles ahead, right? Since you're 
+operating as a team, you can all work together to get new recruits. For 
+instance, when you knock an enemy out, you don't have to drag 'em all 
+the way back to the truck yourself. Why not drag the body over to one 
+of your teammates hiding in a cardboard box? Let them do the rest of 
+the work. Go ahead, give it a try! Now let's get going to that 
+hospital. Find the malaria drugs and recruit some medical staffers 
+along the way. 
+
+HOSPITAL
+
+[CALL]
+
+Campbell: Campbell here. We've assessed that the drugs are in that 
+hospital... We're just not sure where. Find those drugs and avoid 
+detection. We now know that I'm not the only one at risk from malaria. 
+Any of our comrades could be infected. Unless we act fast, it won't be 
+long before we're goners. Good luck.
+
+(if you drag an enemy to a hidden ally)
+
+[CALL]
+
+Campbell: So you want to recruit that enemy soldier, huh? No prob. One 
+of our men hiding in a cardboard box will handle it. You go ahead and 
+continue your mission. Next time, use the radio to give the order 
+yourself. The frequency is 143.15.
+
+(after searching the first target area)
+
+[CALL]
+
+Campbell: Ah, did you find the drugs yet? ...What? Oh, I see. They 
+weren't in there. All right, then, try the other rooms. There are other 
+rooms there, right? Take your time and search them in order. 
+
+(after searching the second target area)
+
+Campbell: This is Campbell: Still no luck finding those drugs? I just 
+don't get it... He told us that a huge shipment of medical supplies was 
+brought in, but there's not a trace of them to be found. Something's 
+wrong here... I got an idea. Maybe the shipment log can shed some light 
+on things? Look for the hospital director's office. There must be a 
+record of the drug shipment in there. 
+
+(after reaching the hospital director's office)
+
+(Graphic Novel Cutscene)
+
+(Snake and a fellow soldier search documents on a table)
+
+Snake: It's a list of outgoing materials... ...heading for a lab?
+
+(a helicopter flies past in the sky, being piloted by Lt. Cunningham)
+
+Cunningham: Where are the escapees? Why haven't they been caught? If 
+they get away, I promise you'll regret it. Enough of this! Call Python, 
+get him back here. He'll lead the search team. And make sure this lab 
+stays secure.
+
+(A blonde woman in uniform stares down out of the helicopter, her eyes 
+falling directly on Snake. Snake recoils out of sight and presses 
+against a wall.)
+
+Snake: Wha... what's happening to me?
+
+(End Cutscene)
+
+STAGE SELECT
+
+Campbell: There were no malaria drugs in the hospital... not even a 
+single dose. According to the log left in the director's office, they 
+hauled every last bit of that stockpile of drugs and medical supplies 
+away. They were shipped to a research lab north of the hospital. But 
+we're in luck. Not only do we know from the log that they took the 
+drugs to a lab, but we found its exact location by following the 
+helicopter's flight path. Quite a coincidence, huh? You'll see when you 
+get there, but the lab is built on terrain that makes it hard to spot 
+from the outside. Chances are slim you'd find it unless you had some 
+kind of clue. Head for the lab, infiltrate it, and search for the drugs 
+again. I'm sorry to put this on you, but I'll need them if I'm going to 
+keep command. 
+
+RESEARCH LAB
+
+[CALL]
+
+Campbell: Apparently, the medical supplies they brought to the hospital 
+have all been transferred to that lab. Which means that the drugs must 
+be there, too. Do whatever it takes to find those drugs and bring them 
+back. We need them, and soon. 
+
+(Graphic Novel Cutscene)
+
+(Snake and a fellow soldier hide behind a door and listen in to Lt. 
+Cunningham, the blonde woman from before, and a man that commands them 
+both. This man is Gene.)
+
+Cunningham: What's his status? 
+
+Scientist: We're currently reinitializing his memory and readjusting 
+his sensory nerves in the culture tank. By my estimate it'll take... 
+another twelve hours, at least.
+
+Cunningham: Half a day? He has to be readjusted after each deployment. 
+Not much better than a prototype, a test subject.
+
+Scientist: My apologies, sir. The culture fluid takes time to prepare. 
+With such limited equipment and personnel, readjusting Null isn't...
+
+Cunningham: I know. That's why I brought along a specialist.
+
+Scientist: The chief? But...
+
+Cunningham: The escaped prisoners have yet to be found. This could be 
+just the job for our Perfect Soldier. We'll roll out the tank as soon 
+as the fluid's stabilized. Make all necessary preparations.
+
+Scientist: Yes, sir.
+
+(A group of soldiers are working on a scaffold above)
+
+Blonde Woman: Commander.
+
+Gene: Yes, I know. Cunningham. Don't move.
+
+Cunningham: Huh?
+
+(The scaffold breaks and comes tumbling down directly in front of Gene, 
+Cunningham, and the woman. Gene is unphazed.)
+
+Soldier: Commander! Lieutenant! All you all right?
+
+Gene: We're fine.
+
+Soldier: Please forgive me, Commander. Are you hurt?
+
+Gene: Don't worry. Fate would never see me hurt. Now, lie still and try 
+not to move. This man needs medical attention. 
+
+(Gene's voice grows louder and starts to resound ominously)
+
+Gene: I apologize for any sense of urgency. Please don't think for even 
+a moment that I hold your work -- or yourselves -- in any but the 
+highest of regards. This facility you are helping to build is 
+absolutely vital to the strong roots of our new nation. But never 
+forget that you, yourselves, are no less valuable a resource to that 
+nation. A nation that will house the mightiest, most capable military 
+ever seen by man. Warriors in their prime. We will end an era that sees 
+soldiers discarded like tools, and strike war from the menu of global 
+politics. And it is you - soldiers, military engineers - who are her 
+first citizens. Our nation's riches, and its fighting spirit. I only 
+pray that such priceless resources be not sacrificed in vain!
+
+(Soldiers and scientists alike stand at attention and salute)
+
+Snake: So that's Gene... That voice...and the premonition... was that ESP?
+
+(End Cutscene)
+
+[CALL]
+
+Campbell: No luck finding the drugs, huh? Where the hell could they...? 
+Wait... That reminds me! ...When you were eavesdropping on Gene and his men 
+just now, didn't you say they mentioned something about a "culture 
+tank"? Do you think that might be part of the medical supplies they 
+brought in with the drugs? If so, don't you think the drugs might be 
+stored in the same place as the culture tank - whatever that is? I 
+think it's worth checking out. OK, go look for this machine, this... 
+"culture tank". They may have even set up a special chamber to house 
+it.
+
+(after reaching the culture tank)
+
+(Graphic Novel Cutscene)
+(Snake enters the culture tank room)
+
+Snake: What is this?
+
+(Snake peers over the tank and sees the soldier)
+
+Snake: It's him...
+
+(A blonde woman in a lab coat enters the room)
+
+Blonde Woman: Who's there? Can't you read the sign? It says, "Do Not 
+Enter".
+
+(The blonde woman gasps)
+
+Blonde Woman: You...
+
+Snake: A kid? What are you doing here?
+
+Blonde Woman: I'm in charge!
+
+Snake: You? In charge?
+
+Guards (outside): You there, search upstairs! The rest of you, we'll 
+sweep the prep chamber!
+
+Blonde Woman: This way, Snake! Hide there -- in that locker! 
+
+Snake: What?
+
+Blonde Woman: Just do it!
+
+(Snake hides in the locker just as two guards enter the room)
+
+Blonde Woman: What's going on here? The preparation chamber is for 
+authorized personnel only.
+
+Guard A: Miss Elisa! Are you alone? Have you seen anything suspicious 
+around here?
+
+Elisa: No. Is there something wrong?
+
+Guard B: We received a report that there's an intruder in the lab. 
+Someone also reported seeing a suspicious truck nearby.
+
+Elisa: Well there's no one here. Just me... And him. You're disturbing 
+his sleep. I'll have to ask you to leave.
+
+Guard A: Yes, ma'am. 
+
+Guard B: If you see the intruder, please notify us immediately.
+
+(The guards leave. Snake exits the locker.)
+
+Snake: Now I've seen it all. A little girl, in charge of an outfit like 
+this. ...Why did you help me?
+
+Elisa: I don't know. I just got this feeling that I needed to.
+
+Snake: And how do you know my name? Are you with the FOX Unit, too?
+
+Elisa: No.
+
+Snake: But... your uniform...
+
+(Snake pulls aside Elisa's lab coat expecting to see a uniform, but 
+only a revealing tank top is underneath. Elisa squeals and recoils in 
+shock.)
+
+Snake: It's...it's not like that... When I saw you at the heliport with 
+Cunningham and the others...
+
+Elisa: That was my sister.
+
+Snake: Sister?
+
+Elisa: Her name is Ursula. She's the one who's a member of FOX. I'm 
+just a medic.
+
+Snake: You're pretty young. 
+
+Elisa: Well, you were out on the battlefield when you were my age, 
+weren't you, Snake? Or should I say... Big Boss? Ursula and I were raised 
+in an East German lab. They sent all the kids with ESP potential there 
+to study them. My powers are pretty weak. But Ursula is different. 
+She's one of the most powerful psychics in all the Communist world. 
+Through special training, Ursula gained great power... ...but in doing so, 
+lost everything that makes her human. So much so that she can't even 
+talk with me anymore. Four years ago, Gene took us away from East 
+Germany. He was on a mission from FOX. The CIA wanted to get its hands 
+on ESP from the Communist bloc.
+
+Snake: And then you joined his little revolution?
+
+Elisa: Yes. That's right. 
+
+Snake: So this is what you were calling the Perfect Soldier? Does he 
+have ESP, too?
+
+Elisa: No, he's just an ordinary human being. That is, he used to be... 
+He was raised in a special way -- under very special conditions - to be 
+a great warrior. He's incapable of emotions or doubts. He's the 
+ultimate combatant, created with one purpose only: to accomplish the 
+mission. He has no human memories. The only things he has left are his 
+skills in battle.
+
+Snake: No memories?
+
+Elisa: Each time he completes a mission, he undergoes readjustment. 
+Like this. Inside the culture tank all five senses are shut out 
+completely. Most men would go mad in minutes. Like a baby who's coming 
+into the world for the first time, the Perfect Soldier's senses are 
+honed to a razor sharpness. He can read the enemy's movements and learn 
+them faster than any normal person ever could.
+
+Snake: What kind of person could endure that kind of extreme training?
+
+Elisa: Nobody, of course. The Perfect Soldier project ended in failure 
+and was abandoned. He was the only success. That's why they gave him 
+the code name Null. He's a lost number. He has no feelings and no 
+memories. Not even a project number. Don't even think about fighting 
+him. You can't possibly win, Snake.
+
+Snake: You could be right about that.
+
+Elisa: Or you could shoot him now -- but you'll have to go through me.
+
+Snake: I'm no assassin. Shooting a soldier with their guard down isn't 
+my style.
+
+Elisa: You're a good man, Snake. I knew you were. 
+
+(Elisa produces a package)
+
+Elisa: Here, take this. It's a drug for treating chloroquine-resistant 
+malaria.
+
+(Elisa gives the package to Snake)
+
+Snake: How'd you know...?
+
+(Elisa smiles. A beeping sound is heard.)
+
+Cunningham (over radio): It's time. Bring the tank out. I trust the 
+readjustments are complete?
+
+Elisa: Sorry. It'll just be a little longer.
+
+Cunningham (over radio): I'll send a man in to meet you. Hurry it up. 
+(click)
+
+(Elisa opens a hatch on the floor)
+Elisa: You can get outside through here. Head for the harbor. You'll 
+find what you're looking for there.
+
+Snake: You must be psychic or something.
+
+Elisa: One last thing, Snake. If you find Ursula in front of you, don't 
+hesitate... Shoot her.
+
+Snake: Shoot... your sister?
+
+Elisa: If you can't do that, you're already dead.
+
+Snake: All right... Next time, let's try for a more upbeat prophecy.
+
+(End Cutscene)
+
+STAGE SELECT
+
+Campbell: ...Whew, that was a close one. My fever's all gone now. Looks 
+like those drugs you got from the girl really work. I gave some to all 
+the men. Well, at least we don't have to worry about losing our entire 
+unit any more. Now what? 
+
+Snake: If we go to the harbor, we might find what we're looking for... At 
+least, that's what Elisa said. 
+
+Campbell: The harbor...? I have absolutely no idea where that is. Seems 
+we need to do some more recon. 
+
+Soldier: Big Boss, you got a minute? I've got a plan. 
+
+Snake: A plan? What kind of plan?
+
+Soldier: We can get all the new recruits we want, but unless we use 
+them, they're just going to be sitting there. And that, if I may be 
+frank, is a waste. It defeats the whole purpose. 
+
+Snake: ...
+
+Soldier: So what I was thinking was, we could pick a few of them to set 
+up a "spy unit" and send them to key points on the peninsula. We've all 
+been stationed here a while... So we've got a pretty good idea of how and 
+where to lie low, and we'd make pretty good intelligence collectors, 
+too. And - correct me if I'm wrong - you're going to want a broader 
+picture of what's going on the peninsula in order to accomplish your 
+mission. So what do you think?
+
+Snake: Spies, huh...
+
+Campbell: Snake, the soldier has a point. Right now, we've only got 
+awareness of the few dozen yards around our truck. If we think we can 
+figure out why FOX rebelled like this, we're not just dreaming - we're 
+crazy. I think sending some of our men out to gather intel is a great 
+idea. 
+
+Snake: ...Hmm. OK. We'll go with your plan. We'll start forming a Spy 
+Unit right away. 
+
+Soldier: You got it, Boss. 
+
+Campbell: You can manage your Spy Units by selecting MANAGE on the 
+Briefing menu. Only instead of putting free soldiers in the Sneaking 
+Unit, you'll be putting them into the Spy Unit. You'll need to put 
+together a Spy Unit for each location you want to reconnoiter. Then 
+just let them do their thing. They'll go out and collect intel on their 
+assigned location and report the results back to you. You can see the 
+reports by going to REPORT on the Briefing menu. 
+
+Snake: Got it. I'll try it out. But... We don't have enough men to send 
+them out willy-nilly. Got any ideas where we should start?
+
+Campbell: Well, we do need to find a route to the harbor... Why don't we 
+send a unit out to the supply depot? That's where they store all the 
+cargo they unload at the harbor. It might give us a clue as to how to 
+locate the harbor. 
+
+Snake: Agreed. In the meantime, I'll keep looking for new recruits. 
+
+(after sending a spy to the Supply Depot and waiting half a day or 
+longer)
+
+A new report has arrived from the spy unit.
+
+Campbell: Looks like we've already received an intel report from the 
+spy unit we just dispatched. They seem to know what they're doing. You 
+can read the info by selecting REPORT from the Briefing menu. Go ahead, 
+take a look at it.
+
+(after selecting Supply Depot report)
+
+SUPPLY DEPOT - MAP PROCUREMENT
+"SOURCES INDICATE THAT A MAP DETAILING
+CARGO SHIPMENT ROUTES IS LOCATED
+INSIDE A WAREHOUSE IN THE SUPPLY
+DEPOT. THE WAREHOUSE IS LOCATED
+BEHIND A LARGE BUILDING. INTEL
+SUGGESTS THAT THE MAP IS AVAILABLE
+FOR PROCUREMENT AT ANY TIME
+
+Campbell: According to the report, there's a map at the supply depot 
+showing the route used to deliver supplies. It details how they get 
+supplies unloaded at the harbor to the depot... which means it also shows 
+how to get from the depot to the harbor. ...So what do we do now, Snake?
+
+Snake: What do you think? We're heading for the supply depot.
+
+Campbell: Roger that.
+
+SUPPLY DEPOT
+
+[CALL]
+
+Campbell: It's very likely that there's a map showing the route to the 
+harbor stored in that supply depot. Conduct a search of the facility, 
+taking care not to be seen by the enemy, and find that map. Good luck.
+
+(after retrieving Secret Documents)
+
+[CALL]
+
+Campbell: Mission complete! Now get your ass out of there.
+
+STAGE SELECT
+
+Campbell: This map you found has given us a lot of valuable intel on 
+the peninsula. We now know the location of the town, the rail bridge, 
+the Soviet security base, and the harbor. And just as we suspected, the 
+map shows the precise routes to and from the supply depot.
+
+Snake: Hmm... I guess it was worth the trouble, after all.
+
+Campbell: I'll say Now all we have to do is head straight for the 
+harbor... At least, I wish it were that simple.
+
+Snake: ...Why? What's the problem?
+
+Campbell: To get to the harbor, we have to pass over the rail bridge. 
+But that bridge has been closed off and turned into a checkpoint.
+
+Snake: How do you know?
+
+Campbell: A supplement to the map lists the rotation schedule for the 
+soldiers manning the checkpoint.
+
+Snake: ...Checkpoint, huh. That could be trouble. Is there a way to get 
+around it?
+
+Campbell: As you can see from the map, the eastern half of the 
+peninsula is divided from the western half by a river. If we want to 
+get to the harbor by truck, the only way is to cross over that rail 
+bridge.
+
+Snake: So not only are we cut off from the harbor, we can't get to the 
+east side of the peninsula at all... Is there a way to break through the 
+checkpoint?
+
+Campbell: I can't say for sure without actually scouting the place, but 
+I'll bet the checkpoint will be heavily guarded. Busting our way 
+through probably isn't an option.
+
+Snake: Damn...
+
+Campbell: At any rate, let's start by getting a feel for the situation 
+at the bridge checkpoint. Then we'll talk about getting through.
+
+RAIL BRIDGE
+
+[CALL]
+
+Campbell: All right. Your job is to observe and assess the security 
+situation on the rail bridge. How many soldiers are deployed there, and 
+whether there are barricades or other heavy defensive measures in 
+place. We need to know these things if we're going to cross over to the 
+other side. Proceed to a position from which you can observe the 
+bridge. Good luck.
+
+(after reaching the designated position)
+
+[CALL]
+
+Campbell: What? The bridge is completely blocked by trucks? Great... Just 
+what we needed. All right. That's enough for now. Head back to the 
+truck. We'll have to think of another way.
+
+STAGE SELECT
+
+Campbell: All right... What next? They're using those trucks as road 
+blocks. And based on supplements from the checkpoint, it looks like 
+security on the bridge is tight as a noose. I'm talking tight. Meaning 
+there's almost no way we'll be able to sneak across it unseen. Any 
+ideas, Snake?
+
+Snake: We lack the manpower to take them head on and break through. And 
+sneaking through seems out of the question... So we need to figure out 
+some other way to thin out their numbers. 
+
+Campbell: A diversion, huh? 
+
+Snake: Exactly. If we can crate some commotion by blowing up an enemy 
+facility or a prominent landmark, they'll send in reinforcements to 
+deal with the situation. It looks like they've got a relatively large 
+force deployed on the bridge, so I'm thinking this is the first place 
+they'd pull people from. 
+
+Campbell: Good thinking. I guess all that's left is to figure out what 
+we should blow sky high. 
+
+Snake: It's probably best to take out key enemy facilities or places 
+with things that look susceptible to demolition. 
+
+Campbell: Sounds good, but where do we start?
+
+Snake: That's what the Spy Unit's for, isn't it?
+
+Campbell: Ah ha! You're catching on Snake. Let's deploy our Spy Unit 
+right away. But where to send the spies... Well, that's up to you, Big 
+Boss. 
+
+Snake: We'll also need some TNT.
+
+Campbell: We're surrounded by military facilities. The supply depot and 
+other likely places are bound to have some.
+
+Snake: Okay. I'll go look for the TNT myself.
+
+Campbell: Roger. Then let's get prepped for Operation: Diversion.
+
+(after sending a spy to the Supply Depot and waiting half a day or 
+longer)
+
+A new report has arrived from the spy unit.
+
+(after selecting Supply Depot report)
+
+SUPPLY DEPOT
+-- DIVERSIONARY OPERATION
+"WE HAVE LOCATED A TRUCK ON
+THE PERIPHERAL ROAD. SOURCES INDICATE
+THAT IS AN IDEAL POINT FOR DETONATING
+AN EXPLOSIVE, THUS IGNITING AN ENEMY
+DIVERSION."
+
+Campbell: We need to divert some of the guards away from the rail 
+bridge. If we blow up a parked truck, I'm guessing at least a few of 
+those guards will be sent to the supply depot as reinforcements. We 
+need a nice, big fireball - that should grab their attention. Good 
+luck!
+
+SUPPLY DEPOT
+
+[CALL]
+
+Campbell: All right, this is a sabotage operation. Make sure you 
+correctly identify the target position. And be careful with that TNT. 
+Good luck.
+
+(after blowing up the supply truck with TNT)
+
+[CALL]
+
+Campbell: OK, that about does it! Good work! Now hurry and get back to 
+the truck!
+
+STAGE SELECT
+
+Campbell: You did it! Some of the guards on the bridge just left in a 
+big hurry. OK, let's move on to the next target. 
+
+(after sending a spy to the Soviet Patrol Base and waiting half a day 
+or longer)
+
+A new report has arrived from the spy unit.
+
+(after selecting Soviet Patrol Base report)
+
+SOVIET PATROL BASE
+-- DIVERSIONARY OPERATION
+"WE HAVE LOCATED AN ARMORY IN THE
+SOUTHEASTERN QUADRANT OF THE BASE.
+IT IS A VIABLE POINT TO DETONATE
+AN EXPLOSIVE, CAUSING A DISTRACTION
+FOR ENEMY UNITS."
+
+Campbell: Our diversion operation went exactly as planned. One of the 
+guard units has already left its post. This is a good start. Let's keep 
+it up. Our next goal is to blow up that armory over there. Let's give 
+them some real fireworks this time! 
+
+SOVIET PATROL BASE
+
+[CALL]
+
+Campbell: All right, this is a sabotage operation. Make sure you 
+correctly identify the target position. And be careful with that TNT. 
+Good luck.
+
+(after blowing up the armory with TNT)
+
+[CALL]
+
+Campbell: Looks like you've done it. Good work. We'll be waiting for 
+you back at the truck. Head back here ASAP.
+
+STAGE SELECT
+
+Campbell: Yes! Another success. More guards are leaving the rail 
+bridge. Let's keep it up! Time to pick the next target.
+
+(after sending a spy to the Research Lab and waiting half a day or 
+longer)
+
+A new report has arrived from the spy unit.
+
+(after selecting Research Lab report)
+
+RESEARCH LAB
+-- DIVERSIONARY OPERATION
+"WE HAVE LOCATED THE CULTURE TANK
+THAT HOUSES THE CHILD SOLDIER. THIS IS
+A RECOMMENDED POINT TO DETONATE
+EXPLOSIVES IN ORDER TO DISTRACT ENEMY
+UNITS."
+
+Campbell: Our distractions seem to be working. Two of the guard units 
+on the rail bridge have already left their posts. A few more diversions 
+like this, and the bridge is sure to empty out. This is a good start. 
+Let's keep it up. Our next target is the culture tank where they keep 
+the child soldier. Destroying the tank should also affect the child 
+soldier's ability to heal himself. That should soften him up a bit.
+
+RESEARCH LAB
+
+[CALL]
+
+Campbell: All right, this is a sabotage operation. Make sure you 
+correctly identify the target position. And be careful with that TNT. 
+Good luck.
+
+(after blowing up the culture tank with TNT)
+
+[CALL]
+
+Campbell: Nice job! All you need to do now is get out of there. Have a 
+safe trip.
+
+STAGE SELECT
+
+Campbell: BOOM! Ha-haa! Did you see the size of that explosion? The 
+enemy's got to be pissing their pants by now. Security on the bridge is 
+down to almost nothing. I'd say we've pretty much achieved our 
+objective. Of course, I wouldn't complain if you took out one more 
+target...
+
+(after sending a spy to the Town and waiting half a day or longer)
+
+A new report has arrived from the spy unit.
+
+(after selecting Town report)
+
+TOWN - DIVERSIONARY OPERATION
+"WE HAVE LOCATED SEVERAL MILITARY
+TRUCKS - APPROPRIATE TARGETS TO
+SET EXPLOSIVES AND CAUSE AN ENEMY
+DIVERSION."
+
+TOWN
+
+[CALL]
+
+Campbell: This is the last target on our list. We should be able to 
+cross the rail bridge already, but it wouldn't be a bad idea to get rid 
+of a few more enemy guards. The enemy should be tightening security 
+about now, so keep your senses nice and sharp.
+
+(after blowing up the first truck with TNT)
+
+[CALL]
+
+Campbell: Nice warm up, but let's skip to the grand finale! Aren't 
+there any other military trucks we can blow up?
+
+(after blowing up the second truck with TNT)
+
+[CALL]
+
+Campbell: Haha! That's what I'm talking about! Keep it up! Think you 
+can find one more military truck to take out?
+
+(after blowing up the last truck with TNT)
+
+[CALL]
+
+Campbell: Nice work. We'll be waiting for you back at the truck.
+
+STAGE SELECT
+
+Campbell: Excellent! There goes the last of them! That's four for four. 
+The bridge is wide open now. Get ready to move out!
+
+RAIL BRIDGE
+
+[CALL]
+
+Campbell: How's the guard situation on the bridge? Looking good, huh? 
+Then all we need to do now is cross over. We're heading into the east 
+side of the peninsula.
+
+(after reaching the other side of the bridge)
+
+[CALL]
+
+Campbell: Excellent! We made it through without a scratch! Hurry, on to 
+the harbor!
+
+STAGE SELECT
+
+Campbell: Based on what Snake said he heard from that female soldier, 
+the thing we're looking for is at the harbor. Right now, we still don't 
+have a clue what "it" is. It could have something to do with FOX's 
+rebellion... In any case, the fact is we need every little bit of intel 
+we can get. Sneak into the harbor and conduct a search as you see fit. 
+Of course, you should still exercise caution. And be extra alert for 
+any security - we can't rule out the possibility that this is a trap. I 
+can't tell you how many times I've been sweet-talked by a broad into 
+getting my ass kicked...
+
+HARBOR
+
+[CALL]
+
+Campbell: Your mission is to investigate the harbor, based on the lead 
+Elisa provided. And guys... Next time one of you tries to get a young 
+chick to spill juicy info, make sure you get the damn specifics! 
+Conduct a thorough search of the harbor. Campbell, out.
+
+(Graphic Novel Cutscene)
+
+(Snake and a fellow soldier sneak up and listen in on two men beyond. 
+One is a deranged man in officer's uniform, while the other is a 
+complete mystery - possessing a disfigured face and a truly imposing 
+build.)
+
+Deranged Officer: Freeze! Yankee dog... Keep your filthy paws off my 
+collection!
+
+???: Well, well... If it isn't Colonel Skowronski. I'd heard you were 
+on the run. But to think a base commander such as yourself would be 
+caught hiding in a place like this...
+
+Skowronski: Shut up! You think you scoundrels can just do as you please 
+in my base? As soon as my reinforcements arrive from Russia, we will 
+crush you like the vermin you are! We will teach whose base this really 
+is. The same goes for that bastard Gene as well!
+
+???: Pathetic... Is it hard? Being an officer, that is, when no one 
+follows your orders?
+
+Skowronski: Silence!
+
+(Colonel Skowronski begins shooting wildly at the mysterious man. When 
+he stops, the bullets fall harmlessly to the floor from the man's body, 
+completely frozen. Skowronski screams.)
+
+Skowronski: What are you? You're a monster!
+
+???: You try to kill a man, then call him "monster"? Such crude 
+behavior.
+
+(The mysterious man grabs Skowronski's gun)
+
+Skowronski: Damn it! 
+
+(The gun begins to freeze in Skowronski's hands)
+
+Skowronski: My arm!
+
+???: I'd heard an intruder was lurking about here. And here I find I've 
+come all this way... For nothing! I'd been hoping to see the face of an 
+old friend. Wasn't I...? Snake? My raison d'etre! You... You're not worth 
+killing. But I can't have you wandering around like this.
+
+(The mysterious man puts Skowronski in a cage and freezes the lock 
+shut.)
+
+???: There, that should hold you.
+
+Skowronski: How dare you put me in a cage like a cow...! 
+
+???:  Be quiet. The lock should melt some time before you starve to 
+death. Best to save your strength.
+
+(The mysterious man leaves)
+
+Snake: Python... You're alive...
+
+Skowronski: Who... who's there?! Have you come back to kill me, Yankee 
+dog? Guards, to my side! Eliminate the intruder! This is a direct order 
+from Colonel Skowronski! 
+
+(Skowronski laughs as Snake looks on, perplexed)
+
+Skowronski: You're not the same man as before. Do not worry. My orders 
+fall upon deaf ears, anyway. Four weeks... It's been four weeks since 
+that whelp Gene arrived here. And in those four weeks, everything has 
+changed.
+
+Snake: Aren't there any soldiers still loyal to you?
+
+Skowronski: You must be joking. Wouldn't you like to know how, in just 
+four weeks, that man was able to bring the entire peninsula under his 
+control?
+
+Snake: He announced he was building a mercenary nation, right? A 
+country of soldiers...
+
+Skowronski: Ha! A mercenary nation? Preposterous! This piper has them 
+all dancing to his tune. But I won't be fooled. His methods are 
+simpler. His tools lie deep in the hearts of all men: Greed, and that 
+which lays beneath it... Fear! He simply reaches beyond the impenetrable 
+wall that guards men's hearts... and then strikes! Strikes at their most 
+vulnerable point. Fear! Yes, fear! 
+
+Snake: Fear...?
+
+Skowronski: Compared with the fear that man brought with him, that puny 
+weapon you carry is harmless. You have no idea... No idea how terrible 
+that man truly is.
+
+Snake: Fear, huh? 
+
+(Snake looks up at a crate above him, reading the markings)
+
+Snake: Lavotchkin La-5... What's a World War II fighter doing here?
+
+Skowronski: It is a part of my collection! Once the king of Russian 
+fighters, it could hold its own against Focke-Wulf and the 
+Messerschmitt.
+
+Snake: Were you a fighter pilot?
+
+Skowronski: Indeed I was. Yes... a fighter. If only I had a MiG... or a 
+Sukhoi... I would riddle Gene's body with holes this very day. Somebody! 
+Anybody... Bring me a plane! A plane!
+
+(Skowronski laughs maniacally. Snake shoots the lock off his cage and 
+leaves as the Colonel continues laughing.)
+
+(End Cutscene)
+
+[CALL]
+
+Campbell: What a weirdo! Well, forget about Skowronski. Let's continue 
+the search. Somehow I don't think that drunk was the thing Elisa wanted 
+us to find.
+
+(after spotting an odd crate in the ship)
+
+Snake: Mm...? That's strange... That crate looks a bit out of place. It's 
+labeled "MADE IN USA"... That's gotta be it! This is what she wanted me 
+to find.
+
+(after approaching the crate)
+
+[CALL]
+
+Snake: This is Snake. I found the crate they were keeping the prototype 
+weapon in. 
+
+Campbell: How can you be so sure? 
+
+Snake: It reads "MADE IN USA" on the crate. They must have disguised it 
+to make it look like it's headed for Vietnam. 
+
+Campbell: Interesting... So what's the problem? 
+
+Snake: I just checked some of the crates and... They're empty. The 
+contents must have already been shipped out of the harbor. 
+
+Campbell: What? Are you saying this was all a wild goose chase? 
+
+Snake: Looks that way. But... there's one other thing that caught my 
+attention. 
+
+Campbell: What, it's got the babe-of-the-month centerfold taped to it? 
+
+Snake: No... this isn't your bedroom we're talking about. They left a 
+bunch of spare parts behind... HEAT rounds for a recoilless cannon, spare 
+barrels for an M1919... and bulletproof armor close to five inches thick. 
+
+Campbell: Whoa, Snake... those sound like parts for a tank or an armored 
+vehicle. There's got to be some mistake. The new weapon the U.S. was 
+developing was supposed to be able to hit every major city in Russia, 
+right? It's got to be something along the lines of a ballistic missile 
+or an aircraft. 
+
+Snake: I know that. But by the looks of the crate, it was definitely a 
+land-based weapon. I'm sure of it. 
+
+Campbell: ...Something doesn't add up here. 
+
+Snake: We might be overlooking something important. I'll see what else 
+I can find here.
+
+Campbell: All right. Be careful, Snake. 
+
+[CALL]
+
+Snake: Campbell?
+
+Ghost: Heh heh...
+
+Snake: Who is this?
+
+Ghost: Oh, I'm sorry. I'd just heard a familiar voice and thought I'd 
+say hello. I can't thank you enough for taking care of Volgin.
+
+Snake: Volgin... at Groznyj Grad!?
+
+Ghost: Yes. So you do remember. 
+
+Snake: Who are you...?
+
+Ghost: Sorry, but I can't reveal my name just yet. For now you can call 
+me "Prividyenie."
+
+Snake: Prividyenie... Ghost.
+
+Ghost: Hmh. Call me whatever you please. After all, a name is nothing 
+more than a decoration. But more to the point. I was listening in on 
+your conversation just now. You seem to have quite an interest in the 
+prototype weapon. 
+
+Snake: You know something about it?
+
+Ghost: Do you remember the Shagohod?
+
+Snake: That monster that Sokolov built? It was a nuclear-armed tank 
+that could fire a nuclear missile from the ground... Then you mean...!?
+
+Ghost: At last you're beginning to catch on.
+
+Snake: So the prototype weapon that Gene stole is a nuclear tank? But 
+the Shagohod was only capable of firing a single intermediate-range 
+ballistic missile. It couldn't possibly hit every major city in Russia.
+
+Ghost: You're right. The old Shagohod could never do that. But America 
+has already developed a working MIRV.
+
+Snake: ...Multiple independently targetable re-entry vehicles. A single 
+ballistic missile that carries multiple nuclear warheads, each capable 
+of striking a different target... That would let it hit multiple cities 
+at once...
+
+Ghost: Precisely. But MIRVs do have their weak points. Low accuracy. 
+The high cost of deployment. And the inability to control them once 
+they've been launched. The prototype that Gene stole is a nuclear tank 
+developed by America to make up for these shortcomings.
+
+Snake: A new type of nuclear tank? 
+
+Ghost: The new design travels along a ballistic trajectory that allows 
+it to infiltrate the territory of any country in the world. No ABM 
+system would be able to stop it. And as a nuclear launch platform 
+carrying multiple-warhead missiles, it can penetrate any type of 
+terrain and neutralize an enemy country all by itself, without 
+requiring any support whatsoever. 
+
+Snake: They're going to strap the Shagohod to an ICBM and launch it 
+into an enemy country? That's possible!?
+
+Ghost: It would be impossible - for the Shagohod. But what if it were 
+something smaller and more mobile... for instance, a walking tank? And 
+what if you used a booster far more powerful than the Shagohod's, like 
+the Saturn rocket they used to launch the Apollo Lunar Module? 
+
+Snake: A walking tank... Of course. At the same time Sokolov was 
+developing the Shagohod... the Granin lab was developing a bipedal 
+walking tank at Groznyj Grad... called Metal Gear... Ghost, are you Granin 
+- the man who designed Metal Gear...? No... Granin must be dead. He was 
+killed by Volgin.
+
+Ghost: Granin... that name brings back memories. But go ahead and 
+believe I'm Granin if you like. 
+
+Snake: So Metal Gear is actually a walking nuclear tank equipped with 
+multiple small nuclear warheads?
+
+Ghost: Exactly. However, it's still in the preparation stage. It's not 
+ready to launch yet. What was stolen from America was only the Metal 
+Gear vehicle itself. Gene intends to arm it with the Soviet-made 
+warheads stored on this peninsula.
+
+Snake: But can it use Soviet warheads? Oh, wait... the blueprints for 
+Metal Gear were originally Soviet-made, too. ...I'm surprised they were 
+able to smuggle something of that size out of America.
+
+Ghost: They had a government official involved. He is said to be dead... 
+...but I'm guessing he is at an airport or other likely places, 
+regretting what he has done.
+
+Snake: All right. I got it. So if I take out the nuclear storage 
+facility on this peninsula, we can prevent Metal Gear from being 
+launched.
+
+Ghost: I'll give you whatever help I can. Even if I am a ghost, it 
+still doesn't feel right to let them launch Metal Gear into the 
+Motherland.
+
+Snake: OK. I'll believe you, Ghost. 
+
+Ghost: My frequency is 144.78. I'm counting on you to stop Metal Gear.
+
+STAGE SELECT
+
+Campbell: A man called Ghost... I'm not sure if we can really trust this 
+guy yet, but those spare parts Snake found lend his story some 
+credence. For now, we'll just have to take his word as fact. In any 
+event, we know that this new "Metal Gear" weapon is just a frame. It 
+hasn't been armed with nukes. If we can find the nuclear storage 
+facility and render the nukes unusable, Metal Gear will be nothing but 
+a pile of useless scrap, right? That settles it! Our next mission is to 
+find the nuclear storage facility. Now that we're over the bridge and 
+into the east side of the peninsula, there are a lot of areas we need 
+to reconnoiter. Let's redeploy our spy units and start collecting intel 
+on Metal Gear and the nuclear warheads. As for the Sneaking Unit... Why 
+don't you go get us some more new recruits? By the way, do you know 
+about the medical and technical units? As new recruits come in, try 
+assigning some of them to the medical unit and the technical unit. 
+They'll make your soldiers' wounds heal faster and develop new weapons 
+and items for you. In the meantime, we'll be waiting for word from our 
+spy units. Trust your men to do their job.
+
+(after sending a spy to the Security Base and waiting half a day or 
+longer)
+
+A new report has arrived from the spy unit.
+
+(after selecting Security Base report)
+
+SOVIET SECURITY BASE
+-- CLASSIFIED INFORMATION 
+"WE HAVE REPORTS OF THE EXISTENCE OF
+DOCUMENTS CONTAINING CLASSIFIED 
+INFORMATION RELATED TO THE NUCLEAR
+STORAGE FACILITY. WITH THESE DOCUMENTS,
+IT IS BELIEVED THAT WE CAN DETERMINE
+THE LOCATION OF THE NUCLEAR STORAGE
+FACILITY.
+
+Campbell: Snake! We did it! We finally found it! The map to the nuclear 
+storage facility is in the Soviet security base! Go out there and get 
+it for us!
+
+SECURITY BASE
+
+[CALL]
+
+Campbell: The surest, swiftest way to prevent Gene from launching his 
+nuclear strike is to keep the warheads out of his hands. To do that, 
+we'll first need to discern the location of the nuclear warhead storage 
+facility. That base is the center of the Red Army's security presence 
+there. There's bound to be information in regards to key facilities 
+throughout the peninsula. This is corroborated by intel we've received 
+from our spy units. Conduct a search of the base and look for intel on 
+the location where the warheads are stored.
+
+(after retrieving Secret Documents)
+
+Campbell: Mission objectives complete. Return to base. And make sure 
+the enemy doesn't detect you along the way.
+
+STAGE SELECT
+
+Campbell: We were right. The document you brought back was a map to the 
+nuclear storage facility. In order to stop Gene from using Metal Gear, 
+we have to prevent the nuclear warheads from being transported out of 
+that storage facility. Here's the bad news - we don't know which part 
+to destroy - or how. If we stuck to protocol, we'd first gather some 
+intel and then form a plan of action. But with reports of a transport 
+team arriving to carry out the nukes, time is not a luxury we've got 
+right now. Let's do this by the seat of our pants. Hurry and infiltrate 
+the facility. I know it sounds suicidal, but it's our duty to interrupt 
+the transport of those nukes. Let's do this!
+
+WARHEAD STORAGE
+
+[CALL]
+
+We've confirmed the presence of a transport team - they're here to 
+carry the warheads away. We're in a situation where every minute 
+counts. Get in there and find a way to stop them from transporting 
+those warheads. Good luck!
+
+(after entering the first storage room)
+
+Is this where they're storing the nukes? An alarm system is installed, 
+and security is pretty tight...
+
+(after entering the second storage room)
+
+More alarms... But still no sign of the nukes.
+
+[CALL]
+
+Campbell: Have you found a way to stop those nukes from being 
+transported? Those warheads have got to be pretty heavy. They must use 
+an elevator or something to transport them out. Now this is only 
+speculation, but if we could somehow put that elevator out of service, 
+it just might prevent them from shipping the warheads. The best course 
+of action would be to destroy the elevator itself, but if that's not 
+possible, we can strike its power source as an alternative plan. Is 
+there a machine room or something around there? If so, you might want 
+to try blowing it up. Look for a machine room. It should be full of 
+very large, heavy machinery. If I had to guess... I'd say the machine 
+room would probably be in the basement. Go look for it!
+
+(after reaching the machine room)
+
+[CALL]
+
+Campbell: What's the situation look like?
+
+Snake: I've infiltrated what looks to be a machine room...seems like I 
+could do something useful here. Any ideas?
+
+Campbell: A machine room, eh... This is just a hunch, but I'm thinking it 
+could be responsible for supplying most of the power to the facility. 
+It probably provides the power used to run the elevator as well. You 
+may be able to stop the elevator system by sabotaging that machine 
+room. Cutting off the power source should make it impossible to move 
+those nukes.
+
+(if you don't have any TNT)
+
+Campbell: So destroy that room! 
+
+Snake: Easier said than done. None of our comrades here are carrying 
+any TNT.
+
+Campbell: Damn it. Get back to the truck and I'll have some TNT waiting 
+for you.
+
+Snake: On my way.
+
+Campbell: And hurry!
+
+(if you do have TNT)
+
+Campbell: So plant those explosives of yours!
+
+Snake: You got it.
+
+(Graphic Novel Cutscene)
+
+(Snake presses the detonator, but the TNT fails to explode)
+
+Python: You should be more careful, Snake. The inner walls of this 
+storage facility are more fragile than they look. With the way you 
+planted that bomb, the blast would have been far too powerful. You 
+would have ended up cutting off your own escape route. You're so 
+focused on completing the mission that you neglected your own personal 
+safety. Nasty habits are hard to kick, eh, Snake?
+
+Snake: Python... You dismantled the bomb? But you couldn't have had 
+enough time.
+
+Python: Time? I had plenty. All I had to do was flash-freeze the 
+detonator, and "poof"... ...no more explosion. Sure is hot in here...
+
+Snake: Python... So you were alive all this time. What happened to your 
+body?
+
+Python: It has been a while, Snake... How long's it been since our last 
+mission together? Nearly ten years? We were both so very young back 
+then.
+
+Snake: Yeah... When The Boss vanished... and I didn't know what the hell I 
+was doing... you were there to save me. You were one of the few people I 
+could always count on in battle. But I thought you were dead. You were 
+wounded on that top-secret mission in Vietnam.
+
+Python: Yes, I was. At one point I was within an inch of death. My body 
+lost the ability to regulate its temperature. Left unchecked, it would 
+rise continuously, uncontrollably! Eventually my body would literally 
+burn itself up. Without this suit and its liquid nitrogen filling, I 
+wouldn't be able to survive more than half a day. But this suit has 
+also made me a superior soldier!
+
+(the air around Python begins to freeze)
+
+Python: Look! Look at this stage I control. Not even your famous CQC 
+will work on me.
+
+Snake: But, Python... why? You're a good man. Why join Gene's rebellion?
+
+Python: It's my salvation, Snake. Do you have any idea why the CIA let 
+me live this long? They're afraid of you. Snake. You're a legend. A 
+hero. You bested The Boss! The CIA knows it, so they searched for a 
+soldier strong enough to take you down if you ever betrayed them. They 
+chose me. I'm the Anti-Snake, and I'm the one man who can break you!
+
+(still frame of Python strangling a man)
+
+Python: Ever since I came back to FOX, I've been sent to do nothing but 
+wetworks, so as to keep my assassin instincts nice and sharp! Can you 
+recall those you've killed in battle, Snake! I do! I have nightmares 
+about them, nearly every night. They won't leave me alone! 
+
+(Python cocks his rifle)
+
+Python: But I've spilled far too much by now to ever make amends. The 
+nightmares end today!
+
+Snake: Python, don't!
+
+Python: I've been waiting for this moment. The moment when we could 
+meet each other face to face on the battlefield as enemies. Snake, 
+after I've killed you, my purpose will be fulfilled. Let's go!
+
+(if you kill Python)
+
+(Python lies prone on the floor)
+
+Python: Amazing, Snake. I can see why... the CIA was afraid of you. Now 
+I'll never have to take another life. Looks like I got my salvation 
+after all. Remember this, Snake. I followed Gene becaused he promised 
+redemeption. But soldiers like us won't find redemption in the good of 
+a nation or the hatred of an enemy. Soldiers need a hero. They need a 
+man for whom they can gladly risk their lives. Can you bear the burden 
+of knowing that you hold your men's lives in your hands, Snake? If not... 
+you'll never beat Gene. Farewell, comrade.
+
+Snake: Python!
+
+(Python's body explodes, flinging Snake backward and destroying most of 
+the room.)
+
+(if you stamina kill Python)
+
+(Python lies prone on the floor)
+
+Python: Amazing, Snake. I can see why... the CIA was afraid of you. Now 
+I'll never have to take another life. Looks like I got my salvation, 
+after all.
+
+Snake: That's enough, Python. No more talk.
+
+(Snake falls on Python and presses his arms to Python's chest)
+
+Python: What do you think you're doing, Snake?
+
+Snake: I'm trying to keep the liquid nitrogen from leaking out of your 
+suit. 
+
+Python: Don't do it, Snake. You can't. Your arms will freeze solid 
+before --
+
+Snake: Same Python as ever. The going gets rough, and he gets all hot 
+under the collar.
+
+Python: What?
+
+Snake: You still owe me money from our last poker game. I can't have 
+you dying on me yet.
+
+(Python laughs)
+
+Python: ...Here I am still watching your ass. Remember this, Snake. I 
+followed Gene because he promised redemption. But soldiers like us 
+won't find redemption in the good of the nation, or the hatred of an 
+enemy. Soldiers need a hero. They need a man for whom they can gladly 
+risk their lives. Can you bear the burden of knowing that you hold your 
+men's lives in your hands, Snake? If not... you'll never beat Gene.
+
+(Snake leaves with Python on his shoulder, wounded but alive)
+
+STAGE SELECT
+
+Just our luck. The enemy has already finished transporting the 
+warheads. Meaning we were way off the mark. 
+
+Snake: I hate to admit, but you are right.
+
+Campbell: But we can't give up. We still gotta prevent the launch. 
+
+Snake: We're running out of options though. 
+
+Campbell: We failed at stopping the transport of the nukes. The only 
+option left is to destroy Metal Gear itself. I know that's a tall 
+order, but in a way, you could say it has made our job a tad easier. 
+Compared to transported warheads, Metal Gear is a much larger, more 
+prominent target. There are only so many places it can be stored, and 
+more people are likely to know its location. We need to find someone 
+who was involved in the Metal Gear operation-a high-ranking officer, or 
+maybe a maintenance crew guy. No doubt they'll have more information. 
+
+Snake: I see your point, but...
+
+Campbell: I know. Assuming they've got information controls in place, 
+it's more likely they don't have anything useful to tell us. But... right 
+now, it's our only lead. 
+
+Snake: ... Come to think of it, Ghost mentioned a government official 
+involved in the transportation of Metal Gear... ...Something about a guy 
+who was stabbed in the back by the army and is reportedly dead. 
+
+Campbell: You sure he said that?
+
+Snake: No matter how charismatic Gene is, he'd never get away with 
+activating this state-of-the-art weapon inside another territory on his 
+own. He'd need to pull a few strings first, don't you think? And this 
+official who helped Gene and then got tossed aside... If he's still 
+alive... He'd probably know where Metal Gear is.
+
+Campbell: ...Incredible, Snake. Of course! If anyone's got info on Metal 
+Gear, it's Gene's silent partner in the government! How'd you figure it 
+out?
+
+Snake: I've had...experience with how these government types operate...
+
+Campbell: Yes! I remember now. He did say something about how a 
+government official was cowering in fear near a tarmac...
+
+Snake: OK, let's focus on gathering intel. Can you think of any other 
+likely places?
+
+Campbell: Nothing comes to mind right now, no... We don't know where the 
+airport is.
+
+Snake: All right. We'll need to use our spy units a bit more to expand 
+the scope of our intel network.
+
+Campbell: Right. As much as Metal Gear sticks out like a sore thumb, 
+we'll be here until next year if we have to search this whole place.
+
+(after sending a spy to the Security Base or Warhead Storage Building)
+
+A new report has arrived from the spy unit.
+
+(after selecting Security Base/Warhead Storage report)
+
+AIRPORT LOCATED
+"PRIORITY! DIRECT VISUAL CONFIRMATION
+OF MULTIPLE MILITARY AND CIVILIAN
+AIRCRAFTS HAVE HELPED TO IDENTIFY
+THE LOCATION OF THE AIRPORT."
+
+Campbell: We don't have nearly enough information on Metal Gear's 
+whereabouts. You've got to collect more intel. According to the intel 
+we received from Ghost, a group of senior government officials were 
+spotted at the airport. This could be the chance we've been waiting 
+for. As Metal Gear is directly involved in maintaining security on this 
+peninsula, it wouldn't surprise me if they've been briefed on it. What 
+do you say we go to the airport and see what they have to say?
+
+AIRPORT
+
+[CALL]
+
+Campbell: This is the airport. We've only just discovered its location, 
+and we know next to nothing about its internal layout. Conduct a 
+careful search of the airport interior. Don't go barreling in. When you 
+find a government official, get them to tell you what they know about 
+Metal Gear. 
+
+[CALL]
+
+Campbell: Oh, before I forget... do you know how to interrogate? Let's go 
+over the interrogation process, just in case. You've practiced the 
+chokehold before, haven't you? Unequip all weapons and approach your 
+target from the rear, then hold down the Square button to pin the 
+target's arms behind them. Then, instead of tapping the Square button 
+repeatedly to choke them, press the L button to interrogate them. You 
+don't have to be barehanded to do this - you can also do it with a CQC 
+enabled weapon such as a handgun or knife. Then just sit back and watch 
+them spill their guts. That's all. Have at it.
+
+(after interrogating the government official)
+
+Government Official: The warheads were brought to the silo located east 
+of the ravine!
+
+[CALL]
+
+Campbell: Nice job! All you need to do is get out of there. Have a safe 
+trip.
+
+STAGE SELECT
+
+Campbell: From what this guy "Ghost" has been saying, the weapon we're 
+chasing is a Metal Gear with intercontinental ballistic-launch 
+capabilities. An ICBMG, if you will. And we have reports that the 
+nuclear warheads were transported out of the storage facility and 
+brought to the ballistic missile launch silo. We can't confirm whether 
+any of this info is reliable, but the way I see it, we have to operate 
+on the assumption that Metal Gear has already been moved to the launch 
+silo. 
+
+Snake: There's no reason to doubt it, anyway. 
+
+Campbell: Exactly. And one more thing... The government official that we 
+interrogated at the airport has given up the location of the silo...
+
+Snake: ...
+
+Campbell: Snake... I know what you're thinking, and I agree. Let's head 
+to the silo.
+
+SILO ENTRANCE
+
+[CALL]
+
+Campbell: We're 99% sure the ICBMG has been transported to that 
+ballistic missile launch facility. Now's our chance to pinpoint its 
+exact location. So do a full sweep of the area and try to find the 
+entrance to the underground complex. Stay on your toes.
+
+(after reaching the goal)
+
+(Graphic Novel Cutscene)
+
+(Snake and a fellow soldier are standing in front of a man flanked by 
+two men, held in bonds.)
+
+Intercom: Intruder detected. Releasing Perfect Soldier. Number [Null], 
+take him into custody.
+
+(The bonds are released, revealing a pale-skinned man with a ninja mask 
+over his lower face. This is the man from the culture tank - Null, the 
+Perfect Soldier.)
+
+Snake: So, this is Null... The Perfect Soldier.
+
+(Snake fires off two groupings of shots at Null, but both sets are 
+deflected by Null's machete. Null flips over Snake and slashes in front 
+of his face, landing on his other side.)
+
+Snake: What is this guy...?!
+
+(after defeating Null)
+
+(Snake and Null are standing opposite one another with weapons at the 
+ready, with Null panting heavily)
+
+Null: ...Why? Why do you still live?
+
+Snake: What the hell's he talking about?
+
+Null: No man can meet the Perfect Soldier in battle and survive. But 
+you won't die. Why!?
+
+(Null dives toward Snake, slashing at him as Snake dodges away)
+
+Snake: These moves... I know these moves... It was in... 
+
+(the image of a small boy with a knife is shown)
+
+Snake: Mozambique!
+
+(Null places his hands on his head and screams. A door opens and a 
+group of soldiers run in unexpectedly, being led by Lt. Cunningham.)
+
+Cunningham: Stay right where you are, Snake. Hey, you've been quite a 
+handful, I'll give you that.
+
+(Cunningham takes the butt of his rifle and hits Snake with it, 
+knocking him out.)
+
+Cunningham: Good work, Perfect Soldier. Your mission is complete.
+
+(Null stands hesitantly over Snake.)
+
+Cunningham: Your mission is over, Null. At ease.
+
+(Null lowers his weapon.)
+
+Cunningham: Only a puppet, after all...
+
+STAGE SELECT
+
+Campbell: We've lost contact with Snake... I hate to imagine what might 
+have happened to him. But Snake's a legend - he's Big Boss. He wouldn't 
+let himself get killed that easily. I... I know he wouldn't.
+
+Soldier: I'm with you, Campbell. We've gotta save him. 
+
+Campbell: Right. We'll start by searching for his whereabouts. It 
+hasn't been that long since he disappeared. I think the best approach 
+would be to focus our search on his last known whereabouts. 
+
+Soldier: But we won't get anywhere by just hunting aimlessly...
+
+Campbell: Exactly. So we've got to be aggressive. Interrogate any 
+enemies you find there and try to squeeze some info out of them.
+
+Soldier: Right. We're on it.
+
+SILO ENTRANCE
+
+[CALL]
+
+Locate Snake's whereabouts by interrogating the enemies you encounter. 
+You'll run a greater risk of being spotted, but we won't gain anything 
+simply by searching the area at random. Stay sharp.
+
+(after interrogating the enemy officer)
+
+Officer: They... They took some guy named Snake over to the guest house!
+
+[CALL]
+
+What? You found a clue to Snake's whereabouts? Fantastic! OK, return to 
+the truck immediately. Then we can discuss the best course of action.
+
+(Graphic Novel Cutscene)
+
+(Snake is in a small cell tied to a chair. Gene and Lt. Cunningham are 
+standing over him.)
+
+Gene: Looks like you've done quite a number on this one. Intel 
+extracted via physical torture is unreliable. It has always been my 
+understanding that a skilled interrogator doesn't have to resort to 
+inflicting pain on his... subject.
+
+Cunningham: You're right, Commander. But it all depends on the time and 
+the place. This man used to be a member of FOX. For him, this doesn't 
+even qualify as torture. I was simply saying hello.
+
+Gene: I see. As a fellow FOX, you know his limits. Still, it's not easy 
+getting information out of him... is it, Cunningham? 
+
+Cunningham: Ah, he is a tough one, I'll give him that. But his 
+resilience will be his undoing. This time, I'll get the location of the 
+remaining Legacy for sure.
+
+Gene: Can you do it?
+
+Cunningham: It's not part of my normal regimen, but there is a way.
+
+Gene: Drugs? Truth serum won't work on a member of FOX.
+
+Cunningham: While he was away from the battlefield, they developed a 
+new formula.
+
+Gene: Confessions extracted via truth serum can't be trusted, more so 
+if you're using a stronger formula. He could fall apart before you even 
+have the chance to question him. You know that as well as I. Why the 
+hurry, Cunningham?
+
+Cunningham: It seemed the ideal way to handle it... from an efficiency 
+perspective.
+
+Gene: All right, then. But I want to talk to him first.
+
+Cunningham: Be my guest. Truth serums also have an anesthetic effect. 
+If I use it before he recovers his strength, I can't make him hurt. 
+Let's let him taste the fear a little while longer.
+
+(Cunningham exits. Gene turns to Snake.)
+
+Gene: You've been awake all this time? You'd make a formidable 
+opponent. I can see now why you've inherited the title of Boss. And yet 
+you are troubled. Who are you loyal to? Why do you fight? What is a 
+country? A soldier? Have you lost sight of these things? That's why you 
+retired from FOX. But here you are back on the battlefield. Once you've 
+inherited the soul of a warrior, you can never leave the battlefield.
+
+(Gene laughs.)
+
+Gene: Allow me to share a story. This whole business about stealing 
+Metal Gear... It was all a setup from the beginning. The idea was the 
+CIA's. They were planning to give the American-developed Metal Gear to 
+the Russians. Giving the enemy a new weapon of their own design. And do 
+you know why?
+
+Snake: Enlighten me.
+
+Gene: To prolong the Cold War. The failure of its planned economy has 
+left the Soviet Union's finances in shambles. On top of that, thanks to 
+the Boss' work six years ago, they lost the Philosopher's Legacy. The 
+Russians can no longer sustain the massive military spending demanded 
+by the Cold War. And now America, in addition to acquiring the Legacy, 
+has succeeded in deploying MIRVs in battle, and is moving to cement her 
+military superiority through the ongoing Strategic Arms Limitation 
+Talks. At this rate, the global balance of power will soon collapse, 
+and before long, the Cold War will have ended. And when that happens, 
+the CIA's importance will have diminished - considerably.
+
+Snake: The CIA is giving Metal Gear to the Russians to maintain the 
+balance of power?
+
+Gene: Metal Gear is a weapon far more advanced than any MIRV. It would 
+be a most valuable trump card for Moscow, one that would render SALT 
+irrelevant. The world would move away from compromise and 
+accommodation... and once again split into two. The age of soldiers and 
+spies would continue. FOX's orders from the CIA were not to guard Metal 
+Gear during transport, but to steal it and then pretend to defect to 
+the Soviet Union. A clever plan on the part of the CIA, all designed to 
+protect its organizational interests.
+
+Snake: No... no way... I don't believe it.
+
+Gene: This is what you call your "country."
+
+Snake: So that's why you staged a rebellion.
+
+Gene: I will create a world I desire. Just as soldiers have need of 
+talented officers, men have need of talented leaders. Leaders capable 
+of granting guidance to the world. I was created for that purpose.
+
+Snake: Created?
+
+Gene: Have you heard of the Successor Project?
+
+Snake: ...No.
+
+Gene: It was a top-secret experiment conducted by the U.S. government. 
+Its goal - to create the ultimate battlefield commander. The skills to 
+wage war. The aptitude for strategy. The endurance to return from 
+battle alive. And the charisma to overwhelm and master the hearts of 
+soldiers. 
+
+Gene (echoing): My voice is endowed with a special power. 
+
+Gene: Another product of the Successor Project. And the soldier they 
+chose as the model leader was none other than the legend herself, The 
+Boss.
+
+Snake: The Boss...?
+
+Gene: I received these gifts. I inherited them. Snake... You inherited 
+the title of Boss. You were her last disciple. You and I are like 
+brothers. And as such, I couldn't possibly kill you now. Make yourself 
+comfortable, "brother", for you're about to witness the creation of my 
+new world.
+
+(Gene exits Snake's cell, closing the door behind him.)
+
+(End Cutscene)
+
+STAGE SELECT
+
+Campbell: Listen up, everyone. Our interrogation of the enemy has 
+produced information on the location where Snake is being held. He's 
+currently in the guest house. We'd go out and rescue him immediately, 
+but unfortunately we're unable to ascertain the exact location. As a 
+facility used by high-ranking dignitaries, the location of the guest 
+house is a well-kept secret. It's quite possible that none of the 
+enemies we interrogated even know its exact location. And it's not 
+marked on any of our maps, probably for the same reason. So for the 
+time being, we're making finding the location of the guest house our 
+number one priority. You might want to try interrogating people who are 
+regular visitors to the guest house - government official, high-ranking 
+officers. It may also be a good idea to expand the scope of our spy 
+units' reconnaissance. In any case, we've got to find that guest house! 
+If anybody has any bright ideas, let's hear them!
+
+-from here you can send a spy to either the Rail Bridge or the Town
+
+(if you send a spy to the Rail Bridge and wait half a day or longer)
+
+A new report has arrived from the spy unit.
+
+(after selecting Rail Bridge report)
+
+RAIL BRIDGE - MAP FOUND
+"SOURCES INDICATE THAT A MAP SHOWING 
+THE ROUTE TO THE GUEST HOUSE HAS BEEN
+PROVIDED TO THE RAIL BRIDGE SECURITY
+GUARDS."
+
+Campbell: We've got to find out the location of that guest house. 
+Extract the location of the guest house from the guards on the rail 
+bridge. Interrogate the enemy while they're on patrol. They must have 
+some information we can use. Give it everything you've got-show them no 
+mercy. Get to it.
+
+RAIL BRIDGE
+
+(Graphic Novel Cutscene)
+
+Gene (on the phone): It's me. Somehow I knew it would be you. ...Yes, 
+negotiations with the Kremlin were a success. They won't interfere with 
+what's about to happen. I must thank you for all your help. When they 
+saw the trajectory data for Metal Gear, they knew that this was no 
+bluff. The CIA must be in a state of total panic about now. All part of 
+your plan, I presume? Tell me something, though... You couldn't possibly 
+have obtained the data on your own, could you? There must be someone 
+backing you. Who is it? Never mind...I've got a fairly good idea who it 
+is. The man with the same codename as Null... But you do realize you're 
+betraying you're employer, don't you? Just what is it you've got in 
+mind? You're not using me, are you? No matter. We'll meet again... in a 
+new world, one of my own creation. Until then, my friend... Ocelot.
+
+(Gene hangs up. Two soldiers hurriedly barge into the room.)
+
+Gene: What is it? What's happened?
+
+Soldier: P-pardon us, sir! But the Perfect Soldier... He's...!
+
+(Null charges into the room, slicing through both screaming soldiers as 
+he enters.)
+
+Ursula: Null...
+
+Gene: What's the meaning of this?
+
+Null: I must complete my mission. 
+
+Gene: Stand down, Null.
+
+Null: Not yet. He lives. I have not completed my mission.
+
+Snake: You mean Snake? He's been captured. Your mission is complete. 
+Stand down, Null.
+
+Null: No. Why won't you die, Snake!?
+
+(Null slices through more surrounding soldiers. Ursula moves to 
+intervene but Gene restrains her with his arms and steps forward 
+himself.)
+
+Null: Out of my way. I'll kill him! I must kill him... I must... kill!
+
+(Null slashes at Gene, but Gene makes an impossibly fast dodge and lets 
+loose a flurry of knives, puncturing his hands and knees. Gene then 
+strikes Null, sending him flying.)
+
+Gene (echoing): You will follow my orders, Perfect Soldier. I am your 
+commander.
+
+Gene: Take him to the preparation chamber. 
+
+(Soldiers carry Null out of the room, followed by Ursula.)
+
+Gene: The Perfect Soldier has his memory reset after every mission. And 
+yet, after a single skirmish, you managed to instill such strong 
+emotions in him. Snake...
+
+(End Cutscene)
+
+[CALL]
+
+Campbell: The guards on the bridge know the location of the guest house 
+where Snake is being held. We're going to get that information out of 
+them. Interrogate the enemy. Don't go easy on them - rough them up if 
+you have to. Just get that information! Snake is counting on us, 
+understood? Go secure the location of that guest house. NOW. Give 'em 
+hell!
+
+(after retrieving the map)
+
+[CALL]
+
+Campbell: You got the map? Excellent! Nice work! OK, you're done there. 
+Get back to the truck immediately! 
+
+(Graphic Novel Cutscene)
+
+(Snake is lying prone in his cell, being guarded by one soldier. Elisa, 
+with a tray in her hands, approaches the cell.)
+
+Elisa: Hi there. I brought you some dinner. And some for the prisoner, 
+too.
+
+Guard: Thank you! Awfully nice of you to come all this way just to 
+bring me a meal...
+
+Elisa: Don't mention it. Say, mind if I talk to the prisoner for a 
+little while? I want to meet the man who fought the Perfect Soldier and 
+lived to tell about it. Don't mind me, just enjoy your supper.
+
+Guard: Huh...? But...
+
+Elisa: Please try to understand. When a girl's life is on the line, 
+sometimes she longs for a strong man.
+
+Guard: Uhh... ...Go ahead.
+
+Elisa: Can you do me a favor and look the other way for a while?
+
+(The guard leaves and Elisa enters the cell)
+
+Elisa: Looks like you've really been through the ringer, Snake. But I'm 
+glad to see you're alive. I never thought you'd actually survive a 
+fight with Null. Let's see if we can't get you patched up.
+
+(She looks down at Snake, who is very apparently naked.)
+
+Snake: Uhh...
+
+Elisa: Oh! Eat your dinner. Don't worry, it's not drugged or anything. 
+
+Elisa (whispering): Don't move, Snake. And keep quiet, OK?
+
+(Elisa embraces Snake)
+
+Elisa: Can you hear me?
+
+Snake: Is this telepathy?
+
+(Elisa: Shh.)
+
+Elisa: Not so loud. Just be quiet and listen. I don't have enough power 
+to talk for very long. Gene has begun preparations for Metal Gear's 
+ballistic launch. He's given the orders to start loading the nuclear 
+warheads.
+
+Snake: What?! It's still too early. Did the negotiations break down?
+
+Elisa: I don't know. Not even Ursula and I can know what's running 
+through Gene's mind. As to why he's negotiating with both the U.S. and 
+the Soviet Union... your guess is as good as mine. I think he may be 
+preparing to use Metal Gear right now - no matter how the talks turn 
+out. But I can't stop him... Not by myself. Not while he has Ursula on 
+his side. You're the only one I can count on. They've probably taken 
+Metal Gear from the harbor to the assembly plant so they can load the 
+warheads. If you destroy it now, you can at least prevent Gene from 
+launching a nuclear attack. 
+
+Snake: Why are you telling me this?
+
+Elisa: I saw a vision of you destroying Metal Gear. My premonitions 
+don't always come true, but I do know that you've got a chance to 
+prevent nuclear holocaust.
+
+Snake: Can you get me out of here? 
+
+Elisa: Not right now. Be patient. Your luck will change soon. 
+
+Snake: Well, that makes me feel better. I'm practically smiling... on the 
+inside.
+
+Elisa: All good things come to those who wait.
+
+(Elisa lets go of Snake and begins panting roughly. The guard returns.)
+
+Guard: OK, Chief, uh, time to wrap it up...
+
+Elisa: Huh? Oh, sorry. 
+
+(Elisa winks at the guard)
+
+Elisa: I guess I got a little too into it.
+
+Guard: Into it...?
+
+Elisa: This is our little secret, okay? Don't tell anybody.
+
+(Elisa turns to Snake as she leaves)
+
+Elisa (whispering): Please, Snake. You have to believe.
+
+(End Cutscene)
+
+-skip to STAGE SELECT
+
+---
+
+(if you send a spy to the Town and wait half a day or longer)
+
+A new report has arrived from the spy unit.
+
+(after selecting Town report)
+
+TOWN - GOVERNMENT OFFICER SIGHTED
+"WE HAVE SIGHTED THE GOVERNMENT
+OFFICIAL IN THE TOWN."
+
+Campbell: We've got to find out the location of that guest house. 
+However, according to intel we've since received from our spy unit, the 
+government officials in the town may possess information on how to get 
+to the guest house. Try interrogating some government officials. Show 
+them no mercy. 
+
+TOWN
+
+(Graphic Novel Cutscene)
+
+Gene (on the phone): It's me. Somehow I knew it would be you. ...Yes, 
+negotiations with the Kremlin were a success. They won't interfere with 
+what's about to happen. I must thank you for all your help. When they 
+saw the trajectory data for Metal Gear, they knew that this was no 
+bluff. The CIA must be in a state of total panic about now. All part of 
+your plan, I presume? Tell me something, though... You couldn't possibly 
+have obtained the data on your own, could you? There must be someone 
+backing you. Who is it? Never mind...I've got a fairly good idea who it 
+is. The man with the same codename as Null... But you do realize you're 
+betraying you're employer, don't you? Just what is it you've got in 
+mind? You're not using me, are you? No matter. We'll meet again... in a 
+new world, one of my own creation. Until then, my friend... Ocelot.
+
+(Gene hangs up. Two soldiers hurriedly barge into the room.)
+
+Gene: What is it? What's happened?
+
+Soldier: P-pardon us, sir! But the Perfect Soldier... He's...!
+
+(Null charges into the room, slicing through both screaming soldiers as 
+he enters.)
+
+Ursula: Null...
+
+Gene: What's the meaning of this?
+
+Null: I must complete my mission. 
+
+Gene: Stand down, Null.
+
+Null: Not yet. He lives. I have not completed my mission.
+
+Snake: You mean Snake? He's been captured. Your mission is complete. 
+Stand down, Null.
+
+Null: No. Why won't you die, Snake!?
+
+(Null slices through more surrounding soldiers. Ursula moves to 
+intervene but Gene restrains her with his arms and steps forward 
+himself.)
+
+Null: Out of my way. I'll kill him! I must kill him... I must... kill!
+
+(Null slashes at Gene, but Gene makes an impossibly fast dodge and lets 
+loose a flurry of knives, puncturing his hands and knees. Gene then 
+strikes Null, sending him flying.)
+
+Gene (echoing): You will follow my orders, Perfect Soldier. I am your 
+commander.
+
+Gene: Take him to the preparation chamber. 
+
+(Soldiers carry Null out of the room, followed by Ursula.)
+
+Gene: The Perfect Soldier has his memory reset after every mission. And 
+yet, after a single skirmish, you managed to instill such strong 
+emotions in him. Snake...
+
+(End Cutscene)
+
+[CALL]
+
+Campbell: That government official we spied on in the town has got to 
+know the location of the guest house where Snake is being held... And 
+we're going to get the information from him. Interrogate that official. 
+Don't go easy on him-rough him up if you have to. Just get that 
+information! Snake is counting on us, understood? Go secure the 
+location of that guest house. NOW. Give 'em hell!
+
+(after interrogating the government official)
+
+Government Official: The guest house? It's across the rail bridge, near 
+the sea.
+
+[CALL]
+
+Campbell: Were you able to wring the guest house location out of him? 
+Excellent! Nice job! OK, you're all done there. Hurry up and get back 
+to the truck!
+
+(Graphic Novel Cutscene)
+
+(Snake is lying prone in his cell, being guarded by one soldier. Elisa, 
+with a tray in her hands, approaches the cell.)
+
+Elisa: Hi there. I brought you some dinner. And some for the prisoner, 
+too.
+
+Guard: Thank you! Awfully nice of you to come all this way just to 
+bring me a meal...
+
+Elisa: Don't mention it. Say, mind if I talk to the prisoner for a 
+little while? I want to meet the man who fought the Perfect Soldier and 
+lived to tell about it. Don't mind me, just enjoy your supper.
+
+Guard: Huh...? But...
+
+Elisa: Please try to understand. When a girl's life is on the line, 
+sometimes she longs for a strong man.
+
+Guard: Uhh... ...Go ahead.
+
+Elisa: Can you do me a favor and look the other way for a while?
+
+(The guard leaves and Elisa enters the cell)
+
+Elisa: Looks like you've really been through the ringer, Snake. But I'm 
+glad to see you're alive. I never thought you'd actually survive a 
+fight with Null. Let's see if we can't get you patched up.
+
+(She looks down at Snake, who is very apparently naked.)
+
+Snake: Uhh...
+
+Elisa: Oh! Eat your dinner. Don't worry, it's not drugged or anything. 
+
+Elisa (whispering): Don't move, Snake. And keep quiet, OK?
+
+(Elisa embraces Snake)
+
+Elisa: Can you hear me?
+
+Snake: Is this telepathy?
+
+(Elisa: Shh.)
+
+Elisa: Not so loud. Just be quiet and listen. I don't have enough power 
+to talk for very long. Gene has begun preparations for Metal Gear's 
+ballistic launch. He's given the orders to start loading the nuclear 
+warheads.
+
+Snake: What?! It's still too early. Did the negotiations break down?
+
+Elisa: I don't know. Not even Ursula and I can know what's running 
+through Gene's mind. As to why he's negotiating with both the U.S. and 
+the Soviet Union... your guess is as good as mine. I think he may be 
+preparing to use Metal Gear right now - no matter how the talks turn 
+out. But I can't stop him... Not by myself. Not while he has Ursula on 
+his side. You're the only one I can count on. They've probably taken 
+Metal Gear from the harbor to the assembly plant so they can load the 
+warheads. If you destroy it now, you can at least prevent Gene from 
+launching a nuclear attack. 
+
+Snake: Why are you telling me this?
+
+Elisa: I saw a vision of you destroying Metal Gear. My premonitions 
+don't always come true, but I do know that you've got a chance to 
+prevent nuclear holocaust.
+
+Snake: Can you get me out of here? 
+
+Elisa: Not right now. Be patient. Your luck will change soon. 
+
+Snake: Well, that makes me feel better. I'm practically smiling... on the 
+inside.
+
+Elisa: All good things come to those who wait.
+
+(Elisa lets go of Snake and begins panting roughly. The guard returns.)
+
+Guard: OK, Chief, uh, time to wrap it up...
+
+Elisa: Huh? Oh, sorry. 
+
+(Elisa winks at the guard)
+
+Elisa: I guess I got a little too into it.
+
+Guard: Into it...?
+
+Elisa: This is our little secret, okay? Don't tell anybody.
+
+(Elisa turns to Snake as she leaves)
+
+Elisa (whispering): Please, Snake. You have to believe.
+
+(End Cutscene)
+
+STAGE SELECT
+
+Campbell: We've learned the location of the guest house where Snake is 
+being held captive. The next step is to go there, sneak inside, and 
+execute a rescue operation. Security will be tight, but we can't let 
+that stop us. We're going to bring him back! Everybody with me?
+
+GUEST HOUSE
+
+[CALL]
+
+Campbell: OK, this is the guest house. Quickly make your way inside and 
+search for Snake's location. Do NOT let the enemy see you. We need 
+Snake in order to destroy Metal Gear. And he needs us to save him. 
+Let's bring him back alive!
+
+(Graphic Novel Cutscene)
+
+(Two soldiers free Snake from his cell, untying his bonds. One of these 
+soldiers is Jonathan, the first soldier recruited by Snake)
+
+Snake: You came to save me? You didn't even know if I was still alive. 
+Why'd you put yourself in danger like that?
+
+Jonathan: Because you're our Boss. Besides... we knew you wouldn't let 
+yourself get killed in a place like this.
+
+Snake: But...saving me's not gonna...
+
+Jonathan: We need you. Don't forget that, Snake.
+
+Snake: All right, let's get out of here. I know where Metal Gear is. 
+Our business here is finished.
+
+Jonathan: Roger that, Boss. There's a passageway up ahead that's only 
+lightly guarded.
+
+(Snake and his men make their way through the passage. As they emerge, 
+they are ambushed by Cunningham, who is atop a hovering platform.)
+
+Cunningham: End of the line, Snake! These are capable men you lead, 
+Snake. I never thought a FOX agent - a specialist in solo sneaking 
+missions, no less - would have his comrades come rescue him. My 
+mistake. You nearly slipped through my fingers. I must remember to 
+thank Ursula.
+
+Snake: Ursula... the precog working for Gene.
+
+Cunningham: She's a mystery to me, but she does have her uses. Anyway. 
+Now that we're both here, we can get on with the questioning. The 
+Legacy - where is it? I know you stole the KGB's half, now tell me 
+where it is!
+
+Snake: The KGB? What are you talking about?
+
+Cunningham: Still playing at denial. Have it your way! Your men die by 
+my hand - one by one - until you change your mind!
+
+(Cunningham shoots one of Snake's men)
+
+Snake: Stop!
+
+Cunningham: Where is the Philosopher's Legacy? Where is it?
+
+Snake: I don't know!
+
+(Cunningham shoots the other soldier)
+
+Snake: Stop it! I don't know anything! I swear!
+
+Cunningham: You're lying! You must know where the Legacy is. The 
+Pentagon told me --
+
+Snake: The Pentagon? Why are you so concerned about what's happened to 
+the Legacy, Cunningham? What's your stake in this?
+
+Cunningham: Enough! You'd better start giving me some answers. Or else!
+
+(A truck comes barreling into the complex, slamming into guards as it 
+goes.)
+
+Guard: What the?!
+
+(The truck crashes into Cunningham's hovering platform, sending him 
+flying, and then stops near Snake and his men. The driver is Elisa.)
+
+Cunningham: You!
+
+Elisa: Snake, get in!
+
+Snake: Elisa? Why are you...?
+
+Elisa: Hurry!
+
+(Snake is holding a wounded soldier in his arms.)
+
+Soldier: G... go on without me, Boss... hurry...
+
+Snake: Quit your whining. The bullets went straight through. Now get 
+up!
+
+(Snake and his men get into the truck.)
+
+Cunningham: Don't just stand there! Stop them!
+
+(The guards begin to fire on the escapees)
+
+Snake: OK, step on it!
+
+(The truck roars forward and crashes through the gates as Cunningham's 
+men fire. In the next scene, the truck stops at the camp of Snake's 
+resistance. Campbell is there to meet them.)
+
+Snake: Looks like we shook them off.
+
+Campbell: Yeah. Glad to see you're still in one piece, Snake.
+
+Snake: How's our wounded?
+
+Campbell: Well, I'm not the world's best field medic, but his condition 
+looks stable.
+
+Snake: Good.
+
+Campbell: I thought you specialized in solo missions. But it looks like 
+you can lead a squad, too.
+
+Snake: Knock it off.
+
+Campbell: Hey Snake... who's the dame?
+
+Snake: This is Elisa. She helped us escape.
+
+Campbell: You got one of Gene's soldiers to join our side?
+
+Campbell (whispering): Just out of curiosity, how did you manage to get 
+a girl like this? Don't you think she's a little young? I mean, another 
+five years and she'll be a real knockout of a woman, but...
+
+Elisa: Let's go, Snake. We should check on the location of the plant 
+while it's still dark out. The lights should tell us exactly where it's 
+located.
+
+Snake: Right. You lead the way.
+
+(Snake and Elisa walk alone through a wooded path)
+
+Snake: Elisa... about what Campbell was saying.
+
+Elisa: You mean about waiting another five years?
+
+Snake: That's not what I meant. I mean the reason why you betrayed Gene 
+and saved me. You never told me.
+
+Elisa: Haven't I already explained this to you? I want you to destroy 
+Metal Gear.
+
+Snake: I thought you were loyal to Gene.
+
+Elisa: I thought so, too... at first. Even now I'm still grateful to him. 
+In East Germany Ursula and I were used like guinea pigs -- he saved us 
+from that. But the Communists, the Americans... they're all the same. All 
+the military wanted was to know the secret of our ESP. They only wanted 
+us so they could use our ESP in war. So, once again, I ran away with 
+Gene.
+
+Snake: Then why did you end up betraying him?
+
+Elisa: It was the nukes... No one should ever be allowed to use nuclear 
+warheads. Not ever. I'm a victim of the atomic bomb, Snake. My parents 
+were nuclear physicists working in the Soviet Union. There was an 
+accident, at the Kyshtym facility, and they were killed int eh ensuing 
+explosion.
+
+Snake: Kyshtym... The nuclear disaster in the Ural Mountains.
+
+Elisa: Yes. And Ursula and I suffered the aftereffects. It still haunts 
+me in my dreams. I see my parents dying n the explosion. I see the 
+ashes of death falling from the sky. Soon afterwards we gained our 
+abilities. Right after we were sent back to our country.
+
+Snake: I've been exposed, too. The tests at Bikini Atoll...
+
+Elisa: I know. Somehow, I could tell.
+
+Snake: Is that why you saved me?
+
+Elisa: Perhaps. I think I probably wanted to leave some hope for the 
+future. With this body, I'll never be able to have children of my own. 
+So instead, I'm placing my hopes in you.
+
+Snake: Why me?
+
+Elisa: I just think you'll make a great father someday...
+
+Snake: Elisa, I'm sorry, but... I'll never be a father.
+
+(Snake and Elisa approach the perimeter of a large facility)
+
+Elisa: This is the place. We should be able to see the plant's location 
+from here. 
+
+Snake: So that's where they're storing Metal Gear?
+
+Elisa: I think so...
+
+Snake: Something's not right -- it's pretty late at night for them to 
+still be working. It might be worth checking out.
+
+Elisa: Right. And Null's still undergoing readjustment. With me gone, 
+it'll take a few days to get him prepped. Now's our chance.
+
+Snake: Then the only thing we have to look out for is Cunningham.
+
+Elisa: No. Gene is the one you should really be afraid of. The 
+Successor Project was designed to produce a battle commander capable of 
+commanding the Perfect Soldier. I've never actually seen Gene fight, 
+but I think his reflexes may even be faster than Null's. And his battle 
+technique is patterned after The Boss herself.
+
+Snake: Must have taken some guts to turn on him. Aren't you afraid?
+
+Elisa: Yes. But... I believe in you, Snake. My sister foresaw you 
+plunging the world into fear. I foresaw you stopping Metal Gear. It was 
+the first time in our lives our visions weren't one and the same. I 
+believe in you.
+
+Snake: We'd better get back. Once we catch our breath, we're heading 
+straight for the plant.
+
+(End Cutscene)
+
+STAGE SELECT
+
+Campbell: Everybody, Snake is back! And he's still in one piece. 
+
+Snake: Thanks everyone for the rescue effort. 
+
+Campbell: Hey, forget about it. No need to thank us. We're just glad to 
+have you back. 
+
+Snake: ...
+
+Campbell: And to top it off, I've got some more good news. Thanks to 
+the info passed to us by the dame... I mean Elisa, we've finally 
+discovered the whereabouts of Metal Gear. It's being loaded with 
+nuclear warheads in the plant right now, and is in an extremely 
+vulnerable state. This could be our one and only chance to mount an 
+assault. 
+
+Snake: Exactly. We need to infiltrate that plant NOW.
+
+Campbell: Right. Let's get going.
+
+PLANT
+
+[CALL]
+
+Campbell: OK, this is it everybody. At this moment, they're loading the 
+nuclear warheads onto Metal Gear inside the plant. Security is 
+extremely tight... No surprises there. This thing is Gene's trump card. 
+But look at it this way: if we destroy Metal Gear, we win - a powerful 
+asset in clearing Snake's name of any involvement in the rebellion. 
+Find a way to get close to Metal Gear, and stay out of sight. It's 
+showtime!
+
+(Graphic Novel Cutscene)
+
+(Snake and Elisa stand before Metal Gear)
+
+Snake: So this is Metal Gear...
+
+Elisa: OK, let's hurry up and plant these bombs.
+
+(Helicopters suddenly descend from the sky and land, heralding a 
+platoon of soldiers being led by Gene.)
+
+Gene: You're not getting away from me this time, Snake.
+
+Snake: Gene!
+
+(Snake and Elisa are held at gunpoint by Gene's men. The Metal Gear 
+begins to move.)
+
+Snake: Metal Gear!
+
+Elisa: But who...?
+
+(The Metal Gear aims and fires on Gene and his men, killing everyone in 
+Gene's vicinity except Gene himself, who avoids the bullets without 
+appearing to move. The man inside Metal Gear is Colonel Skowronski.)
+
+Skowronski: Missed... But what power... With this weapon, no one will make 
+an exile of me. Watch you worthless turncoats! Watch as I teach this 
+rabble-rouser a lesson! Get out, you intruders. This base is mine!
+
+Snake: It's him...
+
+Elisa: Colonel Skowronski!?
+
+(Metal Gear's guns abruptly halt.)
+
+Skowronski: Damn it! Why? Why won't it move?!
+
+(Snake dashes across the field up to Gene and quickly holds him at 
+gunpoint.)
+
+Snake: Freeze, Gene. Kind of an anticlimactic way to end it, huh? 
+That's your trump card? Tell your men to throw down their weapons.
+
+(Gene laughs.)
+
+Gene: Trump card?  You certainly put on a great sideshow, Snake. Even I 
+didn't see Skowronski coming. As a token of my appreciation, allow me 
+to share with you my true trump card.
+
+Snake: What?
+
+Gene: Wake up, Ursula!
+
+(Elisa freezes and begins to struggle immensely. Unearthly sounds begin 
+to resonate in the air.)
+
+Snake: Elisa!?
+
+Elisa: No... Ursula, don't! Snake, shoot me!
+
+Snake: ...Elisa? What are you talking about!?
+
+Elisa: Hurry, Snake! You have to shoot me before Ursula awakens! Shoot 
+now! If you don't... I'll... I'll...
+
+(Elisa screams.)
+
+Ursula: I'll kill you, Snake. Kill you before you spawn your accursed 
+snake children.
+
+(Snake is struck by a mysterious force, knocking him to the ground.)
+
+Snake: Psychokinesis...
+
+Gene: Urusla and Elisa were originally one personality. But in the 
+process of artificially augmenting her mental powers, they split into 
+two. Ursula gained the greater powers at the expense of her emotions. 
+That Metal Gear may only be an incomplete prototype, but dear Ursula 
+more than makes up for its shortcomings.
+
+(The Metal Gear roars to life again, screeching like an animal as it 
+does. Skowronski is thrown from the cockpit.)
+
+Snake: How does it move like that!? It's like it's not a machine at 
+all!
+
+(Ursula descends from the air into the cockpit.)
+
+Snake: Elisa! Stop!
+
+(End Cutscene)
+
+(after defeating Metal Gear)
+
+(Graphic Novel Cutscene)
+
+(Metal Gear begins to explodes. Ursula/Elisa screams.)
+
+Snake: Elisa! Get out of there!
+
+(The Metal Gear completely explodes and is destroyed.)
+
+Snake: Elisa... I'm sorry...
+
+Guard A: He beat Metal Gear...
+
+Guard B: Metal Gear, done in by a flesh-and-blood human being... So 
+that's Big Boss.
+
+Guard C: It's all over. Our nation will never be built...
+
+(Guards throw down their weapons.)
+
+Gene: Wonderful! Only you could have destroyed RAXA with Ursula at its 
+helm. I can see now why you caught Ocelot's eye.
+
+Snake: Major Ocelot from GRU? What does he have to do with this?
+
+(Gene laughs.)
+
+Gene: I like you, Snake. You're a fascinating man.
+
+Snake: Enough! It's over, Gene. I destroyed your Metal Gear. You can't 
+blackmail the world with nuclear attack anymore. Give it up. You're 
+finished.
+
+Gene: You destroyed my Metal Gear? Why Snake, whatever do you mean?
+
+Snake: What?
+
+(Snake's radio rings. Snake answers.)
+
+Snake: ...Ghost? This isn't a good time.
+
+Ghost: Snake, it's not over! Not yet! That wasn't the ballistic launch 
+Metal Gear. That was Metal Gear RAXA, produced for performance 
+evaluation. It was a test model! 
+
+Snake: Test model?
+
+(Ghost has been emerging in person as he talks. It soon becomes 
+apparent that he is Sokolov, the rocket scientist from Metal Gear Solid 
+3)
+
+Snake: Sokolov! You're alive! Of course! So you're the Ghost. You 
+designed the Shagohod, so naturally you'd know about Granin's Metal 
+Gear too... That's why!
+
+Gene: Ah! So it was you who was feeding Snake information, Sokolov. Of 
+all people, I never thought you would betray me.
+
+Sokolov: ...Yes, you did rescue me from that prison camp in Russia. 
+Thanks for you, I was reunited with my family... for a little while, at 
+least. I will always be grateful to you for that... But launching Metal 
+Gear into Russia - that I cannot condone. I simply could not bear to 
+see my own creation turned against the Motherland.
+
+Gene: And so you collaborated with Snake? Sokolov, you designed the 
+world's first nuclear-armed tank... You're a rocket scientist. You 
+defected to the United States and participated in the development of 
+Metal Gear. Surely you must have known that one day it would be used 
+against the Soviet Union.
+
+(Sokolov is left speechless. Above, helicopters are transporting a 
+large machine - Metal Gear.)
+
+Snake: ...That's the real Metal Gear!?
+
+Gene: Yes. RAXA was a decoy. Ursula bought us plenty of time.
+
+Snake: Gene, stop!
+
+Gene: Shoot me if you like, Snake. But ask yourself this: are you 
+worthy enough to pull the trigger? You've inherited the title of Boss, 
+yet you've never stopped to think about the future you want to see!
+
+Snake: What?
+
+Gene (echoing intensely): Soldiers, hear my words! The Cold War will 
+soon be over. For the United States and the Soviet Union no longer have 
+the strength or authority to shape the world as they seem fit. Even as 
+America sinks deeper into the quagmire of the Vietnam War, her allies 
+in the West have achieved tremendous economic growth. And with the 
+collapse of its planned economy, Russia can no longer keep up with the 
+financial demands of her vast army.  But the end of the Cold War does 
+not mean that peace will follow. Freed from the domination of the 
+world's superpowers, nationalism will soon be the driving force behind 
+global politics. And the ever-widening gap between rich and poor will 
+fan the flames of hatred between nations. Nuclear weapons will slip 
+from the superpowers' grasp and spread throughout the world. Soon no 
+one will know when or where the nukes will come from. Today's ally may 
+be tomorrow's bitter enemy. Or worse - the time may come when soldiers 
+of the same country will kill their brothers -- just like you are now! 
+Who of you can say that tomorrow you won't be aiming your rifles at 
+your neighbors? Your comrades? Your families?
+
+Snake: Stop it, Gene!
+
+Gene (echoing): Is there no one who has a grudge against you? No one 
+who mocks you? No one who really needs you? Is there truly no one out 
+there who would kill you?
+
+(Sokolov places his hands on his head and screams)
+
+Snake: Knock it off, Gene!
+
+Gene: One of my men is standing amongst you right now. His instructions 
+are to kill you - for your betrayal. 
+
+Snake: He's lying! Don't listen to him!
+
+Soldier: He's going to kill us! He's going to kill us!
+
+Snake: Hey, get a hold of yourself! Snap out of it! 
+
+Gene: Your enemy is standing right beside you. Is it you...? Or perhaps 
+you...? This planet is like a giant bomb. See how easily it blows itself 
+to bits with a single nuclear warhead. Or rather, a single bullet. 
+(laughs) There he is... It's the enemy!
+
+(Gene throws a knife into a soldier in the crowd. The soldier falls, 
+shooting his rifle as he does and hits one of his comrades.)
+
+Soldier A: Who's shooting?! Who's shooting?!
+
+Soldier B: The bastard shot him!
+
+(Soldiers start shooting wildly at each other.)
+
+Snake: Stop! Cease fire!
+
+(Snake is shot in the arm.)
+
+Snake: Make it stop, Gene!
+
+Gene: If you want them to stop, then why not stop them yourself, Snake? 
+Metal Gear is ready to launch. I have no further need of this plant.
+
+Snake: So you'd kill your own men?!
+
+Gene: I don't have to kill anyone. These men are quite capable of doing 
+it themselves. Humans are fragile, foolish, violent creatures. See for 
+yourself, Snake. See what mankind truly is.
+
+Jonathan: Snake, look out!
+
+(Jonathan dives into the path of bullets meant for Snake and dies as he 
+is shot in the head. An image of Jonathan and Snake shaking hands is 
+shown, and then Snake cradles Jonathan's lifeless body in his hands 
+among all the other dead men. Snake screams.)
+
+(End Cutscene)
+
+STAGE SELECT
+
+JONATHAN has died.
+
+Campbell: So the Metal Gear you destroyed at the plant... It wasn't the 
+intercontinental ballistic unit we've been after. It was a performance 
+test model, RAXA. Gene managed to sneak the real ICBMG right out from 
+under our noses and move it to the nuclear launch silo. And judging 
+from the way he was talking, they've already finished arming it with 
+the nukes. We can't afford anymore setbacks. Concentrate the Spy Unit 
+on the Silo Entrance. Keep your eyes open for any information! We've 
+got to infiltrate the underground silo complex... 
+
+Snake: ...
+
+Campbell: Come on, Snake, cheer up... OK, maybe not.
+
+Snake: Sorry...
+
+(after sending a spy to the Silo Entrance and waiting half a day or 
+longer)
+
+A new report has arrived from the spy unit.
+
+(after selecting Silo Entrance report)
+
+SILO ENTRANCE
+-- TECHNICAL DOCUMENT OBTAINED
+"WE HAVE OBTAINED A TECHNICAL
+DOCUMENT BELIEVED TO BE A STRUCTURAL
+DIAGRAM OF THE GATE LEADING FROM THE
+ENTRANCE OF THE NUCLEAR LAUNCH SILO
+TO THE UNDERGROUND SILO COMPLEX."
+
+Campbell: After reviewing the technical documents our spies brought 
+back, we've discovered how to get into the underground silo complex. 
+The gate in front of the underground complex is impenetrable. There's 
+no way to get in through ordinary means. But the lock system uses an 
+electromagnet. If we could cut off the supply of power... The gate can be 
+unlocked manually until the auxiliary power comes on! In other words, 
+if we find the facility that supplies power to the silo and destroy it, 
+we can infiltrate the underground complex. The problem is figuring out 
+where the hell this power facility is. I wouldn't think it'd be that 
+far from the silo... At this point, we don't have any information 
+specifically pointing to its location. Looks like we'll have to 
+dispatch our spy unit. 
+
+(after sending a spy to the Ravine and waiting half a day or longer)
+
+A new report has arrived from the spy unit.
+
+(after selecting Ravine report)
+
+RAVINE - POWER SUBSTATION LOCATED
+"WE HAVE REPORTS OF A SUBSTATION NEAR
+THE RAVINE. THE EXACT LOCATION IS
+UNCLEAR, BUT IT APPEARS TO BE TO THE
+SOUTH OF THE RAVINE."
+
+Campbell: Reports coming in from our spy units suggest the existence of 
+a substation at the south end of the ravine on the east side of the 
+peninsula. Mounting a sabotage operation against this substation should 
+produce the effect we're looking for. The ravine runs in front of the 
+substation. The footing is treacherous, but it's the only way to get 
+there. 
+
+RAVINE
+
+[CALL]
+
+Campbell: The substation is south of the ravine. The footing there 
+isn't exactly stable, so watch your step. 
+
+(after reaching the goal)
+
+[CALL]
+
+Campbell: Looks like you've done it. Good work. We'll be waiting for 
+you back at the truck. Head back here ASAP.
+
+STAGE SELECT
+
+Campbell: Good. You've arrived at the substation. Now we've got to 
+destroy it... But first we need an idea of how it's laid out. We can't do 
+much with the amount of explosives we've got. If we want to stop the 
+flow of electricity at the source... We'll need to be a little more 
+clever about it. Our best bet is to target the switchboard. To do that, 
+we'll have to infiltrate the substation and identify the precise 
+location of the switchboard. Find the entrance to the substation and 
+make your way inside. Then search for the location of the switchboard.
+
+POWER SUBSTATION
+
+[CALL]
+
+Campbell: Given our limited amount of explosives, we've got to be 
+efficient. Let's hit 'em where it counts - the switchboard. Blow the 
+son of a bitch to smithereens.
+
+(after reaching the switchboard)
+
+[CALL]
+
+Campbell: OK. We've got the location of the switchboard. But there's no 
+point destroying it now. The gate would switch over to emergency power 
+in 5 minutes. What do we do now... First things first. Head back to the 
+truck. It's time for a powwow.
+
+STAGE SELECT
+
+Campbell: We made it to the switchboard, but even if we blew it up then 
+there's no way we'd make it to the underground silo entrance in 5 
+minutes. We need to use a time bomb. And with that in mind... We'll need 
+a detonation timer to pull this off. Our technical unit is in the 
+process of building one as we speak. That should get the job done.
+
+POWER SUBSTATION
+
+[CALL]
+
+Campbell: All right, everything's in place to plant the time bomb. Stay 
+focused. Screw up now, and we lose everything. Use caution in there, 
+but make sure you get the job done. 
+
+(after planting the time bomb on the switchboard)
+
+[CALL]
+
+Campbell: Nice work. We'll be waiting for you back at the truck.
+
+(Graphic Novel Cutscene)
+
+(Snake and his men are standing in front of a pile of corpses)
+
+Snake: They're all dead...
+
+(a slash and the sound of man screaming can be heard in the distance)
+
+Snake: Null!
+
+(Null is slicing through a group of Gene's soldiers)
+
+Soldier A: I didn't hear anything about using the Perfect Soldier, did 
+you!?
+
+Soldier B: He's supposed to be undergoing readjustments!
+
+(Null kills the remaining soldiers)
+
+Null: Where is he? Where is that man?
+
+(Null suddenly senses Snake behind him)
+
+Null: I found you. Tell me. Why are you still alive? I used to get 
+dreams... About my comrades... They'd come save me with strong arms and 
+laughing voices. When I woke up, I had nothing. No joy, no sorrow, no 
+hatred... No memory. When I wake up from the darkness, all I see are the 
+bodies of men I've killed, lying in front of me. My memory is riddled 
+with corpses. I know. Everybody dies. Crime, disease, accidents, war... 
+No matter how noble a person you are, no matter how good a soldier. 
+There are no exceptions. Even if I don't kill them, they die. This 
+world is full of death. And yet you won't be killed. Why? Why do you 
+still live? What do you hope to accomplish by living?
+
+(Null slashes at Snake)
+
+Snake: I know your name.
+
+Null: ...name...
+
+Snake: It was four years ago, in Mozambique. There was a child soldier 
+fighting with a guerrilla group in the struggle for independence. He 
+killed dozens of government soldiers with just a single knife. He'd 
+throw the enemy off guard with the innocent frankness of a young boy. 
+Then he'd prey on them with the cold cruelty of a hunter. He spoke a 
+little German so his enemies called him, "Frank Jaeger," the frank 
+hunter.
+
+Null: Frank Jaeger... ...my name...
+
+Snake: Don't do this. The strong arms... ...allies who will help you are 
+somewhere else.
+
+Null: No. I am the Perfect Soldier. Where I exist, there are no other 
+soldiers. So I don't need a name. I am Null. And when you're dead, I 
+can go back to being null!
+
+(after defeating Null)
+
+(Graphic Novel Cutscene)
+
+(Null is kneeling in front of Snake)
+
+Null: I remember now... Big Boss... Even then, you were the one who stopped 
+me. 
+
+(Null takes off his mask, revealing his face.)
+
+Null: I was raised by adults to be a tool of war. But you defeated me. 
+Watched over me.
+
+Snake: I'm sorry. I thought you'd have been safe at the rehab 
+facility... I had no idea they'd subject you to this. It had to be the 
+Philosophers...
+
+Null: It's OK, Big Boss. You help me fill the void inside.
+
+Snake: Let's get going. You're always there to save me. It's time to 
+blow this place.
+
+(Snake and Null leave together)
+
+(End Cutscene)
+
+STAGE SELECT
+
+Campbell: Null's assault may have thrown us for a loop, but we still 
+achieved our initial objective of planting a time bomb on the 
+substation. Now let's make our way to the silo entrance. Metal Gear is 
+almost within reach!
+
+SILO ENTRANCE
+
+[CALL]
+
+Campbell: We've just confirmed an explosion at the substation. The 
+power supply has already been cut off. Starting now, you have 5 minutes 
+to pass through the gate leading into the underground silo complex. 
+Screw up, and you're gonna have to blow up the substation again. So 
+make sure you do it right.
+
+STAGE SELECT
+
+Campbell: OK, somehow we made it inside the underground silo complex. 
+This is the home stretch. One more push and Metal Gear will be in our 
+grasp. Proceed into the complex, and don't let yourself be spotted by 
+any enemy patrols. Metal Gear is close. Don't let your guard down.
+
+SILO COMPLEX
+
+[CALL]
+
+Campbell: You're one last push away from Metal Gear. We don't know the 
+exact route to get into the Metal Gear launch silo, but it must be 
+connected to the underground complex somewhere. Keep going, and look 
+for a way into the silo. It's all riding on you. Good luck.
+
+(after reaching the goal)
+
+[CALL]
+
+Campbell: It seems the elevator is on the other side of that door... Hey, 
+you ready to roll? You sure you don't want to check your equipment?
+
+STAGE SELECT
+
+SILO COMPLEX
+
+[CALL]
+
+Campbell: This is Campbell. What's your status? You say there's a large 
+freight elevator? Bingo! That's it! That must be what they used to get 
+Metal Gear down to the silo. Wherever that elevator leads, that's where 
+you'll find Metal Gear. Take the elevator and go after Metal Gear!
+
+(Graphic Novel Cutscene)
+
+(The elevator ascends with Snake. After a moment, a hovering platform 
+arrives from the sky, being piloted by Lt. Cunningham.)
+
+Snake: Cunningham.
+
+Cunnigham; Glad you could make it, Snake. To be honest, I'm a bit 
+surprised. You've come much further than I'd expected. He was right 
+about you.
+
+Snake: ...He?
+
+Cunningham: But that no longer matters. You've got no reason left to 
+fight. Your mission is over, Snake.
+
+Snake: Mission? What are you talking about, Cunningham?
+
+(Cunningham laughs)
+
+Cunningham: All right, then, Snake, I'll explain it to you. I don't 
+answer to Gene.
+
+Snake: What...?
+
+Cunningham: The CIA may control FOX, but I don't answer to them, 
+either. My employer is the U.S. Department of Defense. 
+
+Snake: What do you mean?
+
+Cunningham: Everything you've seen so far -- Surely you know the CIA 
+and the Pentagon aren't on the best of terms?
+
+Snake: You're talking about a fight over budget?
+
+Cunningham: No, not that. The Bay of Pigs Invasion in 1961... The covert 
+ops in North Vietnam - the influence of the CIA in America's military 
+affairs grows with each passing year. The Pentagon brass started to 
+feel threatened. And then they found out about the Metal Gear project. 
+They enlisted Gene, FOX Unit's commanding officer, and had him steal it 
+before it could be handed over to the Russians. What do you think would 
+happen if Gene were to launch Metal Gear into the Soviet Union? The 
+CIA'd lose face, and the military's influence would immediately start 
+to soar.
+
+Snake: You were trying to get Gene to use the nukes on purpose? Are you 
+out of your mind? You'd start an all-out nuclear war!
+
+Cunningham: Wrong again, Snake. Gene is just a renegade. And the 
+Russians are the ones who built this base. The fundamental design for 
+Metal Gear and the nukes it carries are Russian-made. And you blame 
+Washington? Besides, there'll be no evidence left behind, anyway. See 
+this, Snake?
+
+(A large, familiar weapon glimmers in Cunningham's grasp)
+
+Snake: A Davy Crockett!?
+
+Cunningham: Exactly. A miniature nuclear warhead. But this one is 
+Soviet-made. After Gene launches Metal Gear, I'll obliterate this base. 
+Not a single blade of grass will be left behind.
+
+Snake: What are you going to do with the other soldiers?
+
+Cunningham: Those Red Army rebels? What do you care? They're our 
+enemies!
+
+(Cunningham laughs)
+
+Cunningham: But you're different, Snake. You carried out your mission 
+well. You followed the script he and the Pentagon wrote for you to the 
+letter. 
+
+Snake: Script?
+
+Cunningham: Do you want to know the real reason you were sent here? 
+Because we knew you'd throw a wrench into Gene's plans. We needed 
+someone to sneak into enemy territory alone, recruit the rebels to his 
+side, and leave Gene with no choice but to launch Metal Gear. The only 
+soldier who could pull it off was you. The legendary hero, Big Boss. 
+And sure enough, that's just what you've done. Now you've done quite 
+enough. We still need Gene to launch Metal Gear. It's part of the 
+Pentagon's plan. And we can't have you disrupting that, too. There's a 
+heliport on top of this base. Get on the chopper, Snake. Once Metal 
+Gear has been launched as planned, we'll take you back to the States. 
+After this place is nothing but cinders, you'll be a hero once again. 
+It won't be the CIA congratulating you, but you'll get over it. 
+
+(Snake draws his pistol at Cunningham)
+
+Cunningham: What do you think you're doing, Snake? Are you still 
+blinded by your loyalty to the CIA? What has the CIA ever done for us 
+in FOX? They sent us on the most brutal missions. And when I came back 
+wounded, they shuffled me to a desk job. They did the same to you, too. 
+They cast your mentor - the mother of our Special Forces - out into a 
+foreign land and left her there to die!
+
+(Snake's aim is unwavering)
+
+Cunningham: Don't tell me you're doing it for the Russian soldiers 
+here. Pathetic fool. Go to the heliport, Snake. I'm not letting you 
+through. Go back.
+
+(A still frame of Jonathan, Roy Campbell, and Elisa)
+
+Snake: I can't let you use Metal Gear. I'm doing this out of loyalty to 
+myself. I'm not going to live my life the way The Boss did!
+
+(Cunningham laughs)
+
+Cunningham: Have it your way. Now you're a real traitor!
+
+(End Cutscene)
+
+(after defeating Cunningham)
+
+(Graphic Novel Cutscene)
+
+(Explosions rock Cunningham's hovering platform)
+
+Cunningham: Why, Snake...? If you'd just gone home to America, you and I 
+would have been given the highest honors a soldier can achieve. And 
+now... look what you've done. But I'm not going to die alone. I'm taking 
+you with me!
+
+(Cunningham readies the Davy Crockett)
+
+Snake: Cunningham, no!
+
+(Cunningham laughs insanely, but just as he is about to push the button 
+his craft completely explodes. The Davy Crockett is thrown from the 
+wreckage toward Snake, and the hovering platform itself falls to land 
+and is obliterated)
+
+(End Cutscene)
+
+STAGE SELECT
+
+Campbell: This is it, boys. Metal Gear should be at the end of that 
+elevator. Judging from how long it took us to get here, launch 
+preparations are almost complete. We cannot let them launch that 
+monster. If Metal Gear is launched, it'll mean the end of the world as 
+we know it. We must prevent that launch at all costs. Use any means 
+necessary to make sure Metal Gear doesn't get out of the silo.
+
+LAUNCH CONTROL ROOM
+
+(Graphic Novel Cutscene)
+
+(Snake enters the Metal Gear launch control room. Gene is standing over 
+a group of dead men.)
+
+Gene: Nice of you to join us, Snake. 
+
+Snake: These are the Metal Gear engineers! You killed them!
+
+Gene: No. They killed themselves. They all despaired of their crimes 
+and decided to die.
+
+Snake: Crimes? You mean the fact that this is all a Pentagon 
+conspiracy?
+
+Gene: Conspiracy? I see. Cunningham must have spilled his guts. The 
+poor fool. He died never realizing he was only a puppet after all...
+
+Snake: Aren't you the puppet, Gene? The Pentagon was trying to get rid 
+of the CIA.
+
+Gene: Wrong. I've known everything from the very start. The Pentagon's 
+plans... that Cunningham would betray me... Everything. I simply used it to 
+my own advantage, for my real plan.
+
+Snake: Real plan?
+
+Gene: I won't be launching Metal Gear into the Soviet Union.
+
+Snake: What?
+
+Gene: The Pentagon must have been prepared for the possibility that 
+Cunningham might fail to erase the evidence. They're probably in 
+negotiations with the Red Army as we speak. Even if I launched Metal 
+Gear into Russia now, it wouldn't trigger a war.
+
+Snake: If Russia isn't the target? Then... ...what is?
+
+Gene: Virginia, U.S.A. ...The CIA headquarters at Langley and the 
+Pentagon, the Philosophers' twin lairs will be obliterated.
+
+Snake: You're launching a nuclear strike against America!? But if you 
+do that...
+
+Gene: Chaos will be created on an unprecedented scale. Worst case 
+scenario: America ceases to exist as a nation. The existing world order 
+crumbles. And Russia won't escape unscathed, either. Metal Gear will 
+have been launched from a Soviet nuclear missile base. Under a storm of 
+international criticism, the Warsaw Pact will lose its sway over the 
+Third World. It may even faced armed conflict with NATO.
+
+Snake: Why? Why would you do that?
+
+Gene: To free the world from the Philosophers' control. I'll create a 
+new global balance of power of my own design. My goal of building a new 
+nation of mercenaries with only the most capable soldiers is real. But 
+this peninsula is not the right place for it. Our nation will be an 
+organization of shadows, without shape or form. We will lurk deep 
+underground and intervene in conflicts all over the world. History will 
+be ours to control. I will accomplish what the hollow shell of the 
+Philosophers could not with a superior breed of soldier. This 
+organization will be the true "peninsula of the dead". I call it 
+"Army's Heaven."
+
+Snake: Army's Heaven...
+
+Gene: I will not allow the world to be a playground for abstract 
+national interest and petty political gambits. I will use superior 
+force of arms to achieve superior force of will. Thus I will make the 
+world whole again. For I am the Successor, and this is my calling.
+
+Snake: You're nothing but a dictator!
+
+Gene: What?!
+
+Snake: You use fear to keep your soldiers in line. You use words to 
+deceive your allies. You exploit those who look up to you as a mentor 
+and then you throw them away! The country you're building is no heaven 
+for soldiers. The place they're looking for is outside your "heaven."
+
+Gene: Open your eyes, Snake. This is our calling. It's all part of a 
+greater mission. Compared to this calling, the individual wills of 
+individual soldiers are meaningless. Those who have no calling must be 
+given one by those who do. They must follow the teachings of those with 
+a greater will.
+
+Snake: I suppose that'd be you?
+
+Gene: It is my calling. And I will bestow it upon others. The countless 
+masses with no wills of their own must devote their lives to a higher 
+cause.  They must give up their trivial lives, their petty contentment! 
+They must sacrifice all their energies to the cause - pour their feeble 
+lives into it. As The Boss once did.
+
+Snake: You're full of yourself, Gene. You're not worthy to speak of The 
+Boss.
+
+Gene: So... You never knew. Six years ago, during Operation Snake Eater, 
+Volgin launched an American nuclear missile at Sokolov's research lab. 
+This caused a change in plans, and the U.S. government had to 
+assassinate its own operative, The Boss, to prove its innocence. And 
+you were the assassin, Snake.
+
+(Snake is speechless)
+
+Gene: Do you really think Volgin committed that terrible crime of his 
+own will?
+
+Snake: What?
+
+Gene: It was all a setup from the very beginning. Volgin launching the 
+nuke... The Boss' death... Even your mission in Groznyj Grad, Snake! It was 
+all the work of your country and a single, deviously cunning 
+strategist.
+
+Snake: You're saying it was all a setup? By who!?
+
+Gene: The Boss gave up her life, even if someone else willed it. She 
+sacrificed her own life for her calling. It was a noble act.
+
+Snake: Answer me! Who set it up?!
+
+Gene: You don't need to know the answer. Snake, the only thing you need 
+is a calling. Your country can't save you. Neither can your old 
+teacher, nor your so-called friends. Join me, Jack. I will give you 
+your calling.
+
+Snake: I'll find my own. You and your phony ideals can go to hell!
+
+Gene: You are a soldier after all. It seems we'll never see eye to eye. 
+Well, then... The time for talk is over, Snake!
+
+(Snake points his weapon at Gene.)
+
+Snake: Stop!
+
+Gene: You're too late. All preparations for Metal Gear's launch are 
+complete.
+
+(Gene presses a button on the control panel. But as he does, the entire 
+panel suddenly shakes and explodes.)
+
+Gene: What the...! Who?! Ursula!
+
+(Elisa/Ursula ascends from outside the room, suspended in midair. The 
+observation panel is shattered via telekinesis and Elisa/Ursula enters)
+
+Gene: Stay out of my way, Ursula.
+
+Elisa/Ursula: Nuclear warheads must never be used. They are terrible 
+weapons. Everything dies. People... Animals... Trees... The earth... Even today 
+they suffer still. I know their pain. Their suffering. Their cries, 
+their hatred.
+
+Snake: Ursula? Or is it Elisa?
+
+(Gene throws a knife at Elisa/Ursula, but the blade is psychically 
+deflected inches from her face.)
+
+Gene: You read my thoughts, Ursula. I let down my mental defenses 
+thinking you were dead. But it's no use. You can read my mind, but you 
+can't keep up with my body!
+
+(Gene moves forward in an impossibly fast motion and plunges a knife 
+into Elisa/Ursula's chest.)
+
+Snake: Elisa!
+
+(Gene releases Elisa/Ursula and falls backward to the floor with a 
+sickening thud.)
+
+Gene: I'll have to find another way.
+
+Snake: Gene, stop!
+ 
+(Gene leaves. Snake cradles Elisa/Ursula in his arms.)
+
+Elisa/Ursula: Snake... They've already input the trajectory for Metal 
+Gear. There's a backup launch control in a nearby room... Gene is going 
+to use it... Stop him... 
+
+Snake: I will. Don't try to talk.
+
+Elisa/Ursula: Don't worry... I'm OK... Snake... Ohh...Snake...
+
+(As Elisa/Ursula talks, scenes from the Metal Gear Solid series, 
+including Metal Gear Solid 4, are shown. The scenes include Solid 
+Snake, Metal Gear REX, Raiden in his MGS4 cyborg ninja attire, Solidus 
+Snake, another Metal Gear, and Big Boss as an old man.)
+
+Elisa/Ursula: The futures we saw were one and the same. Snake... You will 
+destroy Metal Gear... And you will create a new Metal Gear in its place... 
+Your children... Les Enfants Terribles... Snake... Your son will bring the 
+world to ruin... Your son... will save... the world.
+
+Snake: What are you trying to say, Elisa? Elisa!
+
+(Elisa dies. Snake stands mournfully over her lifeless body.)
+
+(End Cutscene)
+
+(Graphic Novel Cutscene)
+
+(Snake enters the backup launch control room. Gene is standing over a 
+control panel)
+
+Gene: This is the end, Snake. Metal Gear has already entered launch 
+mode. Trajectory calculations and target locations have been set. No 
+one can stop it now. Not even you, should you defeat me. But I know you 
+won't let me go without a fight. And I, too, have a reason to fight 
+you. To prove who I really am! Let's find out who the true Successor 
+is, Snake! Let's finish this!
+
+(Gene turns to Snake and readies to fight)
+
+(End Cutscene)
+
+(after defeating Gene)
+
+(Graphic Novel Cutscene)
+
+(Gene falls)
+
+Gene: I don't believe it... A product of the Successor Project... beaten by 
+a flesh-and-blood man like you. It seems that you are the true 
+successor of The Boss. That story about "soldier genes"... Perhaps it was 
+true after all. You are the true Successor...
+
+Snake: I don't know what you're babbling about, Gene. How do I stop 
+Metal Gear from launching?
+
+Gene: Don't bother... Once the launch countdown has started, there's no 
+way to stop it. Get out of here, Snake. 
+
+(Gene tosses Snake a microfilm)
+
+Gene: And take this with you.
+
+Snake: What's this?
+
+Gene: The equipment, personnel, and funds I amassed in secret to build 
+Army's Heaven. All the data is stored on that film. No one else knows 
+about it.
+
+Snake: Why are you giving me this?
+
+Gene: Because you and I are the same. Some day, you'll be glad you have 
+it... The one who fights and survives must carry on the legacy. Such is 
+our fate. Go, Snake. I've said everything I need to. You are the one 
+who will inherit my genes. You are the true successor. Be loyal to 
+yourself... Go forth. And find your own calling.
+
+(Gene slumps over.)
+
+Snake: Gene!
+
+(The silo begins to open up as the rocket and Metal Gear are primed for 
+launch. Snake's radio rings)
+
+Snake: Sokolov, do you read me? The countdown for Metal Gear has 
+started! The control panel is locked out and won't respond. How do I 
+stop it?
+
+Sokolov: I can see from here that the control circuit has been locked. 
+But Metal Gear's solid rocket motor doesn't have a post-ignition fuel 
+control mechanism. Once it goes into launch mode, there is no way to 
+stop it!
+
+Snake: I don't care if I have to destroy this whole base, as long as it 
+stops the nuke!
+
+ Sokolov: If you can dismantle the Metal Gear unit itself before 
+ignition, you may have a chance...
+
+Snake: The Metal Gear unit? You mean that thing that's attached to the 
+missile warhead?
+
+Sokolov: Metal Gear is no mere nuclear missile. It is jettisoned from 
+the booster at 3000 feet above the target and parachutes down to the 
+ground. After that, it launches its payload of miniature nuclear 
+warheads. By destroying the Metal Gear unit before takeoff, you can 
+prevent a nuclear strike even if you can't prevent the launch. However, 
+the Metal Gear's designers anticipated this, gave it armor thicker than 
+a tank's. And should the rocket itself be damaged, the entire silo 
+could explode!
+
+Snake: Looks like I'm about to be burnt to a crisp. But I can't sit 
+here and let the world be destroyed!
+
+Sokolov: Snake!
+
+(Snake sees the Metal Gear unit atop the rocket. A timer reads two 
+minutes to launch. Snake uses an RPG launcher and fires at the Metal 
+Gear. It makes a direct impact, but the Metal Gear is apparently 
+unharmed.)
+
+Snake: Damn! It's not working!
+
+(Automatic weapons are fired at the Metal Gear, the bullets mostly 
+bouncing off it. Snake looks up to see his fellow soldiers on a myriad 
+of catwalks, firing madly at the rocket.)
+
+Snake: What are you doing?! Those weapons won't do any good! Get out of 
+here before you're caught up in the blast and killed!
+
+Soldier A: You risked your life to save our Motherland! 
+
+Soldier B: Now it's our turn to defend your country!
+
+Soldier C: You've given us a real reason to fight, Big Boss!
+
+(Soldier gives Snake a thumbs up)
+
+Snake: All right...
+
+(The soldiers continue to fire as the rocket launches. Snake fires 
+another rocket-propelled grenade directly at the Metal Gear as the 
+rocket begins to take off, the blast of takeoff blowing him completely 
+off his feet.)
+
+Sokolov: Snake! Snake, do you read me? Metal Gear... Metal Gear its on 
+its way!
+
+(The rocket enters the second stage as it leaves the atmosphere. 
+However, Metal Gear loses its structural integrity soon afterward and 
+begins to fall apart, heralding a flurry of explosions)
+
+Sokolov: You did it, Snake. You succeeded in destroying Metal Gear! 
+Metal Gear has deviated from its course and is in free fall. Sensors 
+show that the nuclear warhead launch tubes have been shut. Well done, 
+Snake! (pause) Snake...?
+
+(The scene shifts to a sterile looking building where three men are 
+walking through a hallway. In a dark corner is a man in a suit twirling 
+a revolver. This is Ocelot.)
+
+Ocelot: Impressive. I never imagined they'd have a facility like this 
+right underneath the CIA. Back when FOX was around, I wouldn't have 
+been able to sneak down here. I've been sent to meet you, Mr. Director.
+
+DCI: And who are you?
+
+Ocelot: My name is ADAM. Remember me now? At last, we meet in person. 
+
+DCI: ADAM... The triple spy for the Philosophers. So you're Ocelot... You 
+say you're here to meet me?
+
+Ocelot: That's right. We confirmed that Metal Gear entered launch mode. 
+The first wave of nukes should arrive here within thirty minutes.
+
+DCI: I'm aware of that. I'm heading for the shelter as soon as I can. 
+But I can't leave these documents here.
+
+Ocelot: Documents? Related to the Philosophers?
+
+DCI: Yes. A list of members, along with data, locations of portions of 
+the Legacy stashed around the world. So long as we have these - even if 
+the United States does perish in an atomic storm - the Philosophers 
+will be born again.
+
+Ocelot: Splendid. That's exactly what I wanted to hear.
+
+(Ocelot shoots the men accompanying the DCI.)
+
+DCI: What the hell are you doing?! You're not planning to betray the 
+Philosophers, are you?
+
+Ocelot: Betray? No, I'm not going to betray them. I'm going to end 
+them! Then we'll take back what you stole from us. We will carry on the 
+spirit of the true patriot. 
+
+DCI: The true patriot?
+
+Ocelot: It's all part of our plan to make the world she envisioned a 
+reality. And so I've come for the other half... of the Legacy!
+
+(Ocelot shoots the DCI. The next scene depicts a plane landing in the 
+United States. The plane opens to reveal Snake, who walks along the 
+tarmac in this next sequence)
+
+Campbell: Snake. I heard they gave you quite a welcome back home.
+
+Snake: Campbell... you healing up all right?
+
+Campbell: Yup. Nearly good as new. Can't wait to get out of here, 
+though - that nurse is an unholy terror. It's all your fault for 
+pushing a wounded man too hard.
+
+Snake: What about Frank, the child soldier from Mozambique?
+
+Campbell: He's alive, though he's a mess both mentally and physically. 
+I guess he'll be in the hospital for a while. After that, I don't know. 
+He may never be able to go back to leading a normal life. So I hear 
+they did a cover-up job on FOX's rebellion?
+
+Snake: ...Yeah. They're saying I was sent out to take down a Soviet 
+Missile base... That's it.
+
+Campbell: Can't say I blame them. After all, how do you share the news 
+that the U.S. homeland was facing nuclear attack? Don't beat yourself 
+up over this, Snake. You did your country a great service. You deserve 
+that medal. No one knows that better than you and I.
+
+Snake: Yeah...
+
+(Soldier prisoners from the San Hieronymo Peninsula are shuffled out of 
+a plane onto the tarmac. The soldiers see Snake and salute. Snake 
+salutes in turn.)
+
+Campbell: So what will you do now, Snake?
+
+Snake: I don't know. But I realized something.
+
+Campbell: What's that?
+
+Snake: I'm not living unless I'm in battle. So I have to find my own 
+reason to fight. I have to pass on what's been handed down to me...
+
+Campbell: Take care, Snake. We'll meet again someday.
+
+(Snake receives official-looking papers with an insignia on them. The 
+scene then shifts to Snake at his apartment on the phone with Campbell. 
+The papers rest on the nightstand beside the phone.)
+
+(End Cutscene)
+
+"Calling to the Night" plays as the credits roll, followed by the Metal 
+Gear Solid: Portable Ops theme.
+
+(a phone ring is heard, followed by footsteps and an answer)
+
+Ocelot: Well, I'll be damned. So it was you who was feeding me 
+information. (pause) Yes, the DCI's death should pass as suicide. 
+They'll claim he did it because he felt responsible for the theft of 
+Metal Gear. We can look forward to a major shake-up on the seventh 
+floor at Langley shortly. It looks as if everything is going exactly 
+the way you wanted it. (pause) When the DCI saw the trajectory data you 
+supplied and found out that he was the target of the nuclear strike, he 
+brought the Philosophers' documents right to me. (pause) Yes, we should 
+have known Gene was serious about launching those nukes... Seems our 
+insurance policy came in handy after all. He did quite well... And now 
+I've got the Legacy. Is that all part of your script, too? Using him 
+and the FOX Unit like that... Only you could have pulled it off. But... You 
+won't be using me anymore... (pause) ...Battle data... ...from the Perfect 
+Soldier? (pause) Genes... genome... (pause) ...I see... Intriguing... I'll help 
+you with the project. But on one condition... I want him to join us. 
+(pause) Yes, Big Boss... So that we can become the Patriots.
+
+(click)

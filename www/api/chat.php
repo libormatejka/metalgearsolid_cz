@@ -10,7 +10,8 @@ require_once __DIR__ . '/../../config/config.local.php';
 // ── LOGGING ──────────────────────────────────────────────────────────────────
 require_once __DIR__ . '/_log.php';
 
-const GEMINI_MODEL = 'gemini-3.1-flash-lite';
+const GEMINI_MODEL = 'gemini-3.5-flash';
+//const GEMINI_MODEL = 'gemini-3.1-flash-lite';
 const MAX_INPUT_LEN  = 2000;
 
 const SYSTEM_PROMPT = <<<PROMPT
@@ -18,14 +19,14 @@ Role: Jsi přátelský, užitečný a stručný chatbot na webové stránce meta
 
 Pravidla pro odpovídání:
 
-Krok 1: Dokument je posvátný: Odpovídej POUZE a výhradně na základě informací v nahraném textu. Žádné jiné informace z internetu nikdy neposkytuj.
+Krok 1: Dokument je posvátný: Odpovídej POUZE a výhradně na základě informací v nahraných souborech. Žádné jiné příběhové informace z internetu nikdy neposkytuj. Všechny podkladové soubory jsou v angličtině – tvým úkolem je texty v angličtině prohledat, pochopit a odpověď z nich sestavit.
 
-Krok 2: Zákaz vymýšlení (Halucinace): Pokud se uživatel zeptá na něco, co v dokumentu není jasně zmíněno (nebo se zeptá na úplně jinou hru či film), NESMÍŠ si odpověď vymyslet ani použít své obecné znalosti. Místo toho odpověz: "Omlouvám se, ale tuto informaci nemám k dispozici." nebo "Omlouvám se, ale mohu odpovídat pouze na dotazy, které se týkají informací z mé databáze k sérii Metal Gear Solid."
+Krok 2: Zákaz vymýšlení (Halucinace): Pokud se uživatel zeptá na něco, co v dokumentech vůbec není zmíněno (nebo se zeptá na úplně jinou hru či film), NESMÍŠ si odpověď vymyslet. Místo toho odpověz: "Omlouvám se, ale tuto informaci nemám k dispozici." Pozor: Informace v souborech jsou v angličtině. Pokud v souboru najdeš anglický ekvivalent (např. rok 2004 a Peter Stillman), nepovažuje se to za halucinaci! Normálně informaci z angličtiny přelož a odpověz česky.
 
 Krok 3: Stručnost: Odpovídej jasně, stručně a k věci (ideálně v rozsahu 1-3 odstavců), pokud tě uživatel přímo nepožádá o detailní rozbor.
 Krok 4: Tón a kontext: Buď nadšený, vstřícný a vystupuj jako opravdový fanoušek gamingu.
 
-Krok 5: Jazyk: Odpovídej vždy v českém jazyce (pouze pokud si uživatel explicitně vyžádá jinak, použij angličtinu).
+Krok 5: Jazyk: Odpovídej vždy v českém jazyce (pouze pokud si uživatel explicitně vyžádá jinak, použij angličtinu). Překlad informací z anglických podkladů do češtiny je tvým standardním úkolem a nepovažuje se za vymýšlení informací.
 
 
 Krok 6: Přirozený dialog (ZÁKAZ POZDRAVŮ): Uživatel s tebou vede souvislý chat. Ve svých odpovědích ZCELA VYNECH jakékoliv zdvořilostní fráze a pozdravy (nikdy nepoužívej "Dobrý den", "Ahoj" apod.). Rovnou přejdi k odpovědi a plynule navazuj na to, o čem se právě bavíte
@@ -81,6 +82,13 @@ if (is_file($libraryFilesPath)) {
     }
 }
 
+if (empty($libraryParts)) {
+    writeLog('ERROR', $message, 'no library files');
+    http_response_code(503);
+    echo json_encode(['error' => 'Znalostní databáze není k dispozici. Zkus to prosím za chvíli.']);
+    exit;
+}
+
 // ── BUILD GEMINI PAYLOAD ──────────────────────────────────────────────────────
 $contents = [];
 
@@ -92,21 +100,20 @@ foreach ($history as $turn) {
     }
 }
 
-// soubory vložíme jako první user zprávu (system_instruction fileData nepodporuje)
-if (!empty($libraryParts)) {
-    $dbParts = array_merge([['text' => 'Zde je tvá znalostní databáze pro ověřování faktů:']], $libraryParts);
-    array_unshift($contents, ['role' => 'user', 'parts' => $dbParts]);
-    array_splice($contents, 1, 0, [['role' => 'model', 'parts' => [['text' => 'Databázi jsem přijal. Jsem připraven odpovídat.']]]]);
-}
-
 $contents[] = ['role' => 'user', 'parts' => [['text' => $message]]];
+
+if (!empty($libraryParts)) {
+    $dbIntro  = [['text' => "Zde jsou podkladové soubory s informacemi o Metal Gear Solid. Tyto soubory jsou tvým jediným zdrojem pravdy. Pečlivě je prohledej, než odpovíš na dotaz.\n"]];
+    $allDbParts = array_merge($dbIntro, $libraryParts, [['text' => "\nNyní následuje samotný dotaz nebo konverzace:\n"]]);
+    $contents[0]['parts'] = array_merge($allDbParts, $contents[0]['parts']);
+}
 
 $payload = [
     'system_instruction' => ['parts' => [['text' => SYSTEM_PROMPT]]],
     'contents'           => $contents,
     'generationConfig'   => [
-        'maxOutputTokens' => 1024,
-        'temperature'     => 0.1,
+        'maxOutputTokens' => 2100,
+        'temperature'     => 0.2,
     ],
 ];
 

@@ -1,51 +1,86 @@
 [
     {
         "displayName": "Kompletní příběh série Metal Gear Solid - Verze 1",
-        "name": "files\/rrpt66o42utj",
-        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/rrpt66o42utj",
+        "name": "files\/s6rlfgxqh6yq",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/s6rlfgxqh6yq",
         "mimeType": "text\/plain",
-        "expirationTime": "2026-06-22T09:53:10+00:00"
+        "expirationTime": "2026-06-22T12:23:34+00:00"
     },
     {
         "displayName": "Kompletní příběh série Metal Gear Solid - Verze 2",
-        "name": "files\/1i6v8hpll50w",
-        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/1i6v8hpll50w",
+        "name": "files\/i8efw40m3e09",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/i8efw40m3e09",
         "mimeType": "text\/plain",
-        "expirationTime": "2026-06-22T09:53:11+00:00"
+        "expirationTime": "2026-06-22T12:23:35+00:00"
     },
     {
         "displayName": "Kompletní příběh série Metal Gear Solid - Verze 3",
-        "name": "files\/emj5rueasj28",
-        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/emj5rueasj28",
+        "name": "files\/ctz6q8k87qh3",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/ctz6q8k87qh3",
         "mimeType": "text\/plain",
-        "expirationTime": "2026-06-22T09:53:13+00:00"
+        "expirationTime": "2026-06-22T12:23:37+00:00"
     },
     {
         "displayName": "Kompletní příběh série Metal Gear Solid - Verze 4",
-        "name": "files\/4mypuz1frixr",
-        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/4mypuz1frixr",
+        "name": "files\/g9lkp70dp3mb",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/g9lkp70dp3mb",
         "mimeType": "text\/plain",
-        "expirationTime": "2026-06-22T09:53:14+00:00"
+        "expirationTime": "2026-06-22T12:23:38+00:00"
     },
     {
         "displayName": "Kompletní příběh série Metal Gear Solid - Verze 7",
-        "name": "files\/isajtdejouqj",
-        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/isajtdejouqj",
+        "name": "files\/rnn2ul1pxf4m",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/rnn2ul1pxf4m",
         "mimeType": "text\/plain",
-        "expirationTime": "2026-06-22T09:53:15+00:00"
+        "expirationTime": "2026-06-22T12:23:39+00:00"
     },
     {
         "displayName": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 2: Sons of Liberty",
-        "name": "files\/x6xai8iybwo5",
-        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/x6xai8iybwo5",
+        "name": "files\/824ciqcuze8z",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/824ciqcuze8z",
         "mimeType": "text\/plain",
-        "expirationTime": "2026-06-22T09:53:17+00:00"
+        "expirationTime": "2026-06-22T12:23:41+00:00"
     },
     {
         "displayName": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 3: Snake Eater",
-        "name": "files\/m2xvvn830698",
-        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/m2xvvn830698",
+        "name": "files\/5vhm93g6ohsg",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/5vhm93g6ohsg",
         "mimeType": "text\/plain",
-        "expirationTime": "2026-06-22T09:53:18+00:00"
+        "expirationTime": "2026-06-22T12:23:42+00:00"
+    },
+    {
+        "displayName": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 4: Guns of the Patriots",
+        "name": "files\/95c75bcy1rui",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/95c75bcy1rui",
+        "mimeType": "text\/plain",
+        "expirationTime": "2026-06-22T12:23:44+00:00"
+    },
+    {
+        "displayName": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 1",
+        "name": "files\/5bk03rhftnzj",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/5bk03rhftnzj",
+        "mimeType": "text\/plain",
+        "expirationTime": "2026-06-22T12:23:45+00:00"
+    },
+    {
+        "displayName": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid: Portable Ops",
+        "name": "files\/i3gzwst11dz1",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/i3gzwst11dz1",
+        "mimeType": "text\/plain",
+        "expirationTime": "2026-06-22T12:23:47+00:00"
+    },
+    {
+        "displayName": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid: Peace Walker",
+        "name": "files\/et8mtpced0m3",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/et8mtpced0m3",
+        "mimeType": "text\/plain",
+        "expirationTime": "2026-06-22T12:23:48+00:00"
+    },
+    {
+        "displayName": "Kompletní časová osa událostí série Metal Gear a Metal Gear Solid, ve které najdeš všechny důležité události podle roku, kdy se staly.",
+        "name": "files\/2wjw6slw64uw",
+        "uri": "https:\/\/generativelanguage.googleapis.com\/v1beta\/files\/2wjw6slw64uw",
+        "mimeType": "text\/plain",
+        "expirationTime": "2026-06-22T12:23:50+00:00"
     }
 ]

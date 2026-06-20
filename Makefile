@@ -130,8 +130,16 @@ upload-library:
 	docker-compose --project-name collectorboycz -f .docker/docker-compose.yml exec php php /srv/tools/upload-library.php
 
 .PHONY: upload-library\:force
-upload-library\:force:
+upload-library\:force: purge-library
 	docker-compose --project-name collectorboycz -f .docker/docker-compose.yml exec php php /srv/tools/upload-library.php --force
+
+.PHONY: purge-library
+purge-library:
+	docker-compose --project-name collectorboycz -f .docker/docker-compose.yml exec php php /srv/tools/purge-library.php
+
+.PHONY: list-files
+list-files:
+	docker-compose --project-name collectorboycz -f .docker/docker-compose.yml exec php php /srv/tools/list-files.php
 
 # Deployment
 .PHONY: deploy-test

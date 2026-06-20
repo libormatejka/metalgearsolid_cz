@@ -1,4 +1,8 @@
-[
+[ 
+    {
+        "file": "../library/Timeline/timeline.txt",
+        "description": "Kompletní časová osa událostí série Metal Gear a Metal Gear Solid, ve které najdeš všechny důležité události podle roku, kdy se staly."
+    },
     {
         "file": "../library/Lore/Lore_01.txt",
         "description": "Kompletní příběh série Metal Gear Solid - Verze 1"
@@ -24,8 +28,24 @@
         "file": "../library/Transcript/MGS2.txt",
         "description": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 2: Sons of Liberty"
     },
-     {
+    {
         "file": "../library/Transcript/MGS3.txt",
         "description": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 3: Snake Eater"
+    },
+    {
+        "file": "../library/Transcript/MGS4.txt",
+        "description": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 4: Guns of the Patriots"
+    },
+    {
+        "file": "../library/Transcript/MGS1.txt",
+        "description": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 1"
+    },
+    {
+        "file": "../library/Transcript/MGS-PortableOps.txt",
+        "description": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid: Portable Ops"
+    },
+    {
+        "file": "../library/Transcript/MGS-PeaceWalker.txt",
+        "description": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid: Peace Walker"
     }
 ]

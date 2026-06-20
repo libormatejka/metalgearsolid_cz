@@ -9532,3 +9532,362 @@ Finished at [2026/06/20 11:54] (in 6 seconds)
 ----------------------------------------------
 
 
+Started at [2026/06/20 13:50]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+( 1 of 11) /config/payload-debug.json
+( 2 of 11) /config/library-files.json
+( 3 of 11) /config/library.json
+( 4 of 11) /library/Timeline/
+( 5 of 11) /library/Timeline/timeline.txt
+( 6 of 11) /library/Transcript/MGS-PortableOps.txt
+( 7 of 11) /library/Transcript/MGS-PeaceWalker.txt
+( 8 of 11) /library/Transcript/MGS4.txt
+( 9 of 11) /library/Transcript/MGS1.txt
+(10 of 11) /www/api/chat.php
+(11 of 11) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+( 1 of 10) Renaming /config/payload-debug.json
+( 2 of 10) Renaming /config/library-files.json
+( 3 of 10) Renaming /config/library.json
+( 4 of 10) Renaming /library/Timeline/timeline.txt
+( 5 of 10) Renaming /library/Transcript/MGS-PortableOps.txt
+( 6 of 10) Renaming /library/Transcript/MGS-PeaceWalker.txt
+( 7 of 10) Renaming /library/Transcript/MGS4.txt
+( 8 of 10) Renaming /library/Transcript/MGS1.txt
+( 9 of 10) Renaming /www/api/chat.php
+(10 of 10) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 13:50] (in 4 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 13:55]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 3) /config/payload-debug.json
+(2 of 3) /config/library-files.json
+(3 of 3) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 3) Renaming /config/payload-debug.json
+(2 of 3) Renaming /config/library-files.json
+(3 of 3) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 13:55] (in 0 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 13:58]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 2) /www/api/chat.php
+(2 of 2) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 2) Renaming /www/api/chat.php
+(2 of 2) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 13:58] (in 1 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 14:00]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 3) /config/payload-debug.json
+(2 of 3) /www/api/chat.php
+(3 of 3) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 3) Renaming /config/payload-debug.json
+(2 of 3) Renaming /www/api/chat.php
+(3 of 3) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 14:00] (in 0 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 14:52]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 5) /config/payload-debug.json
+(2 of 5) /config/library-files.json
+(3 of 5) /config/library.json
+(4 of 5) /www/api/chat.php
+(5 of 5) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 5) Renaming /config/payload-debug.json
+(2 of 5) Renaming /config/library-files.json
+(3 of 5) Renaming /config/library.json
+(4 of 5) Renaming /www/api/chat.php
+(5 of 5) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 14:52] (in 0 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 14:55]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 3) /config/payload-debug.json
+(2 of 3) /www/api/chat.php
+(3 of 3) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 3) Renaming /config/payload-debug.json
+(2 of 3) Renaming /www/api/chat.php
+(3 of 3) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 14:55] (in 1 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 15:00]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 2) /www/api/chat.php
+(2 of 2) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 2) Renaming /www/api/chat.php
+(2 of 2) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 15:00] (in 1 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 15:06]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 3) /config/payload-debug.json
+(2 of 3) /www/api/chat.php
+(3 of 3) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 3) Renaming /config/payload-debug.json
+(2 of 3) Renaming /www/api/chat.php
+(3 of 3) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 15:06] (in 0 seconds)
+----------------------------------------------
+
+
