@@ -1,0 +1,7 @@
+# Zakáže přímý přístup k .php souborům přes prohlížeč (jen přes AJAX POST)
+<Files "*.php">
+    Header set X-Content-Type-Options "nosniff"
+    Header always set Access-Control-Allow-Origin "https://metalgearsolid.cz"
+    Header always set Access-Control-Allow-Methods "POST"
+    Header always set Access-Control-Allow-Headers "Content-Type"
+</Files>

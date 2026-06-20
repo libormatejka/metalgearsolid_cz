@@ -1,0 +1,31 @@
+[
+    {
+        "file": "../library/Lore/Lore_01.txt",
+        "description": "Kompletní příběh série Metal Gear Solid - Verze 1"
+    },
+    {
+        "file": "../library/Lore/Lore_02.txt",
+        "description": "Kompletní příběh série Metal Gear Solid - Verze 2"
+    },
+    {
+        "file": "../library/Lore/Lore_03.txt",
+        "description": "Kompletní příběh série Metal Gear Solid - Verze 3"
+    },
+    {
+        "file": "../library/Lore/Lore_04.txt",
+        "description": "Kompletní příběh série Metal Gear Solid - Verze 4"
+    },
+    {
+        "file": "../library/Lore/Lore_07.txt",
+        "description": "Kompletní příběh série Metal Gear Solid - Verze 7"
+    }
+    ,
+    {
+        "file": "../library/Transcript/MGS2.txt",
+        "description": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 2: Sons of Liberty"
+    },
+     {
+        "file": "../library/Transcript/MGS3.txt",
+        "description": "Kompletní transcript (přepis dialogů) ze hry Metal Gear Solid 3: Snake Eater"
+    }
+]

@@ -124,6 +124,15 @@ diff:
 	git add migrations/*
 	make init
 
+# Library upload pro chatbota
+.PHONY: upload-library
+upload-library:
+	docker-compose --project-name collectorboycz -f .docker/docker-compose.yml exec php php /srv/tools/upload-library.php
+
+.PHONY: upload-library\:force
+upload-library\:force:
+	docker-compose --project-name collectorboycz -f .docker/docker-compose.yml exec php php /srv/tools/upload-library.php --force
+
 # Deployment
 .PHONY: deploy-test
 deploy-test:

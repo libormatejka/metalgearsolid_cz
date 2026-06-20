@@ -9053,3 +9053,482 @@ Finished at [2026/06/15 16:49] (in 0 seconds)
 ----------------------------------------------
 
 
+Creating temporary directory /tmp/deployment
+Started at [2026/06/20 11:01]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Test mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+/config/
+/config/library-files.json
+/config/config.local.php
+/library/
+/library/07.txt
+/library/04.txt
+/library/02.txt
+/library/01.txt
+/library/03.txt
+/www/chat.html
+/www/api/
+/www/api/chat.php
+/www/api/.htaccess
+/www/timeline.html
+/www/js/
+/www/js/snake-ai.js
+/www/index.html
+/.deployment
+
+Deleting:
+
+
+
+
+Finished at [2026/06/20 11:01] (in 0 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 11:01]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+( 1 of 18) /config/
+( 2 of 18) /config/library-files.json
+( 3 of 18) /config/config.local.php
+( 4 of 18) /library/
+( 5 of 18) /library/07.txt
+( 6 of 18) /library/04.txt
+( 7 of 18) /library/02.txt
+( 8 of 18) /library/01.txt
+( 9 of 18) /library/03.txt
+(10 of 18) /www/chat.html
+(11 of 18) /www/api/
+(12 of 18) /www/api/chat.php
+(13 of 18) /www/api/.htaccess
+(14 of 18) /www/timeline.html
+(15 of 18) /www/js/
+(16 of 18) /www/js/snake-ai.js
+(17 of 18) /www/index.html
+(18 of 18) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+( 1 of 14) Renaming /config/library-files.json
+( 2 of 14) Renaming /config/config.local.php
+( 3 of 14) Renaming /library/07.txt
+( 4 of 14) Renaming /library/04.txt
+( 5 of 14) Renaming /library/02.txt
+( 6 of 14) Renaming /library/01.txt
+( 7 of 14) Renaming /library/03.txt
+( 8 of 14) Renaming /www/chat.html
+( 9 of 14) Renaming /www/api/chat.php
+(10 of 14) Renaming /www/api/.htaccess
+(11 of 14) Renaming /www/timeline.html
+(12 of 14) Renaming /www/js/snake-ai.js
+(13 of 14) Renaming /www/index.html
+(14 of 14) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 11:01] (in 5 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 11:06]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 2) /www/js/snake-ai.js
+(2 of 2) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 2) Renaming /www/js/snake-ai.js
+(2 of 2) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 11:06] (in 0 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 11:28]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 9) /config/library-files.json
+(2 of 9) /config/chat.log
+(3 of 9) /library/Complete-MGS-ALL-Games-Story_07.txt
+(4 of 9) /library/Complete-MGS-ALL-Games-Story_01.txt
+(5 of 9) /library/Complete-MGS-ALL-Games-Story_02.txt
+(6 of 9) /library/Complete-MGS-ALL-Games-Story_04.txt
+(7 of 9) /library/Complete-MGS-ALL-Games-Story_03.txt
+(8 of 9) /www/api/chat.php
+(9 of 9) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 9) Renaming /config/library-files.json
+(2 of 9) Renaming /config/chat.log
+(3 of 9) Renaming /library/Complete-MGS-ALL-Games-Story_07.txt
+(4 of 9) Renaming /library/Complete-MGS-ALL-Games-Story_01.txt
+(5 of 9) Renaming /library/Complete-MGS-ALL-Games-Story_02.txt
+(6 of 9) Renaming /library/Complete-MGS-ALL-Games-Story_04.txt
+(7 of 9) Renaming /library/Complete-MGS-ALL-Games-Story_03.txt
+(8 of 9) Renaming /www/api/chat.php
+(9 of 9) Renaming /.deployment
+
+Deleting:
+(1 of 5) Deleting /library/07.txt
+(2 of 5) Deleting /library/04.txt
+(3 of 5) Deleting /library/03.txt
+(4 of 5) Deleting /library/02.txt
+(5 of 5) Deleting /library/01.txt
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 11:28] (in 4 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 11:29]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 2) /www/api/chat.php
+(2 of 2) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 2) Renaming /www/api/chat.php
+(2 of 2) Renaming /.deployment
+
+Deleting:
+(1 of 1) Deleting /config/chat.log
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 11:29] (in 0 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 11:29]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+Already synchronized.
+
+
+
+Finished at [2026/06/20 11:29] (in 0 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 11:32]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 5) /www/api/_log.php
+(2 of 5) /www/api/chat.php
+(3 of 5) /www/api/log-error.php
+(4 of 5) /www/js/snake-ai.js
+(5 of 5) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 5) Renaming /www/api/_log.php
+(2 of 5) Renaming /www/api/chat.php
+(3 of 5) Renaming /www/api/log-error.php
+(4 of 5) Renaming /www/js/snake-ai.js
+(5 of 5) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 11:32] (in 0 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 11:33]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+Already synchronized.
+
+
+
+Finished at [2026/06/20 11:33] (in 0 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 11:35]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+(1 of 2) /www/api/_log.php
+(2 of 2) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+(1 of 2) Renaming /www/api/_log.php
+(2 of 2) Renaming /.deployment
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 11:35] (in 1 seconds)
+----------------------------------------------
+
+
+Started at [2026/06/20 11:54]
+Config file is /srv/deployment-prod.ini
+
+Deploying prod
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Loaded remote .deployment file
+Scanning files in /srv
+Ignoring ./CLAUDE.md                    
+Ignoring ./config/chat.log              
+Ignoring ./deployment                   
+Ignoring ./deployment-prod.ini          
+Ignoring ./.git                         
+Ignoring ./.claude                      
+Ignoring ./tools                        
+Ignoring ./.gitignore                   
+Ignoring ./.docker                      
+Ignoring ./Makefile                     
+Ignoring ./deployment-prod.log          
+Ignoring ./deploy                       
+
+Uploading:
+( 1 of 14) /config/library-files.json
+( 2 of 14) /config/library.json
+( 3 of 14) /library/Transcript/
+( 4 of 14) /library/Transcript/MGS2.txt
+( 5 of 14) /library/Transcript/MGS3.txt
+( 6 of 14) /library/Profiles/
+( 7 of 14) /library/Lore/
+( 8 of 14) /library/Lore/Lore_03.txt
+( 9 of 14) /library/Lore/Lore_07.txt
+(10 of 14) /library/Lore/Lore_04.txt
+(11 of 14) /library/Lore/Lore_01.txt
+(12 of 14) /library/Lore/Lore_02.txt
+(13 of 14) /www/api/chat.php
+(14 of 14) /.deployment
+Creating remote file .deployment.running
+
+Renaming:
+( 1 of 11) Renaming /config/library-files.json
+( 2 of 11) Renaming /config/library.json
+( 3 of 11) Renaming /library/Transcript/MGS2.txt
+( 4 of 11) Renaming /library/Transcript/MGS3.txt
+( 5 of 11) Renaming /library/Lore/Lore_03.txt
+( 6 of 11) Renaming /library/Lore/Lore_07.txt
+( 7 of 11) Renaming /library/Lore/Lore_04.txt
+( 8 of 11) Renaming /library/Lore/Lore_01.txt
+( 9 of 11) Renaming /library/Lore/Lore_02.txt
+(10 of 11) Renaming /www/api/chat.php
+(11 of 11) Renaming /.deployment
+
+Deleting:
+(1 of 5) Deleting /library/Complete-MGS-ALL-Games-Story_07.txt
+(2 of 5) Deleting /library/Complete-MGS-ALL-Games-Story_04.txt
+(3 of 5) Deleting /library/Complete-MGS-ALL-Games-Story_03.txt
+(4 of 5) Deleting /library/Complete-MGS-ALL-Games-Story_02.txt
+(5 of 5) Deleting /library/Complete-MGS-ALL-Games-Story_01.txt
+
+Cleaning temp/cache
+
+Deleting remote file .deployment.running
+
+
+
+Finished at [2026/06/20 11:54] (in 6 seconds)
+----------------------------------------------
+
+
